@@ -1,0 +1,277 @@
+---
+title: "Safe Water Access and Child Mortality: Data Cleaning"
+author:
+  - name: "Yvette Niyogitangaza"
+    affiliation: "Data Analyst"
+  - name: "Josiane Byukusenge"
+    affiliation: "Data Analyst"
+  - name: "Janviere Kakibibi"
+    affiliation: "Data Analyst"
+  - name: "Solange Dusabemariya"
+    affiliation: "Data Analyst"
+date: "2025-07-24"
+
+format:
+  html:
+    css: custom.css
+    theme: simple
+    page-layout: full
+    self-contained: true
+    code-fold: true
+    code-tools: true
+    code-block-bg: true
+    code-block-border-left: "#31BAE9"
+    number-sections: true
+    number-tables: true
+    toc: true
+    toc-location: left
+    toc-title: "Contents"
+
+jupyter:
+  kernelspec:
+    display_name: "Python 3"
+    language: python
+    name: python3
+---
+
+Access to safe drinking water, improved sanitation, and basic hygiene are fundamental human rights and essential indicators of public health and development. Despite global efforts, many low- and lower-middle-income countries still struggle to provide adequate Water, Sanitation, and Hygiene (WASH) services. The lack of access to clean water and sanitation facilities directly contributes to the prevalence of waterborne diseases and disproportionately impacts children under the age of five.
+
+This project investigates the relationship between WASH access and child mortality specifically under-5 mortality rates using data from low and lower-middle-income countries.
+
+
+## Imports the necessary Python libraries:
+- `pandas` (as `pd`) for data manipulation and analysis.
+- `numpy` (as `np`) for numerical operations.
+
+```{python}
+#iimport libraries
+import pandas as pd 
+import numpy as np
+```
+
+Loads the WASH (Water, Sanitation) access dataset from a CSV file named `wash_access.csv` into a DataFrame called `wash_df`. Then it displays the DataFrame to preview the data.
+
+```{python}
+wash_df = pd.read_csv('wash_access.csv')
+wash_df
+```
+
+Loads the child mortality dataset from a CSV file named `child.csv` into a DataFrame called `child_df`. It also displays the contents of `child_df` to understand its structure.
+
+```{python}
+child_df = pd.read_csv('child.csv')
+child_df
+```
+
+## Selects only the important columns from the `wash_df` DataFrame to focus the analysis on relevant information. The selected columns are:
+
+- `iso3`: Country code  
+- `country`: Country name  
+- `year`: Year of data  
+- `residence`: Urban or rural  
+- `improved_water_access`: Percentage of population with access to improved water  
+- `improved_sanitation_access`: Percentage of population with access to improved sanitation
+
+```{python}
+wash_df = wash_df[['iso3', 'country', 'year', 'residence',
+                 'improved_water_access', 'improved_sanitation_access']]
+wash_df
+```
+
+## Selects only the important columns from the child_df DataFrame to keep the data relevant for analysis. The selected columns are:
+
+iso3: Country code
+
+country: Country name
+
+year: Year of data
+
+under_5_mortality: Under-five mortality rate
+
+income_group: Country income classification
+
+region: Geographic region
+
+population_total: Total population
+
+gdp_per_capita_ppp: GDP per capita (PPP)
+
+population_rural_pct: Percentage of rural population
+
+population_urban_pct: Percentage of urban population
+
+```{python}
+child_df = child_df[['iso3', 'country', 'year', 'under_5_mortality',
+                 'income_group', 'region', 'population_total',
+                 'gdp_per_capita_ppp', 'population_rural_pct', 'population_urban_pct']]
+child_df
+```
+
+Checks if there are any rows in both wash_df and child_df where the 'year' column has the incorrect value 'year' (as a string). This helps identify and later remove possible formatting errors in the dataset.
+
+```{python}
+print(wash_df[wash_df['year'] == 'year'])
+print(child_df[child_df['year'] == 'year'])
+```
+
+-Filters out rows where the year column has the string 'year', removing invalid or header rows. Then shows the updated DataFrame.
+
+```{python}
+child_df = child_df[child_df['year'] != 'year']
+child_df
+```
+
+```{python}
+print(child_df[child_df['year'] == 'year'])
+```
+
+-Converts the year column in both wash_df and child_df to integer type for proper numeric operations.
+
+```{python}
+wash_df['year'] = wash_df['year'].astype(int)
+child_df['year'] = child_df['year'].astype(int)
+```
+
+-Merges wash_df and child_df on iso3, country, and year columns using a left join.
+
+```{python}
+merged_df = pd.merge(wash_df, child_df,
+                     on=['iso3', 'country', 'year'],
+                     how='left')
+print(merged_df.head())
+```
+
+-Shows the number of rows and columns in the merged_df DataFrame.
+
+```{python}
+merged_df.shape
+```
+
+-Displays a summary of merged_df, including data types, non-null counts.
+
+```{python}
+merged_df.info()
+```
+
+```{python}
+merged_df.columns
+```
+
+-Renames columns in merged_df for clarity and consistency.
+
+```{python}
+merged_df.columns = ['iso3', 'county', 'year', 'residence', 'improved_wat_%', 'improved_san_%', 'under_5_mortality_rates', 'income_group', 'region', 'total_population', 'gdp_per_capita_$', 'population_rural_%', 'population_urban_%']
+```
+
+-Displays the first 10 rows of the merged_df DataFrame.
+
+```{python}
+merged_df.head(10)
+```
+
+```{python}
+merged_df.columns
+```
+
+-Counts the number of missing (null) values in each column of merged_df.
+
+```{python}
+merged_df.isnull().sum()
+```
+
+-Fills missing values in specified columns with zeros for numeric data and 'Unknown' for categorical data to handle nulls.
+
+```{python}
+merged_df['under_5_mortality_rates'] = merged_df['under_5_mortality_rates'].fillna('0')
+merged_df['income_group'] = merged_df['income_group'].fillna('Unkown')
+merged_df['region'] = merged_df['region'].fillna('Unkown')
+merged_df['total_population'] = merged_df['total_population'].fillna('0')
+merged_df['gdp_per_capita_$'] = merged_df['gdp_per_capita_$'].fillna('0')
+merged_df['population_rural_%'] = merged_df['population_rural_%'].fillna('0')
+merged_df['population_urban_%'] = merged_df['population_urban_%'].fillna('0')
+```
+
+-Dealing with missing values
+
+```{python}
+merged_df.isnull().sum()
+```
+
+## Removing Duplicate
+
+Duplicates can distort statistical summaries and model performance. Using `.duplicated().sum()`, we count duplicate records.
+
+```{python}
+merged_df.duplicated().sum()
+```
+
+ -We can confirm that we have no duplicates left in the dataset at this juncture.
+
+```{python}
+merged_df.shape
+```
+
+-Checks which columns in merged_df have the data type object (usually strings).
+
+```{python}
+#| echo: false
+#| output: false
+merged_df.dtypes == object
+```
+
+-Saves merged_df to a CSV file named wash_mortality.csv without row indices, then displays the DataFrame.
+
+```{python}
+merged_df.to_csv('wash_mortality.csv', index=False)
+merged_df
+```
+
+-Displays all unique values in the income_group column of merged_df.
+
+```{python}
+print(merged_df['income_group'].unique())
+```
+
+```{python}
+filtered_df = merged_df[merged_df['income_group'].isin(['Low income', 'Lower-middle income'])]
+filtered_df
+```
+
+-Filters merged_df to keep only rows where income_group is either 'Low income' or 'Lower-middle income'.
+
+```{python}
+filtered_df = merged_df[merged_df['income_group'].isin(['Low income', 'Lower-middle income'])]
+filtered_df
+```
+
+-Counts missing values in each column of filtered_df.
+
+```{python}
+filtered_df.isnull().sum()
+```
+
+-Replaces missing values in the under_5_mortality_rates column with '0' in filtered_df.
+
+```{python}
+filtered_df['under_5_mortality_rates'] = filtered_df['under_5_mortality_rates'].fillna('0')
+```
+
+-Check if there is missing values
+
+```{python}
+filtered_df.isnull().sum()
+```
+
+-Check if there is duplicates
+
+```{python}
+filtered_df.duplicated().sum()
+```
+
+## Save Our csv file
+
+```{python}
+filtered_df.to_csv("filtered_income_countries.csv", index=False)
+filtered_df
+```
+

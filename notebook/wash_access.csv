@@ -1,0 +1,1519 @@
+iso3,country,year,residence,wat_sm,wat_bas,improved_water_access,san_sm,san_bas,improved_sanitation_access
+AFG,Afghanistan,2000,Urban,18.8,50.1,68.9,25.4,39.9,65.3
+AFG,Afghanistan,2000,Rural,5.6,14,19.6,7.3,13.7,21
+AFG,Afghanistan,2001,Urban,18.9,51.5,70.4,26,40.9,66.9
+AFG,Afghanistan,2001,Rural,6,15.6,21.6,7.9,14.8,22.7
+AFG,Afghanistan,2002,Urban,19,52.8,71.8,26.6,41.9,68.5
+AFG,Afghanistan,2002,Rural,6.4,17.2,23.6,8.4,15.8,24.2
+AFG,Afghanistan,2003,Urban,19,54.2,73.2,27.1,42.9,70
+AFG,Afghanistan,2003,Rural,6.9,18.8,25.7,9,16.8,25.8
+AFG,Afghanistan,2004,Urban,19.1,55.5,74.6,27.7,43.8,71.5
+AFG,Afghanistan,2004,Rural,7.3,20.5,27.8,9.5,17.8,27.3
+AFG,Afghanistan,2005,Urban,19.1,56.9,76,28,44.5,72.5
+AFG,Afghanistan,2005,Rural,7.7,22.3,30,10,18.5,28.5
+AFG,Afghanistan,2006,Urban,19.1,58.4,77.5,28.1,45,73.1
+AFG,Afghanistan,2006,Rural,8,24.1,32.1,10.2,19.1,29.3
+AFG,Afghanistan,2007,Urban,19.2,59.8,79,28.3,45.5,73.8
+AFG,Afghanistan,2007,Rural,8.3,26,34.3,10.3,19.6,29.9
+AFG,Afghanistan,2008,Urban,19.2,61.3,80.5,28.4,46,74.4
+AFG,Afghanistan,2008,Rural,8.5,28,36.5,10.5,20,30.5
+AFG,Afghanistan,2009,Urban,19.2,62.7,81.9,28.6,46.3,74.9
+AFG,Afghanistan,2009,Rural,8.7,30.4,39.1,10.6,20.3,30.9
+AFG,Afghanistan,2010,Urban,19.3,64.2,83.5,28.7,46.5,75.2
+AFG,Afghanistan,2010,Rural,8.9,33,41.9,10.7,20.6,31.3
+AFG,Afghanistan,2011,Urban,20,64.6,84.6,29.7,46.9,76.6
+AFG,Afghanistan,2011,Rural,9.9,35.6,45.5,11.5,21.3,32.8
+AFG,Afghanistan,2012,Urban,20.7,65.1,85.8,30.6,47.3,77.9
+AFG,Afghanistan,2012,Rural,11,38.2,49.2,12.3,22,34.3
+AFG,Afghanistan,2013,Urban,21.5,65.5,87,31.4,47.6,79
+AFG,Afghanistan,2013,Rural,12.2,40.9,53.1,13,22.7,35.7
+AFG,Afghanistan,2014,Urban,22.4,65.8,88.2,32.1,48,80.1
+AFG,Afghanistan,2014,Rural,13.5,43.6,57.1,13.7,23.3,37
+AFG,Afghanistan,2015,Urban,23.3,66.1,89.4,32.7,48.3,81
+AFG,Afghanistan,2015,Rural,14.8,46.3,61.1,14.2,24,38.2
+AFG,Afghanistan,2016,Urban,23.8,66.2,90,33,48.4,81.4
+AFG,Afghanistan,2016,Rural,15.6,48.2,63.8,14.6,24.5,39.1
+AFG,Afghanistan,2017,Urban,24.4,66.3,90.7,33.3,48.6,81.9
+AFG,Afghanistan,2017,Rural,16.4,50.1,66.5,15,25,40
+AFG,Afghanistan,2018,Urban,25,66.4,91.4,33.6,48.7,82.3
+AFG,Afghanistan,2018,Rural,17.2,52,69.2,15.4,25.5,40.9
+AFG,Afghanistan,2019,Urban,25.6,66.4,92,33.9,48.8,82.7
+AFG,Afghanistan,2019,Rural,17.9,53.8,71.7,15.7,26,41.7
+AFG,Afghanistan,2020,Urban,26.1,66.3,92.4,34.1,48.9,83
+AFG,Afghanistan,2020,Rural,18.7,55.3,74,16.1,26.4,42.5
+AFG,Afghanistan,2021,Urban,26.6,66.2,92.8,34.3,49.1,83.4
+AFG,Afghanistan,2021,Rural,19.8,56.2,76,16.3,26.7,43
+AFG,Afghanistan,2022,Urban,27,66.1,93.1,34.5,49.2,83.7
+AFG,Afghanistan,2022,Rural,18.9,57.1,76,16.5,26.9,43.4
+BGD,Bangladesh,2000,Urban,1.1,84.5,85.6,41.9,25.3,67.2
+BGD,Bangladesh,2000,Rural,0.2,76.1,76.3,13.6,15,28.6
+BGD,Bangladesh,2001,Urban,1.2,86.2,87.4,43.7,24.8,68.5
+BGD,Bangladesh,2001,Rural,0.2,78.2,78.4,15.6,16.1,31.7
+BGD,Bangladesh,2002,Urban,1.3,87.9,89.2,45.5,24.3,69.8
+BGD,Bangladesh,2002,Rural,0.3,80.4,80.7,17.5,17.2,34.7
+BGD,Bangladesh,2003,Urban,1.5,89.6,91.1,47.2,23.8,71
+BGD,Bangladesh,2003,Rural,0.4,82.5,82.9,19.5,18.3,37.8
+BGD,Bangladesh,2004,Urban,1.6,91.3,92.9,49,23.3,72.3
+BGD,Bangladesh,2004,Rural,0.4,84.6,85,21.5,19.4,40.9
+BGD,Bangladesh,2005,Urban,1.7,93,94.7,50.8,22.8,73.6
+BGD,Bangladesh,2005,Rural,0.5,86.7,87.2,23.4,20.5,43.9
+BGD,Bangladesh,2006,Urban,1.8,94.8,96.6,51.7,23.3,75
+BGD,Bangladesh,2006,Rural,0.6,88.9,89.5,25,21.8,46.8
+BGD,Bangladesh,2007,Urban,1.9,95.2,97.1,51.9,24.5,76.4
+BGD,Bangladesh,2007,Rural,0.7,91.2,91.9,26.5,23.2,49.7
+BGD,Bangladesh,2008,Urban,2,95.3,97.3,52.1,25.8,77.9
+BGD,Bangladesh,2008,Rural,0.8,93.4,94.2,28.2,24.6,52.8
+BGD,Bangladesh,2009,Urban,2.1,95.4,97.5,52.2,27.1,79.3
+BGD,Bangladesh,2009,Rural,0.9,95.5,96.4,29.9,25.9,55.8
+BGD,Bangladesh,2010,Urban,2.2,95.5,97.7,52.2,27.9,80.1
+BGD,Bangladesh,2010,Rural,0.6,96.6,97.2,24.1,26.9,51
+BGD,Bangladesh,2011,Urban,3.7,94.4,98.1,52.7,29.3,82
+BGD,Bangladesh,2011,Rural,1.8,96.1,97.9,26.7,29.3,56
+BGD,Bangladesh,2012,Urban,5.5,93,98.5,53.2,30.7,83.9
+BGD,Bangladesh,2012,Rural,3.1,95.5,98.6,29.4,31.7,61.1
+BGD,Bangladesh,2013,Urban,7.5,91.4,98.9,53.7,32,85.7
+BGD,Bangladesh,2013,Rural,4.7,94.7,99.4,32,34,66
+BGD,Bangladesh,2014,Urban,9.8,89.4,99.2,54.1,33.4,87.5
+BGD,Bangladesh,2014,Rural,6.4,93.6,100,34.7,36.4,71.1
+BGD,Bangladesh,2015,Urban,12.4,87.1,99.5,54.4,34.8,89.2
+BGD,Bangladesh,2015,Rural,8.4,92.4,100.8,37.3,38.8,76.1
+BGD,Bangladesh,2016,Urban,14.6,85.1,99.7,54.4,35.6,90
+BGD,Bangladesh,2016,Rural,10.1,91.2,101.3,38.6,40.1,78.7
+BGD,Bangladesh,2017,Urban,17,82.9,99.9,54.2,36.4,90.6
+BGD,Bangladesh,2017,Rural,11.9,89.9,101.8,39.9,41.4,81.3
+BGD,Bangladesh,2018,Urban,19.5,80.5,100,53.7,37.1,90.8
+BGD,Bangladesh,2018,Rural,13.8,88.3,102.1,41.1,42.6,83.7
+BGD,Bangladesh,2019,Urban,22.1,77.8,99.9,53.1,37.7,90.8
+BGD,Bangladesh,2019,Rural,15.9,86.6,102.5,42.2,43.8,86
+BGD,Bangladesh,2020,Urban,25,74.9,99.9,52.3,38.2,90.5
+BGD,Bangladesh,2020,Rural,18,84.7,102.7,43.2,44.9,88.1
+BGD,Bangladesh,2021,Urban,29,70.9,99.9,51.8,38.1,89.9
+BGD,Bangladesh,2021,Rural,20.4,82.6,103,43.6,45.4,89
+BGD,Bangladesh,2022,Urban,35.7,63.1,98.8,51.8,36.5,88.3
+BGD,Bangladesh,2022,Rural,16.5,83,99.5,37.8,43.7,81.5
+BOL,Bolivia,2000,Urban,44.7,41.6,86.3,21,36.5,57.5
+BOL,Bolivia,2000,Rural,2.7,50.7,53.4,0.8,13.8,14.6
+BOL,Bolivia,2001,Urban,45.9,41.3,87.2,21.6,36.3,57.9
+BOL,Bolivia,2001,Rural,4,53.2,57.2,2,15,17
+BOL,Bolivia,2002,Urban,47.1,41,88.1,22.3,36.1,58.4
+BOL,Bolivia,2002,Rural,5.4,55.7,61.1,3.2,16.2,19.4
+BOL,Bolivia,2003,Urban,48.4,40.7,89.1,22.9,35.9,58.8
+BOL,Bolivia,2003,Rural,6.9,58.2,65.1,4.5,17.4,21.9
+BOL,Bolivia,2004,Urban,49.6,40.4,90,23.5,35.7,59.2
+BOL,Bolivia,2004,Rural,8.5,60.7,69.2,5.7,18.6,24.3
+BOL,Bolivia,2005,Urban,50.8,40.1,90.9,24.1,35.5,59.6
+BOL,Bolivia,2005,Rural,10.1,63.2,73.3,6.6,19.4,26
+BOL,Bolivia,2006,Urban,51.7,39.9,91.6,24.6,35.4,60
+BOL,Bolivia,2006,Rural,11.3,64.1,75.4,7,19.8,26.8
+BOL,Bolivia,2007,Urban,52.6,39.7,92.3,25.1,35.3,60.4
+BOL,Bolivia,2007,Rural,12.5,65,77.5,7.4,20,27.4
+BOL,Bolivia,2008,Urban,53.6,39.5,93.1,25.6,35.1,60.7
+BOL,Bolivia,2008,Rural,13.8,65.6,79.4,7.7,20.2,27.9
+BOL,Bolivia,2009,Urban,54.6,39.3,93.9,26.1,35,61.1
+BOL,Bolivia,2009,Rural,15.1,65.9,81,8,20.3,28.3
+BOL,Bolivia,2010,Urban,55.7,39.1,94.8,26.7,39.2,65.9
+BOL,Bolivia,2010,Rural,16.5,66,82.5,8.2,20.5,28.7
+BOL,Bolivia,2011,Urban,56.8,38.1,94.9,28,38.8,66.8
+BOL,Bolivia,2011,Rural,18.9,65.2,84.1,9.6,21.3,30.9
+BOL,Bolivia,2012,Urban,58,37.1,95.1,29.3,38.4,67.7
+BOL,Bolivia,2012,Rural,21.4,64.4,85.8,11.1,22.1,33.2
+BOL,Bolivia,2013,Urban,59.1,36.2,95.3,30.5,38,68.5
+BOL,Bolivia,2013,Rural,24,63.5,87.5,12.7,22.9,35.6
+BOL,Bolivia,2014,Urban,60.2,35.2,95.4,31.8,37.6,69.4
+BOL,Bolivia,2014,Rural,26.7,62.5,89.2,14.3,23.7,38
+BOL,Bolivia,2015,Urban,61.3,34.2,95.5,33,37.2,70.2
+BOL,Bolivia,2015,Rural,29.4,61.6,91,16,24.5,40.5
+BOL,Bolivia,2016,Urban,62.2,33.5,95.7,33.5,37.1,70.6
+BOL,Bolivia,2016,Rural,30.9,61.1,92,17.2,25,42.2
+BOL,Bolivia,2017,Urban,63.1,32.8,95.9,34,37,71
+BOL,Bolivia,2017,Rural,32.4,60.6,93,18.4,25.5,43.9
+BOL,Bolivia,2018,Urban,64,32.1,96.1,34.4,36.9,71.3
+BOL,Bolivia,2018,Rural,33.5,60.3,93.8,19.6,26,45.6
+BOL,Bolivia,2019,Urban,64.9,31.4,96.3,34.7,36.9,71.6
+BOL,Bolivia,2019,Rural,34.4,60.2,94.6,20.8,26.5,47.3
+BOL,Bolivia,2020,Urban,65.5,31.9,97.4,34.8,37.7,72.5
+BOL,Bolivia,2020,Rural,35,60.1,95.1,21.5,26.9,48.4
+BOL,Bolivia,2021,Urban,66.1,32.2,98.3,34.9,38.4,73.3
+BOL,Bolivia,2021,Rural,35.4,60.1,95.5,22.1,27.3,49.4
+BOL,Bolivia,2022,Urban,66.6,31.7,98.3,41,41.4,82.4
+BOL,Bolivia,2022,Rural,35.9,60.1,96,22.6,27.6,50.2
+KHM,Cambodia,2000,Urban,18,66.9,84.9,32.4,26.7,59.1
+KHM,Cambodia,2000,Rural,1.8,40.1,41.9,4.6,17.4,22
+KHM,Cambodia,2001,Urban,18.5,67.1,85.6,33.7,26.9,60.6
+KHM,Cambodia,2001,Rural,2.4,41.8,44.2,5.7,18.3,24
+KHM,Cambodia,2002,Urban,19,67.3,86.3,35.1,27.1,62.2
+KHM,Cambodia,2002,Rural,3.1,43.5,46.6,6.9,19.2,26.1
+KHM,Cambodia,2003,Urban,19.5,67.5,87,36.4,27.3,63.7
+KHM,Cambodia,2003,Rural,3.8,45.2,49,8.2,20.1,28.3
+KHM,Cambodia,2004,Urban,20,67.7,87.7,37.8,27.6,65.4
+KHM,Cambodia,2004,Rural,4.5,46.9,51.4,9.5,21,30.5
+KHM,Cambodia,2005,Urban,20.5,67.9,88.4,39.1,27.8,66.9
+KHM,Cambodia,2005,Rural,5.2,48.6,53.8,10.9,21.9,32.8
+KHM,Cambodia,2006,Urban,21.2,68,89.2,40.3,28.1,68.4
+KHM,Cambodia,2006,Rural,6,50.1,56.1,12.2,22.7,34.9
+KHM,Cambodia,2007,Urban,22,68.1,80.1,41.6,28.4,69.9
+KHM,Cambodia,2007,Rural,6.9,51.5,58.4,13.5,23.5,37
+KHM,Cambodia,2008,Urban,22.7,68.1,80.8,42.8,28.7,71.5
+KHM,Cambodia,2008,Rural,7.8,52.9,60.7,14.8,24.3,39.1
+KHM,Cambodia,2009,Urban,23.5,68.2,81.7,44.1,29,73.1
+KHM,Cambodia,2009,Rural,8.8,54.1,62.9,16.1,25,41.1
+KHM,Cambodia,2010,Urban,24.3,68.2,82.5,45.3,29.4,74.7
+KHM,Cambodia,2010,Rural,6.9,52.3,59.2,16.2,23.2,39.4
+KHM,Cambodia,2011,Urban,25.3,66.8,82.1,48.2,29.1,77.3
+KHM,Cambodia,2011,Rural,8.8,53.1,61.9,19.3,24.4,43.7
+KHM,Cambodia,2012,Urban,26.3,65.4,81.7,51.1,28.8,79.9
+KHM,Cambodia,2012,Rural,10.7,53.9,64.6,22.4,25.6,48
+KHM,Cambodia,2013,Urban,27.3,64,81.3,54,28.5,82.5
+KHM,Cambodia,2013,Rural,12.8,54.7,67.5,25.7,26.8,52.5
+KHM,Cambodia,2014,Urban,28.4,62.6,81,56.9,28.2,85.1
+KHM,Cambodia,2014,Rural,15,55.5,70.5,29.1,28,57.1
+KHM,Cambodia,2015,Urban,29.5,61.2,80.7,59.8,27.9,87.7
+KHM,Cambodia,2015,Rural,17.2,56.3,73.5,32.7,29.2,61.9
+KHM,Cambodia,2016,Urban,31,59.9,80.9,63.1,27,90.1
+KHM,Cambodia,2016,Rural,18.8,56.8,75.6,36.5,29.6,66.1
+KHM,Cambodia,2017,Urban,32.5,58.6,81.1,66.4,26.1,92.5
+KHM,Cambodia,2017,Rural,20.4,57.3,77.7,40.5,30,70.5
+KHM,Cambodia,2018,Urban,34.1,57.3,81.4,69.7,25.2,94.9
+KHM,Cambodia,2018,Rural,22,57.8,79.8,44.5,30.4,74.9
+KHM,Cambodia,2019,Urban,35.7,56.1,81.8,72.9,24.3,97.2
+KHM,Cambodia,2019,Rural,23.6,58.3,81.9,48.6,30.8,79.4
+KHM,Cambodia,2020,Urban,37.3,54.8,82.1,75.7,21,96.7
+KHM,Cambodia,2020,Rural,24.9,58.5,83.4,52.8,30.7,83.5
+KHM,Cambodia,2021,Urban,38.9,53.5,82.4,77.1,19.3,96.4
+KHM,Cambodia,2021,Rural,26.4,58.4,84.8,55.8,30.5,86.3
+KHM,Cambodia,2022,Urban,40.4,55.9,96.3,78.5,17.4,95.9
+KHM,Cambodia,2022,Rural,24,50.9,74.9,50.7,30.4,81.1
+CIV,Cote d'Ivoire,2000,Urban,44.7,43.2,87.9,19.9,16.8,36.7
+CIV,Cote d'Ivoire,2000,Rural,9.8,59.3,69.1,4.4,7.8,12.2
+CIV,Cote d'Ivoire,2001,Urban,45.5,42.8,88.3,20.6,16.7,37.3
+CIV,Cote d'Ivoire,2001,Rural,10.6,58.9,69.5,5.2,8.2,13.4
+CIV,Cote d'Ivoire,2002,Urban,46.4,42.4,88.8,21.2,16.6,37.8
+CIV,Cote d'Ivoire,2002,Rural,11.5,58.5,60,6,8.6,14.6
+CIV,Cote d'Ivoire,2003,Urban,47.2,42,89.2,21.9,16.5,38.4
+CIV,Cote d'Ivoire,2003,Rural,12.3,58.1,60.4,6.8,9,15.8
+CIV,Cote d'Ivoire,2004,Urban,48,41.6,89.6,22.5,16.4,38.9
+CIV,Cote d'Ivoire,2004,Rural,13.2,57.7,60.9,7.6,9.4,17
+CIV,Cote d'Ivoire,2005,Urban,48.9,41.2,90.1,23.2,16.3,39.5
+CIV,Cote d'Ivoire,2005,Rural,14,57.3,71.3,8.3,9.8,18.1
+CIV,Cote d'Ivoire,2006,Urban,49.4,40.9,90.3,23.6,16.2,40
+CIV,Cote d'Ivoire,2006,Rural,14.8,57.5,72.3,8.7,10.2,18.9
+CIV,Cote d'Ivoire,2007,Urban,49.8,40.7,90.5,24,16,40
+CIV,Cote d'Ivoire,2007,Rural,15.3,57.7,73,9,10.7,19.7
+CIV,Cote d'Ivoire,2008,Urban,50.2,40.5,90.7,24.3,15.6,40
+CIV,Cote d'Ivoire,2008,Rural,15.8,57.9,73.7,9.2,11.2,20.4
+CIV,Cote d'Ivoire,2009,Urban,50.5,40.3,90.8,24.5,15.3,40
+CIV,Cote d'Ivoire,2009,Rural,16.2,58.4,74.6,9.3,11.6,20.9
+CIV,Cote d'Ivoire,2010,Urban,50.7,40.1,90.8,24.8,19,43.8
+CIV,Cote d'Ivoire,2010,Rural,16.6,58.8,75.4,9.5,12,21.5
+CIV,Cote d'Ivoire,2011,Urban,51.5,39.6,91.1,25.8,19.2,45
+CIV,Cote d'Ivoire,2011,Rural,17.9,58.5,76.4,10.6,12.5,23.1
+CIV,Cote d'Ivoire,2012,Urban,52.4,39.1,91.5,26.7,19.4,46.1
+CIV,Cote d'Ivoire,2012,Rural,19.2,58.1,77.3,11.7,13,24.7
+CIV,Cote d'Ivoire,2013,Urban,53.2,38.6,91.8,27.7,19.6,47.3
+CIV,Cote d'Ivoire,2013,Rural,20.5,57.7,78.2,12.8,13.5,26.3
+CIV,Cote d'Ivoire,2014,Urban,54.1,38.1,92.2,28.7,19.8,48.5
+CIV,Cote d'Ivoire,2014,Rural,21.8,57.3,79.1,13.9,14,27.9
+CIV,Cote d'Ivoire,2015,Urban,54.9,37.6,92.5,29.6,20,49.6
+CIV,Cote d'Ivoire,2015,Rural,23.1,56.9,80,15,14.4,29.4
+CIV,Cote d'Ivoire,2016,Urban,55.5,37.2,92.7,30.1,20.1,50.2
+CIV,Cote d'Ivoire,2016,Rural,23.7,56.6,80.3,15.5,14.6,30.1
+CIV,Cote d'Ivoire,2017,Urban,56,36.9,92.9,30.5,20.2,50.7
+CIV,Cote d'Ivoire,2017,Rural,24.1,56.2,80.3,15.9,14.7,30.6
+CIV,Cote d'Ivoire,2018,Urban,56.5,36.6,93.1,30.9,20.3,51.2
+CIV,Cote d'Ivoire,2018,Rural,24.4,55.8,80.2,16.2,14.7,30.9
+CIV,Cote d'Ivoire,2019,Urban,57,36.4,93.4,31.2,20.4,51.6
+CIV,Cote d'Ivoire,2019,Rural,24.7,55.4,70.1,16.5,14.7,31.2
+CIV,Cote d'Ivoire,2020,Urban,57.4,36.2,93.6,31.4,20.5,51.9
+CIV,Cote d'Ivoire,2020,Rural,24.8,55,79.8,16.7,14.7,31.4
+CIV,Cote d'Ivoire,2021,Urban,57.7,36,93.7,31.6,20.5,52.1
+CIV,Cote d'Ivoire,2021,Rural,24.9,54.7,79.6,16.8,14.7,31.5
+CIV,Cote d'Ivoire,2022,Urban,57.9,35.9,93.8,31.7,20.6,52.3
+CIV,Cote d'Ivoire,2022,Rural,25,54.5,79.5,16.9,14.7,31.6
+DJI,Djibouti,2000,Urban,52,35.3,87.3,38.1,17.4,55.5
+DJI,Djibouti,2000,Rural,11.3,42,53.3,7.6,9.2,16.8
+DJI,Djibouti,2001,Urban,53.1,34.7,87.8,38.9,17.3,56.2
+DJI,Djibouti,2001,Rural,12.4,42.1,54.5,8.3,9.4,17.7
+DJI,Djibouti,2002,Urban,54.2,34.1,88.3,39.7,17.2,56.9
+DJI,Djibouti,2002,Rural,13.6,42.1,55.7,9,9.6,18.6
+DJI,Djibouti,2003,Urban,55.3,33.5,88.8,40.5,17.1,57.6
+DJI,Djibouti,2003,Rural,14.7,42.2,56.9,9.8,9.8,19.6
+DJI,Djibouti,2004,Urban,56.4,32.9,89.3,41.3,17,58.3
+DJI,Djibouti,2004,Rural,15.9,42.2,58.1,10.5,10,20.5
+DJI,Djibouti,2005,Urban,57.5,32.3,89.8,42.1,16.9,59
+DJI,Djibouti,2005,Rural,17,42.3,59.3,11.2,10.2,21.4
+DJI,Djibouti,2006,Urban,58.7,31.7,90.4,42.9,16.8,59.7
+DJI,Djibouti,2006,Rural,18.2,42.3,60.5,11.6,10.3,21.9
+DJI,Djibouti,2007,Urban,59.8,31.1,90.9,43.7,16.7,60.4
+DJI,Djibouti,2007,Rural,19.4,42.3,61.7,12.1,10.4,22.5
+DJI,Djibouti,2008,Urban,60.9,30.5,91.4,44.5,16.6,61.1
+DJI,Djibouti,2008,Rural,20.6,42.3,62.9,12.5,10.4,22.9
+DJI,Djibouti,2009,Urban,62,29.9,91.9,45.3,16.5,61.8
+DJI,Djibouti,2009,Rural,21.8,42.3,64.1,12.8,10.5,23.3
+DJI,Djibouti,2010,Urban,62.8,29,91.8,46,16.5,62.5
+DJI,Djibouti,2010,Rural,22.2,42.3,64.5,13.1,10.5,23.6
+DJI,Djibouti,2011,Urban,63.9,28.4,92.3,46.7,16.4,63.1
+DJI,Djibouti,2011,Rural,23.8,42.1,65.9,13.8,10.6,24.4
+DJI,Djibouti,2012,Urban,65,27.8,92.8,47.5,16.3,63.8
+DJI,Djibouti,2012,Rural,25.4,41.9,67.3,14.5,10.7,25.2
+DJI,Djibouti,2013,Urban,66.1,27.2,93.3,48.2,16.2,64.4
+DJI,Djibouti,2013,Rural,27,41.7,68.7,15.3,10.8,26.1
+DJI,Djibouti,2014,Urban,67.2,26.6,93.8,49,16.1,65.1
+DJI,Djibouti,2014,Rural,28.6,41.5,70.1,16,10.9,26.9
+DJI,Djibouti,2015,Urban,68.3,26,94.3,49.7,16,65.7
+DJI,Djibouti,2015,Rural,30.2,41.3,71.5,16.8,11,27.8
+DJI,Djibouti,2016,Urban,68.9,25.7,94.6,50.1,15.9,66
+DJI,Djibouti,2016,Rural,31.5,41.3,72.8,17.4,11.1,28.5
+DJI,Djibouti,2017,Urban,69.4,25.5,94.9,50.6,15.9,66.5
+DJI,Djibouti,2017,Rural,32.8,41.3,74.1,18,11.2,29.2
+DJI,Djibouti,2018,Urban,70,25.2,95.2,51,15.8,66.8
+DJI,Djibouti,2018,Rural,34,41.3,75.3,18.7,11.3,29.9
+DJI,Djibouti,2019,Urban,70.5,25,95.5,51.5,15.8,67.3
+DJI,Djibouti,2019,Rural,35.3,41.3,76.6,19.4,11.4,30.8
+DJI,Djibouti,2020,Urban,70.8,24.8,95.6,51.9,15.7,67.6
+DJI,Djibouti,2020,Rural,35.9,41.4,77.3,20,11.5,31.5
+DJI,Djibouti,2021,Urban,70.9,24.6,95.5,52.2,15.7,67.9
+DJI,Djibouti,2021,Rural,36.2,41.4,77.6,20.2,11.5,31.7
+DJI,Djibouti,2022,Urban,71,24.4,95.4,52.4,15.7,68.1
+DJI,Djibouti,2022,Rural,36.5,41.4,77.9,20.4,11.5,31.9
+EGY,Egypt,2000,Urban,92.6,6.9,99.5,94.2,4.8,99
+EGY,Egypt,2000,Rural,81.8,16,97.8,75.3,13.6,88.9
+EGY,Egypt,2001,Urban,93,6.6,99.6,94.6,4.7,99.3
+EGY,Egypt,2001,Rural,82.7,15.3,98,77,12.7,89.7
+EGY,Egypt,2002,Urban,93.4,6.3,99.7,94.9,4.6,99.5
+EGY,Egypt,2002,Rural,83.6,14.6,98.2,78.7,11.8,90.5
+EGY,Egypt,2003,Urban,93.8,6,99.8,95.3,4.5,99.8
+EGY,Egypt,2003,Rural,84.5,13.9,98.4,80.4,10.9,91.3
+EGY,Egypt,2004,Urban,94.2,5.7,99.9,95.6,4.4,100
+EGY,Egypt,2004,Rural,85.4,13.2,98.6,82.1,10,92.1
+EGY,Egypt,2005,Urban,94.6,5.4,100,96,4.3,100.3
+EGY,Egypt,2005,Rural,86.3,12.5,98.8,83.8,9.1,92.9
+EGY,Egypt,2006,Urban,94.8,5.1,99.9,96.3,3.9,100.2
+EGY,Egypt,2006,Rural,87,11.9,98.9,85.2,8.4,93.6
+EGY,Egypt,2007,Urban,95.1,4.9,100,96.6,3.4,100
+EGY,Egypt,2007,Rural,87.6,11.3,98.9,86.5,7.7,94.2
+EGY,Egypt,2008,Urban,95.3,4.6,99.9,96.8,3,99.8
+EGY,Egypt,2008,Rural,88.1,10.8,98.9,87.7,7.1,94.8
+EGY,Egypt,2009,Urban,95.5,4.3,99.8,97.1,2.7,99.8
+EGY,Egypt,2009,Rural,88.5,10.4,98.9,88.3,6.8,95.1
+EGY,Egypt,2010,Urban,95.7,4,99.7,97.3,2.4,99.7
+EGY,Egypt,2010,Rural,88.8,9.9,98.7,88.7,7.2,95.9
+EGY,Egypt,2011,Urban,95.8,3.9,99.7,97.3,2.4,99.7
+EGY,Egypt,2011,Rural,89.3,9.5,98.8,89.3,6.8,96.1
+EGY,Egypt,2012,Urban,95.9,3.8,99.7,97.3,2.4,99.7
+EGY,Egypt,2012,Rural,89.8,9,98.8,89.9,6.4,96.3
+EGY,Egypt,2013,Urban,96,3.7,99.7,97.4,2.4,99.8
+EGY,Egypt,2013,Rural,90.3,8.6,98.9,90.5,6.1,96.6
+EGY,Egypt,2014,Urban,96.1,3.6,99.7,97.4,2.4,99.8
+EGY,Egypt,2014,Rural,90.8,8.1,98.9,91.1,5.7,96.8
+EGY,Egypt,2015,Urban,96.2,3.5,99.7,97.4,2.4,99.8
+EGY,Egypt,2015,Rural,91.3,7.7,99,91.6,5.4,97
+EGY,Egypt,2016,Urban,96.3,3.4,99.7,97.4,2.4,99.8
+EGY,Egypt,2016,Rural,91.6,7.3,98.9,92,5.2,97.2
+EGY,Egypt,2017,Urban,96.4,3.3,99.7,97.4,2.4,99.8
+EGY,Egypt,2017,Rural,91.8,7,98.8,92.3,5,97.3
+EGY,Egypt,2018,Urban,96.5,3.2,99.7,97.4,2.4,99.8
+EGY,Egypt,2018,Rural,92.1,6.9,99,92.6,4.9,97.5
+EGY,Egypt,2019,Urban,96.6,3.1,99.7,97.4,2.4,99.8
+EGY,Egypt,2019,Rural,92.3,6.8,99.1,92.9,4.7,97.6
+EGY,Egypt,2020,Urban,96.7,3.1,99.8,97.4,2.4,99.8
+EGY,Egypt,2020,Rural,92.5,6.7,99.2,93.1,4.6,97.7
+EGY,Egypt,2021,Urban,96.7,3,99.7,97.4,2.4,99.8
+EGY,Egypt,2021,Rural,92.5,6.7,99.2,93.1,4.5,97.6
+EGY,Egypt,2022,Urban,96.8,3,99.8,97.4,2.4,99.8
+EGY,Egypt,2022,Rural,92.6,6.7,99.3,93.2,5.9,99.1
+ETH,Ethiopia,2000,Urban,4.8,74.5,79.3,8.8,17.7,26.5
+ETH,Ethiopia,2000,Rural,0.4,11.5,11.9,0.7,1.4,2.1
+ETH,Ethiopia,2001,Urban,5.2,75.4,80.6,9.8,18,27.8
+ETH,Ethiopia,2001,Rural,0.6,13.7,14.3,0.8,1.6,2.4
+ETH,Ethiopia,2002,Urban,5.6,76.3,81.9,10.8,18.3,29.1
+ETH,Ethiopia,2002,Rural,0.9,16,16.9,1,1.8,2.8
+ETH,Ethiopia,2003,Urban,6,77.2,83.2,11.8,18.6,30.4
+ETH,Ethiopia,2003,Rural,1.1,18.3,19.4,1.1,2,3.1
+ETH,Ethiopia,2004,Urban,6.4,78.1,84.5,12.8,18.9,31.7
+ETH,Ethiopia,2004,Rural,1.4,20.6,22,1.3,2.2,3.5
+ETH,Ethiopia,2005,Urban,6.8,79,85.8,13.8,19.2,33
+ETH,Ethiopia,2005,Rural,1.6,22.9,24.5,1.4,2.4,3.8
+ETH,Ethiopia,2006,Urban,7.2,79.9,87.1,14.5,20,34.5
+ETH,Ethiopia,2006,Rural,1.8,24.5,26.3,1.6,2.8,4.4
+ETH,Ethiopia,2007,Urban,7.6,80.8,88.4,15.2,20.5,35.7
+ETH,Ethiopia,2007,Rural,2,26.1,28.1,1.7,3.1,4.8
+ETH,Ethiopia,2008,Urban,8,81.7,89.7,15.8,20.9,36.7
+ETH,Ethiopia,2008,Rural,2.1,27.7,29.8,1.8,3.4,5.2
+ETH,Ethiopia,2009,Urban,8.4,82.6,91,16.2,21.1,37.3
+ETH,Ethiopia,2009,Rural,2.1,29.3,31.4,1.9,3.5,5.4
+ETH,Ethiopia,2010,Urban,8.8,83.1,91.9,16.5,21.3,37.8
+ETH,Ethiopia,2010,Rural,2.1,27.1,29.2,1.9,3.5,5.4
+ETH,Ethiopia,2011,Urban,9.7,83.7,93.4,18,22.1,40.1
+ETH,Ethiopia,2011,Rural,3.1,30.1,33.2,2.3,4,6.3
+ETH,Ethiopia,2012,Urban,10.7,84.3,95,19.6,22.9,42.5
+ETH,Ethiopia,2012,Rural,4.2,33.2,37.4,2.7,4.5,7.2
+ETH,Ethiopia,2013,Urban,11.7,84.9,96.6,21.1,23.7,44.8
+ETH,Ethiopia,2013,Rural,5.3,36.2,41.5,3.1,5,8.1
+ETH,Ethiopia,2014,Urban,12.7,85.5,98.2,22.6,24.5,47.1
+ETH,Ethiopia,2014,Rural,6.4,39.3,45.7,3.5,5.5,9
+ETH,Ethiopia,2015,Urban,13.7,86.1,99.8,24.1,25.3,49.4
+ETH,Ethiopia,2015,Rural,7.5,42.3,49.8,3.9,6,9.9
+ETH,Ethiopia,2016,Urban,15,86.6,101.6,25.4,25.8,51.2
+ETH,Ethiopia,2016,Rural,8.4,44.4,52.8,4.1,6.3,10.4
+ETH,Ethiopia,2017,Urban,16.4,87,103.4,26.6,26.4,53
+ETH,Ethiopia,2017,Rural,9.3,46.5,55.8,4.2,6.5,10.7
+ETH,Ethiopia,2018,Urban,17.8,87.5,105.3,27.8,26.9,54.7
+ETH,Ethiopia,2018,Rural,10.1,48.5,58.6,4.2,6.7,10.9
+ETH,Ethiopia,2019,Urban,19.2,88,107.2,28.8,27.3,56.1
+ETH,Ethiopia,2019,Rural,10.9,50.6,61.5,4.3,6.8,11.1
+ETH,Ethiopia,2020,Urban,20.3,88.5,108.8,29.4,27.5,56.9
+ETH,Ethiopia,2020,Rural,11.4,52.1,63.5,4.3,6.8,11.1
+ETH,Ethiopia,2021,Urban,21.2,89,110.2,29.7,27.7,57.4
+ETH,Ethiopia,2021,Rural,11.1,54.1,65.2,4.3,6.8,11.1
+ETH,Ethiopia,2022,Urban,22.1,89.5,111.6,29.9,27.8,57.7
+ETH,Ethiopia,2022,Rural,10.6,48.6,59.2,4.3,6.8,11.1
+GHA,Ghana,2000,Urban,18,76.6,94.6,6.6,10.5,17.1
+GHA,Ghana,2000,Rural,2.2,58.6,60.8,1.7,5.2,6.9
+GHA,Ghana,2001,Urban,19.4,75.9,95.3,7.1,10.9,18
+GHA,Ghana,2001,Rural,3.1,60.6,63.7,2,5.7,7.7
+GHA,Ghana,2002,Urban,20.9,75.1,96,7.7,11.3,19
+GHA,Ghana,2002,Rural,4,62.5,66.5,2.4,6.2,8.6
+GHA,Ghana,2003,Urban,22.3,74.4,96.7,8.2,11.7,19.9
+GHA,Ghana,2003,Rural,5,64.5,69.5,2.7,6.7,9.4
+GHA,Ghana,2004,Urban,23.7,73.6,97.3,8.8,12.1,20.9
+GHA,Ghana,2004,Rural,5.9,66.4,72.3,3,7.2,10.2
+GHA,Ghana,2005,Urban,25.2,72.9,98.1,9.3,12.5,21.8
+GHA,Ghana,2005,Rural,6.9,68.4,75.3,3.4,7.7,11.1
+GHA,Ghana,2006,Urban,27.1,71.9,99,9.9,13.1,23
+GHA,Ghana,2006,Rural,7.6,70,77.6,3.6,8.1,11.7
+GHA,Ghana,2007,Urban,29.1,70.9,90,10.4,13.7,24.1
+GHA,Ghana,2007,Rural,8.3,71.6,79.9,3.7,8.5,12.2
+GHA,Ghana,208,Urban,31.5,69.7,91.2,10.8,14.5,25.3
+GHA,Ghana,2008,Rural,8.9,72.8,81.7,3.8,8.8,12.6
+GHA,Ghana,2009,Urban,34.4,68.2,92.6,11.3,15.5,26.8
+GHA,Ghana,2009,Rural,9.4,73.6,83,3.8,8.9,12.7
+GHA,Ghana,2010,Urban,38.2,57.1,95.3,11.7,16.6,28.3
+GHA,Ghana,2010,Rural,9.8,74.1,83.9,3.8,9.1,12.9
+GHA,Ghana,2011,Urban,39.3,56.5,95.8,13.1,17.4,30.5
+GHA,Ghana,2011,Rural,11.1,73.2,84.3,4.7,9.7,14.4
+GHA,Ghana,2012,Urban,40.4,55.9,96.3,14.6,18.1,32.7
+GHA,Ghana,2012,Rural,12.4,72.3,84.7,5.6,10.4,16
+GHA,Ghana,2013,Urban,41.5,55.3,96.8,16,18.9,34.9
+GHA,Ghana,2013,Rural,13.7,71.4,85.1,6.5,11.1,17.6
+GHA,Ghana,2014,Urban,42.6,54.7,97.3,17.5,19.6,37.1
+GHA,Ghana,2014,Rural,15,70.5,85.5,7.4,11.8,19.2
+GHA,Ghana,2015,Urban,43.7,54.1,97.8,18.9,20.4,39.3
+GHA,Ghana,2015,Rural,16.3,69.6,85.9,8.3,12.5,20.8
+GHA,Ghana,2016,Urban,45.2,53.4,98.6,20.2,21,41.2
+GHA,Ghana,2016,Rural,17.6,68.5,86.1,9.2,13,22.2
+GHA,Ghana,2017,Urban,46.7,52.6,99.3,21.5,21.7,43.2
+GHA,Ghana,2017,Rural,19,67.3,86.3,10.1,13.6,23.7
+GHA,Ghana,2018,Urban,48.2,51.9,100.1,22.8,22.3,45.1
+GHA,Ghana,2018,Rural,20.5,66.2,86.7,11,14.2,25.2
+GHA,Ghana,2019,Urban,49.7,51.2,100.9,24.1,22.9,47
+GHA,Ghana,2019,Rural,22,65,87,11.9,14.8,26.7
+GHA,Ghana,2020,Urban,51.1,51,102.1,25.2,23.5,48.7
+GHA,Ghana,2020,Rural,23.8,64.2,88,12.6,15.5,28.1
+GHA,Ghana,2021,Urban,52.1,51.5,103.6,26,23.8,50
+GHA,Ghana,2021,Rural,25.4,64.1,89.5,13.1,15.9,29
+GHA,Ghana,2022,Urban,53,42.7,95.7,26.8,24.2,51
+GHA,Ghana,2022,Rural,26.9,63.9,90.8,13.5,16.3,29.8
+HTI,Haiti,2000,Urban,11.2,56,67.2,27,17.1,44.1
+HTI,Haiti,2000,Rural,3.5,28.7,32.2,8.5,9.4,17.9
+HTI,Haiti,2001,Urban,11.5,56.5,68,28,17,45
+HTI,Haiti,2001,Rural,3.6,30,33.6,9.5,9.5,19
+HTI,Haiti,2002,Urban,11.8,57,68.8,28.9,16.9,45.8
+HTI,Haiti,2002,Rural,3.8,31.4,35.2,10.5,9.6,20.1
+HTI,Haiti,2003,Urban,12.1,57.5,69.6,29.9,16.8,46.7
+HTI,Haiti,2003,Rural,3.9,32.7,36.6,11.5,9.7,21.2
+HTI,Haiti,2004,Urban,12.4,58,70.4,30.8,16.7,47.5
+HTI,Haiti,2004,Rural,4.1,34.1,38.2,12.5,9.8,22.3
+HTI,Haiti,2005,Urban,12.7,58.5,71.2,31.8,16.6,48.4
+HTI,Haiti,2005,Rural,4.2,35.4,39.6,13.5,9.9,23.4
+HTI,Haiti,2006,Urban,12.9,58.8,71.7,32.2,16.6,48.8
+HTI,Haiti,2006,Rural,4.3,36.5,40.8,14.1,10,24.1
+HTI,Haiti,2007,Urban,13.1,59,72.1,32.5,16.5,49
+HTI,Haiti,2007,Rural,4.3,37.5,41.8,14.5,10,24.5
+HTI,Haiti,2008,Urban,13.2,59.1,72.3,32.7,16.5,49.2
+HTI,Haiti,2008,Rural,4.4,38.3,42.7,14.8,10,24.8
+HTI,Haiti,2009,Urban,13.3,59.2,72.5,32.9,16.5,49.4
+HTI,Haiti,2009,Rural,4.4,38.7,43.1,15,10.1,25.1
+HTI,Haiti,2010,Urban,13.4,59.3,72.7,33.1,16.5,49.6
+HTI,Haiti,2010,Rural,4.4,39,43.4,15.1,10.1,25.2
+HTI,Haiti,2011,Urban,13.8,59.5,73.3,34.2,16.3,50.5
+HTI,Haiti,2011,Rural,4.9,40.1,45,16.5,10.2,26.7
+HTI,Haiti,2012,Urban,14.2,59.7,73.9,35.4,16.2,51.6
+HTI,Haiti,2012,Rural,5.3,41.2,46.5,17.9,10.3,28.2
+HTI,Haiti,2013,Urban,14.6,59.9,74.5,36.5,16,52.5
+HTI,Haiti,2013,Rural,5.8,42.3,48.1,19.3,10.4,29.7
+HTI,Haiti,2014,Urban,15,60.1,75.1,37.7,15.9,53.6
+HTI,Haiti,2014,Rural,6.2,43.4,49.6,20.7,10.5,31.2
+HTI,Haiti,2015,Urban,15.4,60.3,75.7,38.8,15.8,54.6
+HTI,Haiti,2015,Rural,6.7,44.5,51.2,22.1,10.5,32.6
+HTI,Haiti,2016,Urban,15.7,60.4,76.1,39.6,15.7,55.3
+HTI,Haiti,2016,Rural,6.8,45,51.8,23.2,10.6,33.8
+HTI,Haiti,2017,Urban,15.9,60.4,76.3,40.1,15.7,55.8
+HTI,Haiti,2017,Rural,6.9,45.2,52.1,24,10.6,34.6
+HTI,Haiti,2018,Urban,16.1,60.4,76.5,40.5,15.7,56.2
+HTI,Haiti,2018,Rural,6.9,45.3,52.2,24.7,10.6,35.3
+HTI,Haiti,2019,Urban,16.2,60.5,76.7,40.9,15.7,56.6
+HTI,Haiti,2019,Rural,6.9,45.4,52.3,25.4,10.6,36
+HTI,Haiti,2020,Urban,16.3,60.5,76.8,41.1,15.7,56.8
+HTI,Haiti,2020,Rural,6.9,45.5,52.4,25.9,10.6,36.5
+HTI,Haiti,2021,Urban,16.4,60.5,76.9,41.3,15.7,57
+HTI,Haiti,2021,Rural,6.9,45.5,52.4,26.2,10.6,36.8
+HTI,Haiti,2022,Urban,16.4,60.5,76.9,41.4,15.7,57.1
+HTI,Haiti,2022,Rural,6.9,45.5,52.4,26.4,10.6,37
+MDG,Madagascar,2000,Urban,18.8,59.3,78.1,13,11.8,24.8
+MDG,Madagascar,2000,Rural,2.1,34.7,36.8,2.7,4.3,7
+MDG,Madagascar,2001,Urban,19.3,59.2,78.5,13.4,11.7,25.1
+MDG,Madagascar,2001,Rural,2.3,35.8,38.1,2.9,4.5,7.4
+MDG,Madagascar,2002,Urban,19.8,59.1,78.9,13.8,11.7,25.5
+MDG,Madagascar,2002,Rural,2.4,36.9,39.3,3.1,4.7,7.8
+MDG,Madagascar,2003,Urban,20.3,59,79.3,14.2,11.6,25.8
+MDG,Madagascar,2003,Rural,2.5,38,40.5,3.3,4.9,8.2
+MDG,Madagascar,2004,Urban,20.8,58.9,79.7,14.6,11.6,26.2
+MDG,Madagascar,2004,Rural,2.7,39.1,41.8,3.5,5.1,8.6
+MDG,Madagascar,2005,Urban,21.3,58.8,80.1,15,11.5,26.5
+MDG,Madagascar,2005,Rural,2.8,40.2,43,3.7,5.3,9
+MDG,Madagascar,2006,Urban,21.8,58.7,80.5,15.4,11.5,26.9
+MDG,Madagascar,2006,Rural,2.9,41.2,44.1,3.8,5.4,9.2
+MDG,Madagascar,2007,Urban,22.3,58.6,80.9,15.7,11.5,27.2
+MDG,Madagascar,2007,Rural,3,42,45,3.9,5.5,9.4
+MDG,Madagascar,2008,Urban,22.8,58.5,81.3,16,11.5,27.5
+MDG,Madagascar,2008,Rural,3.1,42.8,45.9,4,5.5,9.5
+MDG,Madagascar,2009,Urban,23.1,58.4,81.5,16.2,11.5,27.7
+MDG,Madagascar,2009,Rural,3.1,43.2,46.3,4.1,5.5,9.6
+MDG,Madagascar,2010,Urban,23.3,58.4,81.7,16.4,11.5,27.9
+MDG,Madagascar,2010,Rural,3.1,42.7,45.8,4.2,5.5,9.7
+MDG,Madagascar,2011,Urban,24,58.2,82.2,17.1,11.4,28.5
+MDG,Madagascar,2011,Rural,3.4,43.9,47.3,4.5,5.7,10.2
+MDG,Madagascar,2012,Urban,24.7,58,82.7,17.7,11.3,29
+MDG,Madagascar,2012,Rural,3.7,45.1,48.8,4.8,5.9,10.7
+MDG,Madagascar,2013,Urban,25.4,57.8,83.2,18.3,11.2,29.5
+MDG,Madagascar,2013,Rural,4,46.3,50.3,5.1,6.1,11.2
+MDG,Madagascar,2014,Urban,26.1,57.6,83.7,18.9,11.1,30
+MDG,Madagascar,2014,Rural,4.3,47.5,51.8,5.4,6.3,11.7
+MDG,Madagascar,2015,Urban,26.8,57.4,84.2,19.5,11,30.5
+MDG,Madagascar,2015,Rural,4.6,48.7,53.3,5.7,6.5,12.2
+MDG,Madagascar,2016,Urban,27.3,57.1,84.4,19.9,10.9,30.8
+MDG,Madagascar,2016,Rural,4.7,49.2,53.9,5.8,6.6,12.4
+MDG,Madagascar,2017,Urban,27.8,56.8,84.6,20.3,10.8,31.1
+MDG,Madagascar,2017,Rural,4.8,49.7,54.5,5.9,6.7,12.6
+MDG,Madagascar,2018,Urban,28.3,56.5,84.8,20.7,10.7,31.4
+MDG,Madagascar,2018,Rural,4.8,50.2,55,6,6.8,12.8
+MDG,Madagascar,2019,Urban,28.8,56.2,85,21.1,10.7,31.8
+MDG,Madagascar,2019,Rural,4.8,50.7,55.5,6.1,6.9,13
+MDG,Madagascar,2020,Urban,29.3,55.9,85.2,21.3,10.6,31.9
+MDG,Madagascar,2020,Rural,4.8,50.4,55.2,6,6.8,12.8
+MDG,Madagascar,2021,Urban,29.5,55.7,85.2,21.4,10.6,32
+MDG,Madagascar,2021,Rural,4.8,50.3,55.1,6,6.8,12.8
+MDG,Madagascar,2022,Urban,29.8,55.5,85.3,21.6,10.6,32.2
+MDG,Madagascar,2022,Rural,4.8,47.9,52.7,5.6,6.3,11.9
+MWI,Malawi,2000,Urban,22,66.9,88.9,24.1,23.1,47.2
+MWI,Malawi,2000,Rural,2.1,58.6,60.7,2.1,6.9,9
+MWI,Malawi,2001,Urban,22.9,66.4,89.3,25,23,48
+MWI,Malawi,2001,Rural,2.5,60.4,62.9,2.5,7.2,9.7
+MWI,Malawi,2002,Urban,23.8,65.9,89.7,25.9,22.9,48.8
+MWI,Malawi,2002,Rural,2.9,62.2,65.1,2.9,7.5,10.4
+MWI,Malawi,2003,Urban,24.7,65.4,90.1,26.8,22.8,49.6
+MWI,Malawi,2003,Rural,3.3,64,67.3,3.3,7.8,11.1
+MWI,Malawi,2004,Urban,25.6,64.9,90.5,27.7,22.7,50.4
+MWI,Malawi,2004,Rural,3.7,65.8,69.5,3.7,8.1,11.8
+MWI,Malawi,2005,Urban,26.5,64.4,90.9,28.6,22.6,51.2
+MWI,Malawi,2005,Rural,4.1,67.6,71.7,4.1,8.4,12.5
+MWI,Malawi,2006,Urban,27.5,63.9,91.4,29.2,22.6,51.8
+MWI,Malawi,2006,Rural,4.3,69.1,73.4,4.2,8.4,12.6
+MWI,Malawi,2007,Urban,28.4,63.4,91.8,29.8,22.6,52.4
+MWI,Malawi,2007,Rural,4.4,70.7,75.1,4.3,8.4,12.7
+MWI,Malawi,2008,Urban,29,63.2,92.2,30.2,22.5,52.7
+MWI,Malawi,2008,Rural,4.5,71.9,76.4,4.4,8.4,12.8
+MWI,Malawi,2009,Urban,29.6,62.9,92.5,30.5,22.5,53
+MWI,Malawi,2009,Rural,4.6,73.1,77.7,4.5,8.4,12.9
+MWI,Malawi,2010,Urban,30.2,62.7,92.9,30.9,22.5,53.4
+MWI,Malawi,2010,Rural,4.4,72.2,76.6,4.6,8.4,13
+MWI,Malawi,2011,Urban,31.2,62,93.2,31.7,22.3,54
+MWI,Malawi,2011,Rural,5,72.9,77.9,5.2,8.6,13.8
+MWI,Malawi,2012,Urban,32.2,61.3,93.5,32.5,22.1,54.6
+MWI,Malawi,2012,Rural,5.6,73.6,79.2,5.8,8.8,14.6
+MWI,Malawi,2013,Urban,33.2,60.6,93.8,33.3,21.9,55.2
+MWI,Malawi,2013,Rural,6.2,74.3,80.5,6.4,9,15.4
+MWI,Malawi,2014,Urban,34.2,59.9,94.1,34.1,21.7,55.8
+MWI,Malawi,2014,Rural,6.8,75,81.8,7,9.2,16.2
+MWI,Malawi,2015,Urban,35.2,59.2,94.4,34.9,21.5,56.4
+MWI,Malawi,2015,Rural,7.4,75.7,83.1,7.6,9.4,17
+MWI,Malawi,2016,Urban,36.2,58.4,94.6,35.7,21.3,57
+MWI,Malawi,2016,Rural,7.9,76.1,84,8.1,9.5,17.6
+MWI,Malawi,2017,Urban,37.2,57.7,94.9,36.5,21.2,57.7
+MWI,Malawi,2017,Rural,8.4,76.5,84.9,8.6,9.6,18.2
+MWI,Malawi,2018,Urban,38.2,56.9,95.1,37.3,21,58.3
+MWI,Malawi,2018,Rural,8.9,76.9,85.8,9.1,9.7,18.8
+MWI,Malawi,2019,Urban,39.2,56.1,95.3,38.1,20.8,58.9
+MWI,Malawi,2019,Rural,9.4,77.3,86.7,9.6,9.8,19.4
+MWI,Malawi,2020,Urban,39.9,55.4,95.3,38.9,20.9,59.8
+MWI,Malawi,2020,Rural,9.8,77.5,87.3,9.8,9.9,19.7
+MWI,Malawi,2021,Urban,40.3,55,95.3,39.3,21,60.3
+MWI,Malawi,2021,Rural,9.9,77.6,87.5,9,9.7,18.7
+MWI,Malawi,2022,Urban,40.6,54.7,95.3,39.7,21,60.7
+MWI,Malawi,2022,Rural,7.7,75.4,83.1,8.3,9.4,17.7
+MEX,Mexico,2000,Urban,92.5,4.7,97.2,82.4,7.8,90.2
+MEX,Mexico,2000,Rural,64.2,21.5,85.7,52.4,22.3,74.7
+MEX,Mexico,2001,Urban,92.9,4.5,97.4,82.9,7.7,90.6
+MEX,Mexico,2001,Rural,66.1,20.5,86.6,54.6,21.4,76
+MEX,Mexico,2002,Urban,93.3,4.3,97.6,83.4,7.6,91
+MEX,Mexico,2002,Rural,68,19.5,87.5,56.8,20.5,77.3
+MEX,Mexico,2003,Urban,93.7,4.1,97.8,83.9,7.5,91.4
+MEX,Mexico,2003,Rural,69.9,18.5,88.4,59,19.6,78.6
+MEX,Mexico,2004,Urban,94.1,3.9,98,84.4,7.4,91.8
+MEX,Mexico,2004,Rural,71.8,17.5,89.3,61.2,18.7,79.9
+MEX,Mexico,2005,Urban,94.5,3.7,98.2,84.9,7.3,92.2
+MEX,Mexico,2005,Rural,73.7,16.5,90.2,63.4,17.8,81.2
+MEX,Mexico,2006,Urban,94.9,3.5,98.4,85.3,7.2,92.5
+MEX,Mexico,2006,Rural,75.3,15.6,90.9,65.1,17.1,82.2
+MEX,Mexico,2007,Urban,95.3,3.3,98.6,85.7,7.1,92.8
+MEX,Mexico,2007,Rural,76.8,14.8,91.6,66.7,16.5,83.2
+MEX,Mexico,2008,Urban,95.7,3.1,98.8,86,7,93
+MEX,Mexico,2008,Rural,78.3,14,92.3,67.9,16.1,84
+MEX,Mexico,2009,Urban,96.1,2.8,98.9,86.3,6.8,93.1
+MEX,Mexico,2009,Rural,79.5,13.2,92.7,68.7,15.9,84.6
+MEX,Mexico,2010,Urban,96.3,2.6,98.9,86.6,7.6,94.2
+MEX,Mexico,2010,Rural,80.8,12.4,93.2,69.5,15.7,85.2
+MEX,Mexico,2011,Urban,96.4,2.7,99.1,86.9,7.5,94.4
+MEX,Mexico,2011,Rural,81.6,12.1,93.7,70.6,15.2,85.8
+MEX,Mexico,2012,Urban,96.5,2.7,99.2,87.2,7.4,94.6
+MEX,Mexico,2012,Rural,82.4,11.8,94.2,71.7,14.7,86.4
+MEX,Mexico,2013,Urban,96.5,2.6,99.1,87.5,7.3,94.8
+MEX,Mexico,2013,Rural,83.1,11.5,94.6,72.8,14.2,87
+MEX,Mexico,2014,Urban,96.6,2.6,99.2,87.8,7.2,95
+MEX,Mexico,2014,Rural,83.9,11.2,95.1,73.9,13.7,87.6
+MEX,Mexico,2015,Urban,96.6,2.6,99.2,88.1,7.1,95.2
+MEX,Mexico,2015,Rural,84.6,10.9,95.5,75,13.2,88.2
+MEX,Mexico,2016,Urban,96.6,2.6,99.2,88.2,7.1,95.3
+MEX,Mexico,2016,Rural,84.9,10.8,95.7,75.7,12.9,88.6
+MEX,Mexico,2017,Urban,96.6,2.5,99.1,88.4,7,95.4
+MEX,Mexico,2017,Rural,85.2,10.7,95.9,76.4,12.6,89
+MEX,Mexico,2018,Urban,96.6,2.5,99.1,88.5,7,95.5
+MEX,Mexico,2018,Rural,85.5,10.7,96.2,77.1,12.3,89.4
+MEX,Mexico,2019,Urban,96.7,2.5,99.2,88.7,7,95.7
+MEX,Mexico,2019,Rural,85.7,10.6,96.3,77.8,12.1,89.9
+MEX,Mexico,2020,Urban,96.7,2.5,99.2,88.8,7,95.8
+MEX,Mexico,2020,Rural,85.9,10.6,96.5,78.2,12,90.2
+MEX,Mexico,2021,Urban,96.7,2.5,99.2,88.8,7,95.8
+MEX,Mexico,2021,Rural,85.9,10.6,96.5,78.3,11.9,90.2
+MEX,Mexico,2022,Urban,96.7,2.5,99.2,88.8,7,95.8
+MEX,Mexico,2022,Rural,86,10.6,96.6,78.5,11.9,90.4
+MMR,Myanmar,2000,Urban,77.7,13.2,90.9,74.1,16.6,90.7
+MMR,Myanmar,2000,Rural,37.6,22.5,60.1,21.3,38,59.3
+MMR,Myanmar,2001,Urban,78.6,13,91.6,75.1,16.2,91.3
+MMR,Myanmar,2001,Rural,39.6,22.9,62.5,23.9,38.2,62.1
+MMR,Myanmar,2002,Urban,79.5,12.8,92.3,76.1,15.8,91.9
+MMR,Myanmar,2002,Rural,41.6,23.3,64.9,26.5,38.4,64.9
+MMR,Myanmar,2003,Urban,80.4,12.6,93,77.1,15.4,92.5
+MMR,Myanmar,2003,Rural,43.6,23.7,67.3,29.1,38.6,67.7
+MMR,Myanmar,2004,Urban,81.3,12.4,93.7,78.1,15,93.1
+MMR,Myanmar,2004,Rural,45.6,24.1,69.7,31.7,38.8,70.5
+MMR,Myanmar,2005,Urban,82.2,12.2,94.4,79.1,14.6,93.7
+MMR,Myanmar,2005,Rural,47.6,24.5,72.1,34.3,39,73.3
+MMR,Myanmar,2006,Urban,82.8,11.9,94.7,79.7,14.4,94.1
+MMR,Myanmar,2006,Rural,49.1,24.9,74,36.1,39.1,75.2
+MMR,Myanmar,2007,Urban,83.2,11.5,94.7,80.3,14.2,94.5
+MMR,Myanmar,2007,Rural,50.6,25.2,75.8,37.8,39.1,76.9
+MMR,Myanmar,2008,Urban,83.5,11.2,94.7,80.9,14,94.9
+MMR,Myanmar,2008,Rural,52.1,25.4,77.5,39.5,39.1,78.6
+MMR,Myanmar,2009,Urban,83.7,10.8,94.5,81.4,13.9,95.3
+MMR,Myanmar,2009,Rural,53.5,25.6,79.1,40.9,39,79.9
+MMR,Myanmar,2010,Urban,83.9,10.4,94.3,81.9,13.8,95.7
+MMR,Myanmar,2010,Rural,52.1,25.7,77.8,42.2,38.8,81
+MMR,Myanmar,2011,Urban,84.6,9.9,94.5,82.5,13.4,95.9
+MMR,Myanmar,2011,Rural,54.7,26.1,80.8,44.5,38.5,83
+MMR,Myanmar,2012,Urban,85.3,9.4,94.7,83.1,13,96.1
+MMR,Myanmar,2012,Rural,57.3,26.5,83.8,46.8,38.2,85
+MMR,Myanmar,2013,Urban,86,8.9,94.9,83.7,12.6,96.3
+MMR,Myanmar,2013,Rural,59.9,26.9,86.8,49.1,37.9,87
+MMR,Myanmar,2014,Urban,86.7,8.4,95.1,84.3,12.2,96.5
+MMR,Myanmar,2014,Rural,62.5,27.3,89.8,51.4,37.6,89
+MMR,Myanmar,2015,Urban,87.4,7.9,95.3,84.9,11.8,96.7
+MMR,Myanmar,2015,Rural,65.1,27.7,92.8,53.7,37.3,91
+MMR,Myanmar,2016,Urban,87.9,7.6,95.5,85.3,11.6,96.9
+MMR,Myanmar,2016,Rural,66.6,28,94.6,55.5,35.3,90.8
+MMR,Myanmar,2017,Urban,88.3,7.4,95.7,85.7,11.5,97.2
+MMR,Myanmar,2017,Rural,68.2,28.3,96.5,57.2,33.3,90.5
+MMR,Myanmar,2018,Urban,88.7,7.1,95.8,86,11.4,97.4
+MMR,Myanmar,2018,Rural,69.7,28.6,98.3,58.9,31.3,90.2
+MMR,Myanmar,2019,Urban,89.1,6.8,95.9,86.4,11.3,97.7
+MMR,Myanmar,2019,Rural,71.3,28.9,100.2,60.6,29.3,89.9
+MMR,Myanmar,2020,Urban,89.3,7.3,96.6,86.5,11.2,97.7
+MMR,Myanmar,2020,Rural,73.1,27.6,100.7,62,27.7,89.7
+MMR,Myanmar,2021,Urban,89.4,7.8,97.2,86.6,11.2,97.8
+MMR,Myanmar,2021,Rural,74.2,26.3,100.5,62.4,26.1,88.5
+MMR,Myanmar,2022,Urban,89.5,8,97.5,86.7,11.2,97.9
+MMR,Myanmar,2022,Rural,69,23.3,92.3,62.8,29.3,92.1
+NPL,Nepal,2000,Urban,22.9,70,92.9,41.4,27,68.4
+NPL,Nepal,2000,Rural,7.7,69.8,77.5,12.2,11.4,23.6
+NPL,Nepal,2001,Urban,23.6,70,93.6,42.9,27.1,70
+NPL,Nepal,2001,Rural,8.5,70.5,79,13.8,12.2,26
+NPL,Nepal,2002,Urban,24.3,70,94.3,44.4,27.2,71.6
+NPL,Nepal,2002,Rural,9.3,71.2,80.5,15.4,13,28.4
+NPL,Nepal,2003,Urban,25,70,95,45.9,27.3,73.2
+NPL,Nepal,2003,Rural,10.1,71.9,82,17,13.8,30.8
+NPL,Nepal,2004,Urban,25.7,70,95.7,47.4,27.4,74.8
+NPL,Nepal,2004,Rural,10.9,72.6,83.5,18.6,14.6,33.2
+NPL,Nepal,2005,Urban,26.4,70,96.4,48.9,27.5,76.4
+NPL,Nepal,2005,Rural,11.7,73.3,85,20.2,15.4,35.6
+NPL,Nepal,2006,Urban,26.9,69.6,96.5,50.1,27.8,77.9
+NPL,Nepal,2006,Rural,12.7,73.8,86.5,22.1,16.4,38.5
+NPL,Nepal,2007,Urban,27.3,69.1,96.4,51.4,28,79.4
+NPL,Nepal,2007,Rural,13.7,74.4,88.1,24,17.4,41.4
+NPL,Nepal,2008,Urban,27.8,68.7,96.5,52.6,28.3,80.9
+NPL,Nepal,2008,Rural,14.7,74.9,89.6,25.9,18.4,44.3
+NPL,Nepal,2009,Urban,28.2,68.2,96.4,53.8,28.5,82.3
+NPL,Nepal,2009,Rural,15.7,75.4,91.1,27.9,19.4,47.3
+NPL,Nepal,2010,Urban,28.6,67.6,96.2,56.1,28.7,84.8
+NPL,Nepal,2010,Rural,16,76.7,92.7,28.9,21.2,50.1
+NPL,Nepal,2011,Urban,29.1,67,96.1,57.1,28.6,85.7
+NPL,Nepal,2011,Rural,17.1,76.8,93.9,31.3,21.5,52.8
+NPL,Nepal,2012,Urban,29.6,66.4,96,58.1,28.5,86.6
+NPL,Nepal,2012,Rural,18.2,76.9,95.1,33.7,21.8,55.5
+NPL,Nepal,2013,Urban,30.1,65.8,95.9,59.1,28.4,87.5
+NPL,Nepal,2013,Rural,19.3,77,96.3,36.1,22.1,58.2
+NPL,Nepal,2014,Urban,30.6,65.2,95.8,60.1,28.3,88.4
+NPL,Nepal,2014,Rural,20.4,77.1,97.5,38.5,22.4,60.9
+NPL,Nepal,2015,Urban,31.1,64.6,95.7,61.1,28.2,89.3
+NPL,Nepal,2015,Rural,21.5,77.2,98.7,40.9,22.7,63.6
+NPL,Nepal,2016,Urban,32.2,63.6,95.8,63.4,27.5,90.9
+NPL,Nepal,2016,Rural,22.9,76.9,99.8,43.7,22.9,66.6
+NPL,Nepal,2017,Urban,33.4,62.6,96,65.7,26.8,92.5
+NPL,Nepal,2017,Rural,24.3,76.6,100.9,46.5,23.1,69.6
+NPL,Nepal,2018,Urban,34.6,61.6,96.2,68,26.1,94.1
+NPL,Nepal,2018,Rural,25.7,76.3,102,49.3,23.3,72.6
+NPL,Nepal,2019,Urban,35.8,60.6,96.4,70.3,25.4,95.7
+NPL,Nepal,2019,Rural,27.1,76,103.1,52.1,23.5,75.6
+NPL,Nepal,2020,Urban,36.6,59.9,96.5,72,23.8,95.8
+NPL,Nepal,2020,Rural,27.9,75.2,103.1,54.2,23.6,77.8
+NPL,Nepal,2021,Urban,37.1,59.5,96.6,72.8,22.9,95.7
+NPL,Nepal,2021,Rural,28,74.4,102.4,55.4,23.7,79.1
+NPL,Nepal,2022,Urban,37.5,59.1,96.6,73.5,21,94.5
+NPL,Nepal,2022,Rural,28.2,65.7,93.9,53.2,23.7,76.9
+NGA,Nigeria,2000,Urban,4.2,69.5,73.7,20.5,22.9,43.4
+NGA,Nigeria,2000,Rural,0.7,38.3,39,6.8,14.3,21.1
+NGA,Nigeria,2001,Urban,4.4,70.1,74.5,21.1,23.3,44.4
+NGA,Nigeria,2001,Rural,0.8,39.6,40.4,7.3,15.1,22.4
+NGA,Nigeria,2002,Urban,4.7,70.8,75.5,21.7,23.8,45.5
+NGA,Nigeria,2002,Rural,0.8,40.9,41.7,7.7,15.9,23.6
+NGA,Nigeria,2003,Urban,4.9,71.5,76.4,22.3,24.3,46.6
+NGA,Nigeria,2003,Rural,0.9,42.2,43.1,8.1,16.7,24.8
+NGA,Nigeria,2004,Urban,5.2,72.2,77.4,22.9,24.8,47.7
+NGA,Nigeria,2004,Rural,0.9,43.5,44.4,8.5,17.5,26
+NGA,Nigeria,2005,Urban,5.5,72.9,78.4,23.5,25.3,48.8
+NGA,Nigeria,2005,Rural,1,44.8,45.8,8.9,18.3,27.2
+NGA,Nigeria,2006,Urban,5.8,74.2,80,24.2,26.2,50.4
+NGA,Nigeria,2006,Rural,1,45.9,46.9,9,18.6,27.6
+NGA,Nigeria,2007,Urban,6.1,75.4,81.5,24.8,27,51.8
+NGA,Nigeria,2007,Rural,1.1,46.9,48,9.1,18.9,28
+NGA,Nigeria,2008,Urban,6.4,76.7,83.1,25.3,27.8,53.1
+NGA,Nigeria,2008,Rural,1.1,47.8,48.9,9.1,19.2,28.3
+NGA,Nigeria,2009,Urban,6.7,77.9,84.6,25.7,28.5,54.2
+NGA,Nigeria,2009,Rural,1.2,48.1,49.3,9.1,19.3,28.4
+NGA,Nigeria,2010,Urban,7,78.4,85.4,26,29.2,55.2
+NGA,Nigeria,2010,Rural,1.2,48.2,49.4,9.1,19.4,28.5
+NGA,Nigeria,2011,Urban,7.7,78.9,86.6,26.6,29.8,56.4
+NGA,Nigeria,2011,Rural,1.5,49,50.5,9.5,20,29.5
+NGA,Nigeria,2012,Urban,8.5,79.4,87.9,27.2,30.4,57.6
+NGA,Nigeria,2012,Rural,1.8,49.8,51.6,9.9,20.6,30.5
+NGA,Nigeria,2013,Urban,9.3,79.9,89.2,27.8,31,58.8
+NGA,Nigeria,2013,Rural,2.1,50.6,52.7,10.3,21.2,31.5
+NGA,Nigeria,2014,Urban,10.1,80.4,90.5,28.3,31.6,60
+NGA,Nigeria,2014,Rural,2.4,51.4,53.8,10.7,21.8,32.5
+NGA,Nigeria,2015,Urban,11,80.9,91.9,28.8,32.2,61
+NGA,Nigeria,2015,Rural,2.7,52.2,54.9,11.1,22.4,33.5
+NGA,Nigeria,2016,Urban,12.2,80.7,92.9,29.3,32.6,61.9
+NGA,Nigeria,2016,Rural,3.1,53.3,56.4,11.6,23,34.6
+NGA,Nigeria,2017,Urban,13.4,80.5,93.9,29.7,33,62.7
+NGA,Nigeria,2017,Rural,3.5,54.4,57.9,12.1,23.6,35.7
+NGA,Nigeria,2018,Urban,14.6,80.3,94.9,30.1,33.4,63.5
+NGA,Nigeria,2018,Rural,3.9,55.5,59.4,12.5,24.2,36.7
+NGA,Nigeria,2019,Urban,15.8,80.1,95.9,30.5,33.8,64.3
+NGA,Nigeria,2019,Rural,4.3,56.6,60.9,12.9,24.8,37.7
+NGA,Nigeria,2020,Urban,16.8,79.9,96.7,30.8,33.9,64.7
+NGA,Nigeria,2020,Rural,4.4,57.5,61.9,13.1,25.2,38.3
+NGA,Nigeria,2021,Urban,17.4,79.7,97.1,31,34,65
+NGA,Nigeria,2021,Rural,4.5,58.1,62.6,13.3,25.4,38.7
+NGA,Nigeria,2022,Urban,18,79.5,97.5,31.2,34,65.2
+NGA,Nigeria,2022,Rural,4.5,58.6,63.1,13.4,25.6,39
+PAK,Pakistan,2000,Urban,37.9,58.7,96.6,46.1,23.3,69.4
+PAK,Pakistan,2000,Rural,9.5,77.7,87.2,14.2,18.1,32.3
+PAK,Pakistan,2001,Urban,39,58,97,47.3,23.2,70.5
+PAK,Pakistan,2001,Rural,10.8,76.9,87.7,16,18.8,34.8
+PAK,Pakistan,2002,Urban,40.1,57.3,97.4,48.5,23.1,71.6
+PAK,Pakistan,2002,Rural,12.1,76.1,88.2,17.8,19.5,37.3
+PAK,Pakistan,2003,Urban,41.2,56.6,97.8,49.7,23,72.7
+PAK,Pakistan,2003,Rural,13.4,75.3,88.7,19.6,20.2,39.8
+PAK,Pakistan,2004,Urban,42.3,55.9,98.2,50.9,22.9,73.8
+PAK,Pakistan,2004,Rural,14.7,74.5,89.2,21.4,20.9,42.3
+PAK,Pakistan,2005,Urban,43.4,55.2,98.6,52.1,22.8,74.9
+PAK,Pakistan,2005,Rural,16,73.7,89.7,23.2,21.6,44.8
+PAK,Pakistan,2006,Urban,44.2,54.6,98.8,53.2,22.6,75.8
+PAK,Pakistan,2006,Rural,17.1,73,90.1,24.7,21.9,46.6
+PAK,Pakistan,2007,Urban,45,54,99,54.3,22.4,76.7
+PAK,Pakistan,2007,Rural,18.2,72.3,90.5,26.2,22.2,48.4
+PAK,Pakistan,2008,Urban,45.5,53.6,99.1,55.2,22.1,77.3
+PAK,Pakistan,2008,Rural,19.2,71.8,91,27.3,22.4,49.7
+PAK,Pakistan,2009,Urban,45.8,53,98.8,56,21.7,77.7
+PAK,Pakistan,2009,Rural,20,71.5,91.5,28,22.7,50.7
+PAK,Pakistan,2010,Urban,46.1,52.3,98.4,56.7,21.3,78
+PAK,Pakistan,2010,Rural,20.8,71.2,92,27.5,23.2,50.7
+PAK,Pakistan,2011,Urban,46.6,51.8,98.4,58.3,20.8,79.1
+PAK,Pakistan,2011,Rural,22.6,70,92.6,29.9,23.5,53.4
+PAK,Pakistan,2012,Urban,47.1,51.3,98.4,59.9,20.3,80.2
+PAK,Pakistan,2012,Rural,24.4,68.8,93.2,32.3,23.8,56.1
+PAK,Pakistan,2013,Urban,47.6,50.8,98.4,61.5,19.8,81.3
+PAK,Pakistan,2013,Rural,26.2,67.6,93.8,34.7,24.1,58.8
+PAK,Pakistan,2014,Urban,48.1,50.3,98.4,63.1,19.3,82.4
+PAK,Pakistan,2014,Rural,28,66.4,94.4,37.1,24.4,61.5
+PAK,Pakistan,2015,Urban,48.6,49.8,98.4,64.7,18.8,83.5
+PAK,Pakistan,2015,Rural,29.8,65.2,95,39.5,24.7,64.2
+PAK,Pakistan,2016,Urban,49.1,49.4,98.5,66.1,18.4,84.5
+PAK,Pakistan,2016,Rural,31.2,63.6,94.8,42,23.7,65.7
+PAK,Pakistan,2017,Urban,49.6,49,98.6,67.5,18,85.5
+PAK,Pakistan,2017,Rural,32.6,62,94.6,44.5,22.7,67.2
+PAK,Pakistan,2018,Urban,50.1,48.6,98.7,68.9,17.6,86.5
+PAK,Pakistan,2018,Rural,34,60.4,94.4,47,21.7,68.7
+PAK,Pakistan,2019,Urban,50.6,48.2,98.8,70.3,17.2,87.5
+PAK,Pakistan,2019,Rural,35.4,58.8,94.2,49.5,20.7,70.2
+PAK,Pakistan,2020,Urban,50.9,48.1,99,70.6,16.4,87
+PAK,Pakistan,2020,Rural,35.5,56,91.5,50.2,20,70.2
+PAK,Pakistan,2021,Urban,51,48.1,99.1,70.8,15.9,86.7
+PAK,Pakistan,2021,Rural,35.5,54.2,89.7,50.6,19.9,70.5
+PAK,Pakistan,2022,Urban,51.1,48.1,99.2,70.9,15.5,86.4
+PAK,Pakistan,2022,Rural,35.5,52.4,87.9,51,19.8,70.8
+PER,Peru,2000,Urban,71.7,16.5,88.2,50.8,20.4,71.2
+PER,Peru,2000,Rural,17.7,30,47.7,11.2,26,37.2
+PER,Peru,2001,Urban,72.9,16,88.9,52.2,20.3,72.5
+PER,Peru,2001,Rural,20,30.3,50.3,13.6,26,39.6
+PER,Peru,2002,Urban,74.1,15.5,89.6,53.6,20.2,73.8
+PER,Peru,2002,Rural,22.3,30.6,52.9,16,26,42
+PER,Peru,2003,Urban,75.3,15,90.3,55,20.1,75.1
+PER,Peru,2003,Rural,24.6,30.9,55.5,18.4,26,44.4
+PER,Peru,2004,Urban,76.5,14.5,91,56.4,20,76.4
+PER,Peru,2004,Rural,26.9,31.2,58.1,20.8,26,46.8
+PER,Peru,2005,Urban,77.7,14,91.7,57.8,19.9,77.7
+PER,Peru,2005,Rural,29.2,31.5,60.7,23.2,26,49.2
+PER,Peru,2006,Urban,78.6,13.6,92.2,59.2,19.7,78.9
+PER,Peru,2006,Rural,31.3,30.8,62.1,25.3,25.7,51
+PER,Peru,2007,Urban,79.5,13.2,92.7,60.6,19.5,80.1
+PER,Peru,2007,Rural,33.4,30.1,63.5,27.4,25.4,52.8
+PER,Peru,2008,Urban,80.4,12.8,93.2,62,19.3,81.3
+PER,Peru,2008,Rural,35.5,29.4,64.9,29.5,25.1,54.6
+PER,Peru,2009,Urban,81.4,12.4,93.8,63.4,19.1,82.5
+PER,Peru,2009,Rural,37.6,28.7,66.3,31.6,24.8,56.4
+PER,Peru,2010,Urban,82.4,10.7,93.1,66.8,18.6,85.4
+PER,Peru,2010,Rural,40.7,26.2,66.9,32.4,25.1,57.5
+PER,Peru,2011,Urban,83.3,10.3,93.6,68.2,18.1,86.3
+PER,Peru,2011,Rural,44,25.1,69.1,35,24.6,59.6
+PER,Peru,2012,Urban,84.2,9.9,94.1,69.6,17.6,87.2
+PER,Peru,2012,Rural,47.3,24,71.3,37.6,24.1,61.7
+PER,Peru,2013,Urban,85.1,9.5,94.6,71,17.1,88.1
+PER,Peru,2013,Rural,50.6,22.9,73.5,40.2,23.6,63.8
+PER,Peru,2014,Urban,86,9.1,95.1,72.4,16.6,89
+PER,Peru,2014,Rural,53.9,21.8,75.7,42.8,23.1,65.9
+PER,Peru,2015,Urban,86.9,8.7,95.6,73.8,16.1,89.9
+PER,Peru,2015,Rural,57.2,20.7,77.9,45.4,22.6,68
+PER,Peru,2016,Urban,87.4,8.4,95.8,74.9,15.7,90.6
+PER,Peru,2016,Rural,59.2,20,79.2,47.7,22.1,69.8
+PER,Peru,2017,Urban,87.8,8.2,96,76,15.3,91.3
+PER,Peru,2017,Rural,61.2,19.3,80.5,50,21.6,71.6
+PER,Peru,2018,Urban,88.1,8.1,96.2,76.9,14.9,91.8
+PER,Peru,2018,Rural,62.5,19.3,81.8,52,21.1,73.1
+PER,Peru,2019,Urban,88.3,8,96.3,77.8,14.5,92.3
+PER,Peru,2019,Rural,63.5,19.3,82.8,53.9,20.6,74.5
+PER,Peru,2020,Urban,88.4,7.9,96.3,78.5,13.9,92.4
+PER,Peru,2020,Rural,63.8,19.3,83.1,55.7,20.2,75.9
+PER,Peru,2021,Urban,88.4,7.9,96.3,79,13.6,92.6
+PER,Peru,2021,Rural,63.8,19.3,83.1,57.2,20,77.2
+PER,Peru,2022,Urban,88.4,7.8,96.2,79.5,13.2,92.7
+PER,Peru,2022,Rural,63.9,19.3,83.2,58.7,19.8,78.5
+PHL,Philippines,2000,Urban,70.2,24.6,94.8,60.6,26.8,87.4
+PHL,Philippines,2000,Rural,44.4,36.4,80.8,33.2,29.3,62.5
+PHL,Philippines,2001,Urban,71.1,24.2,95.3,61.7,26.8,88.5
+PHL,Philippines,2001,Rural,46.5,35.6,82.1,35.6,29.5,65.1
+PHL,Philippines,2002,Urban,72,23.8,95.8,62.8,26.8,89.6
+PHL,Philippines,2002,Rural,48.6,34.8,83.4,38,29.7,67.7
+PHL,Philippines,2003,Urban,72.9,23.4,96.3,63.9,26.8,90.7
+PHL,Philippines,2003,Rural,50.7,34,84.7,40.4,29.9,70.3
+PHL,Philippines,2004,Urban,73.8,23,96.8,65,26.8,91.8
+PHL,Philippines,2004,Rural,52.8,33.2,86,42.8,30.1,72.9
+PHL,Philippines,2005,Urban,74.7,22.6,97.3,66.1,26.8,92.9
+PHL,Philippines,2005,Rural,54.9,32.4,87.3,45.2,30.3,75.5
+PHL,Philippines,2006,Urban,75.7,22,97.7,66.8,26.6,93.4
+PHL,Philippines,2006,Rural,57.1,31.4,88.5,47.1,30.3,77.4
+PHL,Philippines,2007,Urban,76.6,21.4,98,67.4,26.3,93.7
+PHL,Philippines,2007,Rural,59,30.4,89.4,49,30.2,79.2
+PHL,Philippines,2008,Urban,77.2,20.5,97.7,67.7,26.1,93.8
+PHL,Philippines,2008,Rural,60.6,29.1,89.7,50.4,30.1,80.5
+PHL,Philippines,2009,Urban,77.7,19.6,97.3,68,25.7,93.7
+PHL,Philippines,2009,Rural,61.7,27.8,89.5,51.6,30,81.6
+PHL,Philippines,2010,Urban,78.2,18.5,96.7,68.2,25.3,93.5
+PHL,Philippines,2010,Rural,62.8,26.6,89.4,52.2,29.8,82
+PHL,Philippines,2011,Urban,79,17.7,96.7,69.5,24.4,93.9
+PHL,Philippines,2011,Rural,64.6,25.6,90.2,54.3,29.1,83.4
+PHL,Philippines,2012,Urban,79.8,16.9,96.7,70.8,23.5,94.3
+PHL,Philippines,2012,Rural,66.4,24.6,91,56.4,28.4,84.8
+PHL,Philippines,2013,Urban,80.6,16.1,96.7,72.1,22.6,94.7
+PHL,Philippines,2013,Rural,68.2,23.6,91.8,58.5,27.7,86.2
+PHL,Philippines,2014,Urban,81.4,15.3,96.7,73.4,21.7,95.1
+PHL,Philippines,2014,Rural,70,22.6,92.6,60.6,27,87.6
+PHL,Philippines,2015,Urban,82.2,14.5,96.7,74.7,20.8,95.5
+PHL,Philippines,2015,Rural,71.8,21.6,93.4,62.7,26.3,89
+PHL,Philippines,2016,Urban,83,13.8,96.8,75.9,20,95.9
+PHL,Philippines,2016,Rural,73.2,20.7,93.9,64.8,25.3,90.1
+PHL,Philippines,2017,Urban,83.8,13.1,96.9,77.1,19.2,96.3
+PHL,Philippines,2017,Rural,74.6,19.8,94.4,66.9,24.3,91.2
+PHL,Philippines,2018,Urban,84.6,12.4,97,78.3,18.4,96.7
+PHL,Philippines,2018,Rural,76,18.9,94.9,69,23.3,92.3
+PHL,Philippines,2019,Urban,85.4,11.7,97.1,79.5,17.6,97.1
+PHL,Philippines,2019,Rural,77.4,18,95.4,71.1,22.3,93.4
+PHL,Philippines,2020,Urban,86,11.4,97.4,80.5,16.6,97.1
+PHL,Philippines,2020,Rural,77.7,17.3,95,72.2,21.5,93.7
+PHL,Philippines,2021,Urban,86.3,11.3,97.6,81.3,16.1,97.4
+PHL,Philippines,2021,Rural,77.8,16.9,94.7,72.9,20.9,93.8
+PHL,Philippines,2022,Urban,86.6,11.2,97.8,82,15.6,97.6
+PHL,Philippines,2022,Rural,77.9,16.6,94.5,73.6,20.3,93.9
+ROU,Romania,2000,Urban,91.8,7,98.8,91.4,7.2,98.6
+ROU,Romania,2000,Rural,11.3,62.9,74.2,11.1,51.8,62.9
+ROU,Romania,2001,Urban,92.2,6.8,99,91.9,6.9,98.8
+ROU,Romania,2001,Rural,12.8,62.5,75.3,12.8,51.6,64.4
+ROU,Romania,2002,Urban,92.6,6.6,99.2,92.4,6.6,99
+ROU,Romania,2002,Rural,14.3,62.1,76.4,14.5,51.4,65.9
+ROU,Romania,2003,Urban,93,6.4,99.4,92.9,6.3,99.2
+ROU,Romania,2003,Rural,15.8,61.7,77.5,16.2,51.2,67.4
+ROU,Romania,2004,Urban,93.4,6.2,99.6,93.4,6,99.4
+ROU,Romania,2004,Rural,17.3,61.3,78.6,17.9,51,68.9
+ROU,Romania,2005,Urban,93.8,6,99.8,93.9,5.7,99.6
+ROU,Romania,2005,Rural,18.8,60.9,79.7,19.6,50.8,70.4
+ROU,Romania,2006,Urban,94,5.5,99.5,94,5.4,99.4
+ROU,Romania,2006,Rural,20.8,60.3,81.1,21,50.9,71.9
+ROU,Romania,2007,Urban,94.2,5.1,99.3,94.1,5.2,99.3
+ROU,Romania,2007,Rural,22.8,59.7,82.5,22.4,51,73.4
+ROU,Romania,2008,Urban,94.4,4.9,99.3,94.2,5,99.2
+ROU,Romania,2008,Rural,24.2,59.3,83.5,23.8,51.1,74.9
+ROU,Romania,2009,Urban,94.6,4.7,99.3,94.2,4.9,99.1
+ROU,Romania,2009,Rural,24.9,59,83.9,24.5,51.1,75.6
+ROU,Romania,2010,Urban,94.7,4.5,99.2,94.3,4.8,99.1
+ROU,Romania,2010,Rural,25.6,58.8,84.4,25.3,51.1,76.4
+ROU,Romania,2011,Urban,94.9,4.4,99.3,94.5,4.6,99.1
+ROU,Romania,2011,Rural,27.5,57.7,85.2,27.3,50.5,77.8
+ROU,Romania,2012,Urban,95.1,4.3,99.4,94.7,4.4,99.1
+ROU,Romania,2012,Rural,29.4,56.6,86,29.3,49.9,79.2
+ROU,Romania,2013,Urban,95.3,4.2,99.5,94.9,4.2,99.1
+ROU,Romania,2013,Rural,31.3,55.5,86.8,31.3,49.3,80.6
+ROU,Romania,2014,Urban,95.5,4.1,99.6,95.1,4,99.1
+ROU,Romania,2014,Rural,33.2,54.4,87.6,33.3,48.7,82
+ROU,Romania,2015,Urban,95.7,4,99.7,95.3,3.8,99.1
+ROU,Romania,2015,Rural,35.1,53.3,88.4,35.3,48.1,83.4
+ROU,Romania,2016,Urban,95.9,3.7,99.6,95.5,3.7,99.2
+ROU,Romania,2016,Rural,36.7,52.5,89.2,36.9,47.6,84.5
+ROU,Romania,2017,Urban,96.1,3.5,99.6,95.7,3.6,99.3
+ROU,Romania,2017,Rural,38.3,51.7,90,38.5,47.1,85.6
+ROU,Romania,2018,Urban,96.2,3.4,99.6,95.8,3.5,99.3
+ROU,Romania,2018,Rural,39.9,50.9,90.8,40.1,46.6,86.7
+ROU,Romania,2019,Urban,96.4,3.2,99.6,96,3.4,99.4
+ROU,Romania,2019,Rural,41.5,50.1,91.6,41.7,46.1,87.8
+ROU,Romania,2020,Urban,96.5,3.1,99.6,96,3.3,99.3
+ROU,Romania,2020,Rural,42.4,49.7,92.1,42.3,46.1,88.4
+ROU,Romania,2021,Urban,96.5,3.1,99.6,96.1,3.3,99.4
+ROU,Romania,2021,Rural,42.8,49.5,92.3,42.6,46.1,88.7
+ROU,Romania,2022,Urban,96.5,3.1,99.6,96.1,3.3,99.4
+ROU,Romania,2022,Rural,43.2,50.1,93.3,42.9,46.1,89
+RWA,Rwanda,2000,Urban,33.9,50.2,84.1,50.5,22.7,73.2
+RWA,Rwanda,2000,Rural,8.8,41.2,50,20,14.5,34.5
+RWA,Rwanda,2001,Urban,35.1,50,85.1,51.6,22.5,74.1
+RWA,Rwanda,2001,Rural,9.2,42.7,51.9,21.5,15.1,36.6
+RWA,Rwanda,2002,Urban,36.3,49.8,86.1,52.7,22.3,75
+RWA,Rwanda,2002,Rural,9.6,44.2,53.8,23,15.7,38.7
+RWA,Rwanda,2003,Urban,37.5,49.6,87.1,53.8,22.1,75.9
+RWA,Rwanda,2003,Rural,10,45.7,55.7,24.5,16.3,40.8
+RWA,Rwanda,2004,Urban,38.7,49.4,88.1,54.9,21.9,76.8
+RWA,Rwanda,2004,Rural,10.4,47.2,57.6,26,16.9,42.9
+RWA,Rwanda,2005,Urban,39.9,49.2,89.1,56,21.7,77.7
+RWA,Rwanda,2005,Rural,10.8,48.7,59.5,27.5,17.5,45
+RWA,Rwanda,2006,Urban,40.8,48.7,89.5,57.1,21.5,78.6
+RWA,Rwanda,2006,Rural,11.2,49.9,61.1,28.7,18,46.7
+RWA,Rwanda,2007,Urban,41.6,48.2,89.8,58.1,21.3,79.4
+RWA,Rwanda,2007,Rural,11.5,51.1,62.6,29.9,18.5,48.4
+RWA,Rwanda,2008,Urban,42.5,47.7,90.2,59.1,21.1,80.2
+RWA,Rwanda,2008,Rural,11.9,52.3,64.2,31.1,19,50.1
+RWA,Rwanda,2009,Urban,43,47.1,90.1,59.6,21,80.6
+RWA,Rwanda,2009,Rural,12.1,53.2,65.3,31.8,19.4,51.2
+RWA,Rwanda,2010,Urban,43.2,46.7,89.9,60.1,20.8,80.9
+RWA,Rwanda,2010,Rural,12.3,54.1,66.4,32.4,19.8,52.2
+RWA,Rwanda,2011,Urban,44.2,46,90.2,61.5,20.5,82
+RWA,Rwanda,2011,Rural,12.8,54.8,67.6,34.3,19.9,54.2
+RWA,Rwanda,2012,Urban,45.2,45.3,90.5,62.9,20.2,83.1
+RWA,Rwanda,2012,Rural,13.3,55.5,68.8,36.2,20,56.2
+RWA,Rwanda,2013,Urban,46.2,44.6,90.8,64.3,19.9,84.2
+RWA,Rwanda,2013,Rural,13.8,56.2,70,38.1,20.1,58.2
+RWA,Rwanda,2014,Urban,47.2,43.9,91.1,65.7,19.6,85.3
+RWA,Rwanda,2014,Rural,14.3,56.9,71.2,40,20.2,60.2
+RWA,Rwanda,2015,Urban,48.2,43.2,91.4,67.1,19.3,86.4
+RWA,Rwanda,2015,Rural,14.8,57.6,72.4,41.9,20.3,62.2
+RWA,Rwanda,2016,Urban,49.4,42.5,91.9,68.2,18.9,87.1
+RWA,Rwanda,2016,Rural,15.1,58.3,73.4,43.7,20,63.7
+RWA,Rwanda,2017,Urban,50.6,41.8,92.4,69.3,18.5,87.8
+RWA,Rwanda,2017,Rural,15.4,59,74.4,45.5,19.7,65.2
+RWA,Rwanda,2018,Urban,51.8,41.1,92.9,70.4,18.1,88.5
+RWA,Rwanda,2018,Rural,15.7,59.7,75.4,47.3,19.4,66.7
+RWA,Rwanda,2019,Urban,53,40.4,93.4,71.5,17.7,89.2
+RWA,Rwanda,2019,Rural,16,60.4,76.4,49.1,19.1,68.2
+RWA,Rwanda,2020,Urban,53.9,39.9,93.8,72,17.2,89.2
+RWA,Rwanda,2020,Rural,16.1,60.8,76.9,50.1,18.6,68.7
+RWA,Rwanda,2021,Urban,54.3,39.7,94,72.2,17,89.2
+RWA,Rwanda,2021,Rural,16.1,60.9,77,50.3,18.4,68.7
+RWA,Rwanda,2022,Urban,54.7,40.1,94.8,72.4,16.5,88.9
+RWA,Rwanda,2022,Rural,16.1,51,67.1,50.4,18.2,68.6
+STP,Sao Tome and Principe,2000,Urban,37.3,47.8,85.1,17.9,19.9,37.8
+STP,Sao Tome and Principe,2000,Rural,8.8,55,63.8,3.9,7.6,11.5
+STP,Sao Tome and Principe,2001,Urban,38.5,47.3,85.8,18.5,20.1,38.6
+STP,Sao Tome and Principe,2001,Rural,9.7,55.7,65.4,4.5,8,12.5
+STP,Sao Tome and Principe,2002,Urban,39.7,46.8,86.5,19.1,20.3,39.4
+STP,Sao Tome and Principe,2002,Rural,10.6,56.4,67,5.1,8.4,13.5
+STP,Sao Tome and Principe,2003,Urban,40.9,46.3,87.2,19.7,20.5,40.2
+STP,Sao Tome and Principe,2003,Rural,11.5,57.1,68.6,5.7,8.8,14.5
+STP,Sao Tome and Principe,2004,Urban,42.1,45.8,87.9,20.3,20.7,41
+STP,Sao Tome and Principe,2004,Rural,12.4,57.8,70.2,6.3,9.2,15.5
+STP,Sao Tome and Principe,2005,Urban,43.3,45.3,88.6,20.9,20.9,41.8
+STP,Sao Tome and Principe,2005,Rural,13.3,58.5,71.8,6.9,9.6,16.5
+STP,Sao Tome and Principe,2006,Urban,44.6,44.7,89.3,21.4,20.9,42.3
+STP,Sao Tome and Principe,2006,Rural,14.2,59.3,73.5,7.2,9.8,17
+STP,Sao Tome and Principe,2007,Urban,45.8,44.2,90,21.9,20.9,42.8
+STP,Sao Tome and Principe,2007,Rural,15.1,60,75.1,7.4,10,17.4
+STP,Sao Tome and Principe,2008,Urban,47.1,43.6,90.7,22.4,20.9,43.3
+STP,Sao Tome and Principe,2008,Rural,16,60.5,76.5,7.5,10.1,17.6
+STP,Sao Tome and Principe,2009,Urban,48.4,43,91.4,22.8,20.9,43.7
+STP,Sao Tome and Principe,2009,Rural,16.4,60.8,77.2,7.6,10.1,17.7
+STP,Sao Tome and Principe,2010,Urban,49.8,42.4,92.2,23.3,21,44.3
+STP,Sao Tome and Principe,2010,Rural,16.8,61.1,77.9,7.6,10.2,17.8
+STP,Sao Tome and Principe,2011,Urban,51.2,41.8,93,24.1,21.1,45.2
+STP,Sao Tome and Principe,2011,Rural,18,61.4,79.4,8.4,10.5,18.9
+STP,Sao Tome and Principe,2012,Urban,52.6,41.2,93.8,24.9,21.2,46.1
+STP,Sao Tome and Principe,2012,Rural,19.2,61.7,80.9,9.2,10.8,20
+STP,Sao Tome and Principe,2013,Urban,54,40.6,94.6,25.7,21.3,47
+STP,Sao Tome and Principe,2013,Rural,20.4,62,82.4,10,11.1,21.1
+STP,Sao Tome and Principe,2014,Urban,55.4,40,95.4,26.5,21.4,47.9
+STP,Sao Tome and Principe,2014,Rural,21.6,62.3,83.9,10.8,11.4,22.2
+STP,Sao Tome and Principe,2015,Urban,56.8,39.4,96.2,27.3,21.5,48.8
+STP,Sao Tome and Principe,2015,Rural,22.8,62.6,85.4,11.6,11.7,23.3
+STP,Sao Tome and Principe,2016,Urban,58,38.8,96.8,27.9,21.6,49.5
+STP,Sao Tome and Principe,2016,Rural,23.8,62.7,86.5,12,11.7,23.7
+STP,Sao Tome and Principe,2017,Urban,59.2,38.2,97.4,28.5,21.7,50.2
+STP,Sao Tome and Principe,2017,Rural,24.8,62.8,87.6,12.3,11.8,24.1
+STP,Sao Tome and Principe,2018,Urban,60.4,37.6,98,29.1,21.7,50.8
+STP,Sao Tome and Principe,2018,Rural,25.8,62.9,88.7,12.5,11.8,24.3
+STP,Sao Tome and Principe,2019,Urban,61.6,37,98.6,29.7,21.7,51.4
+STP,Sao Tome and Principe,2019,Rural,26.8,63,89.8,12.6,11.8,24.4
+STP,Sao Tome and Principe,2020,Urban,62.2,36.7,98.9,29.8,21.7,51.5
+STP,Sao Tome and Principe,2020,Rural,27.1,62.8,89.9,12.7,11.9,24.6
+STP,Sao Tome and Principe,2021,Urban,62.5,36.6,99.1,29.8,21.7,51.5
+STP,Sao Tome and Principe,2021,Rural,27.2,62.7,89.9,12.7,11.9,24.6
+STP,Sao Tome and Principe,2022,Urban,62.8,36.5,99.3,29.8,21.7,51.5
+STP,Sao Tome and Principe,2022,Rural,27.3,62.6,89.9,12.7,11.9,24.6
+SEN,Senegal,2000,Urban,39.5,52.9,92.4,41.6,24.3,65.9
+SEN,Senegal,2000,Rural,5.3,58.5,63.8,7.3,15.5,22.8
+SEN,Senegal,2001,Urban,40.3,52.5,92.8,42.6,24.5,67.1
+SEN,Senegal,2001,Rural,6,59.6,65.6,8.4,16.3,24.7
+SEN,Senegal,2002,Urban,41.1,52.1,93.2,43.6,24.7,68.3
+SEN,Senegal,2002,Rural,6.7,60.7,67.4,9.5,17.1,26.6
+SEN,Senegal,2003,Urban,41.9,51.7,93.6,44.6,24.9,69.5
+SEN,Senegal,2003,Rural,7.4,61.8,69.2,10.6,17.9,28.5
+SEN,Senegal,2004,Urban,42.7,51.3,94,45.6,25.1,70.7
+SEN,Senegal,2004,Rural,8.1,62.9,71,11.7,18.7,30.4
+SEN,Senegal,2005,Urban,43.5,50.9,94.4,46.6,25.3,71.9
+SEN,Senegal,2005,Rural,8.8,64,72.8,12.8,19.5,32.3
+SEN,Senegal,2006,Urban,44.5,50.4,94.9,47.8,25.4,73.2
+SEN,Senegal,2006,Rural,9.3,65,74.3,13.7,20,33.7
+SEN,Senegal,2007,Urban,45.5,49.9,95.4,49,25.5,74.5
+SEN,Senegal,2007,Rural,9.7,66,75.7,14.5,20.5,35
+SEN,Senegal,2008,Urban,46.2,49.2,95.4,50.1,25.6,75.7
+SEN,Senegal,2008,Rural,9.9,66.8,76.7,15,20.9,35.9
+SEN,Senegal,2009,Urban,46.8,48.5,95.3,51.3,25.8,77.1
+SEN,Senegal,2009,Rural,10,67.3,77.3,15.1,21.1,36.2
+SEN,Senegal,2010,Urban,47.4,48.1,95.5,52.6,25.9,78.5
+SEN,Senegal,2010,Rural,10.1,67.5,77.6,15.2,20.1,35.3
+SEN,Senegal,2011,Urban,48.3,47.5,95.8,54.1,25.8,79.9
+SEN,Senegal,2011,Rural,11.1,67.8,78.9,16.5,20.5,37
+SEN,Senegal,2012,Urban,49.2,46.9,96.1,55.6,25.7,81.3
+SEN,Senegal,2012,Rural,12.1,68.1,80.2,17.8,20.9,38.7
+SEN,Senegal,2013,Urban,50.1,46.3,96.4,57.1,25.6,82.7
+SEN,Senegal,2013,Rural,13.1,68.4,81.5,19.1,21.3,40.4
+SEN,Senegal,2014,Urban,51,45.7,96.7,58.6,25.5,84.1
+SEN,Senegal,2014,Rural,14.1,68.7,82.8,20.4,21.7,42.1
+SEN,Senegal,2015,Urban,51.9,45.1,97,60.1,25.4,85.5
+SEN,Senegal,2015,Rural,15.1,69,84.1,21.7,22.1,43.8
+SEN,Senegal,2016,Urban,52.9,44.4,97.3,61.4,25.1,86.5
+SEN,Senegal,2016,Rural,15.9,68.8,84.7,22.8,22.4,45.2
+SEN,Senegal,2017,Urban,53.9,43.7,97.6,62.7,24.8,87.5
+SEN,Senegal,2017,Rural,16.7,68.6,85.3,23.9,22.7,46.6
+SEN,Senegal,2018,Urban,54.9,43,97.9,64,24.5,88.5
+SEN,Senegal,2018,Rural,17.5,68.4,85.9,25,23,48
+SEN,Senegal,2019,Urban,55.9,42.3,98.2,65.3,24.2,89.5
+SEN,Senegal,2019,Rural,18.3,68.2,86.5,26.1,23.3,49.4
+SEN,Senegal,2020,Urban,56.5,41.9,98.4,66.1,23.4,89.5
+SEN,Senegal,2020,Rural,18.6,68.1,86.7,26.6,23.5,50.1
+SEN,Senegal,2021,Urban,56.8,41.6,98.4,66.4,23.1,89.5
+SEN,Senegal,2021,Rural,18.7,68,86.7,26.8,23.5,50.3
+SEN,Senegal,2022,Urban,57.1,41.3,98.4,66.8,22.9,89.7
+SEN,Senegal,2022,Rural,18.8,68,86.8,27.1,23.6,50.7
+SLE,Sierra Leone,2000,Urban,13.2,59.3,72.5,14.6,16.4,31
+SLE,Sierra Leone,2000,Rural,1.8,32.7,34.5,2.8,3.8,6.6
+SLE,Sierra Leone,2001,Urban,13.8,59.6,73.4,15.1,16.5,31.6
+SLE,Sierra Leone,2001,Rural,2.2,34.9,37.1,3.2,4.1,7.3
+SLE,Sierra Leone,2002,Urban,14.4,59.9,74.3,15.6,16.6,32.2
+SLE,Sierra Leone,2002,Rural,2.6,37.1,39.7,3.6,4.4,8
+SLE,Sierra Leone,2003,Urban,15,60.2,75.2,16.1,16.7,32.8
+SLE,Sierra Leone,2003,Rural,3,39.3,42.3,4,4.7,8.7
+SLE,Sierra Leone,2004,Urban,15.6,60.5,76.1,16.6,16.8,33.4
+SLE,Sierra Leone,2004,Rural,3.4,41.5,44.9,4.4,5,9.4
+SLE,Sierra Leone,2005,Urban,16.2,60.8,77,17.1,16.9,34
+SLE,Sierra Leone,2005,Rural,3.8,43.7,47.5,4.8,5.3,10.1
+SLE,Sierra Leone,2006,Urban,16.9,60.9,77.8,17.4,16.7,34.1
+SLE,Sierra Leone,2006,Rural,4,45.3,49.3,5,5.2,10.2
+SLE,Sierra Leone,2007,Urban,17.5,61,78.5,17.6,16.6,34.2
+SLE,Sierra Leone,2007,Rural,4.1,46.9,51,5,5.1,10.1
+SLE,Sierra Leone,2008,Urban,18,61.1,79.1,17.8,16.5,34.3
+SLE,Sierra Leone,2008,Rural,4.2,48.5,52.7,5,5,10
+SLE,Sierra Leone,2009,Urban,18.2,61.1,79.3,17.8,16.5,34.3
+SLE,Sierra Leone,2009,Rural,4.2,49.6,53.8,5,5,10
+SLE,Sierra Leone,2010,Urban,18.4,61.1,79.5,17.9,16.5,34.4
+SLE,Sierra Leone,2010,Rural,3.9,46.7,50.6,5.1,5,10.1
+SLE,Sierra Leone,2011,Urban,19.2,61.1,80.3,18.5,16.4,34.9
+SLE,Sierra Leone,2011,Rural,4.8,47.4,52.2,5.7,5.2,10.9
+SLE,Sierra Leone,2012,Urban,20,61.1,81.1,19.1,16.4,35.5
+SLE,Sierra Leone,2012,Rural,5.7,48.1,53.8,6.3,5.4,11.7
+SLE,Sierra Leone,2013,Urban,20.8,61.1,81.9,19.7,16.4,36.1
+SLE,Sierra Leone,2013,Rural,6.6,48.8,55.4,6.9,5.6,12.5
+SLE,Sierra Leone,2014,Urban,21.6,61.1,82.7,20.3,16.4,36.7
+SLE,Sierra Leone,2014,Rural,7.5,49.5,57,7.5,5.8,13.3
+SLE,Sierra Leone,2015,Urban,22.4,61.1,83.5,20.9,16.4,37.3
+SLE,Sierra Leone,2015,Rural,8.4,50.2,58.6,8.1,6,14.1
+SLE,Sierra Leone,2016,Urban,23,61.1,84.1,21.2,16.3,37.5
+SLE,Sierra Leone,2016,Rural,9.1,50.7,59.8,8.4,6.1,14.5
+SLE,Sierra Leone,2017,Urban,23.6,61.1,84.7,21.5,16.3,37.8
+SLE,Sierra Leone,2017,Rural,9.8,51.2,61,8.7,6.2,14.9
+SLE,Sierra Leone,2018,Urban,24.2,61.1,85.3,21.8,16.3,38.1
+SLE,Sierra Leone,2018,Rural,10.5,51.7,62.2,9,6.3,15.3
+SLE,Sierra Leone,2019,Urban,24.8,61.1,85.9,22,16.3,38.3
+SLE,Sierra Leone,2019,Rural,11.2,52.2,63.4,9.3,6.4,15.7
+SLE,Sierra Leone,2020,Urban,25.2,61.1,86.3,22.1,16.3,38.4
+SLE,Sierra Leone,2020,Rural,11.9,51.7,63.6,9.5,6.5,16
+SLE,Sierra Leone,2021,Urban,25.4,61.1,86.5,22.2,16.3,38.5
+SLE,Sierra Leone,2021,Rural,12.2,51.7,63.9,9.6,6.5,16.1
+SLE,Sierra Leone,2022,Urban,25.6,61,86.6,22.2,16.3,38.5
+SLE,Sierra Leone,2022,Rural,7.4,45.8,53.2,8.8,5.7,14.5
+SOM,Somalia,2000,Urban,21.5,50.8,72.3,26.4,22.9,49.3
+SOM,Somalia,2000,Rural,4.4,32.4,36.8,6.8,10,16.8
+SOM,Somalia,2001,Urban,22.3,50.4,72.7,27.3,22.9,50.2
+SOM,Somalia,2001,Rural,5.2,33.1,38.3,7.7,10.5,18.2
+SOM,Somalia,2002,Urban,23.1,50,73.1,28.2,22.9,51.1
+SOM,Somalia,2002,Rural,6,33.8,39.8,8.6,11,19.6
+SOM,Somalia,2003,Urban,23.9,49.6,73.5,29.1,22.9,52
+SOM,Somalia,2003,Rural,6.8,34.5,41.3,9.5,11.5,21
+SOM,Somalia,2004,Urban,24.7,49.2,73.9,30,22.9,52.9
+SOM,Somalia,2004,Rural,7.6,35.2,42.8,10.4,12,22.4
+SOM,Somalia,2005,Urban,25.5,48.8,74.3,30.9,22.9,53.8
+SOM,Somalia,2005,Rural,8.4,35.9,44.3,11.3,12.5,23.8
+SOM,Somalia,2006,Urban,26.5,48.4,74.9,31.6,22.9,54.5
+SOM,Somalia,2006,Rural,9,36.3,45.3,11.7,12.6,24.3
+SOM,Somalia,2007,Urban,27.5,48,75.5,32.3,22.9,55.2
+SOM,Somalia,2007,Rural,9.6,36.7,46.3,12.1,12.7,24.8
+SOM,Somalia,2008,Urban,28.5,47.6,76.1,32.9,22.9,55.8
+SOM,Somalia,2008,Rural,10.2,37.1,47.3,12.5,12.7,25.2
+SOM,Somalia,2009,Urban,29.4,47.5,76.9,33.2,22.9,56.1
+SOM,Somalia,2009,Rural,10.2,37.1,47.3,12.7,12.7,25.4
+SOM,Somalia,2010,Urban,30.3,47.4,77.7,33.5,22.9,56.4
+SOM,Somalia,2010,Rural,10.1,36.9,47,11.3,12.7,24
+SOM,Somalia,2011,Urban,31.5,46.7,78.2,34.5,22.8,57.3
+SOM,Somalia,2011,Rural,11.2,37.2,48.4,12.3,13,25.3
+SOM,Somalia,2012,Urban,32.7,46,78.7,35.5,22.7,58.2
+SOM,Somalia,2012,Rural,12.3,37.5,49.8,13.3,13.3,26.6
+SOM,Somalia,2013,Urban,33.9,45.3,79.2,36.5,22.6,59.1
+SOM,Somalia,2013,Rural,13.4,37.8,51.2,14.3,13.6,27.9
+SOM,Somalia,2014,Urban,35.1,44.6,79.7,37.5,22.5,60
+SOM,Somalia,2014,Rural,14.5,38.1,52.6,15.3,13.9,29.2
+SOM,Somalia,2015,Urban,36.3,43.9,80.2,38.5,22.4,60.9
+SOM,Somalia,2015,Rural,15.6,38.4,54,16.3,14.2,30.5
+SOM,Somalia,2016,Urban,37.2,43.5,80.7,39.3,22.4,61.7
+SOM,Somalia,2016,Rural,16.3,38.5,54.8,16.9,14.3,31.2
+SOM,Somalia,2017,Urban,38.1,43.1,81.2,40.1,22.4,62.5
+SOM,Somalia,2017,Rural,17,38.6,55.6,17.5,14.4,31.9
+SOM,Somalia,2018,Urban,39,42.7,81.7,40.9,22.4,63.3
+SOM,Somalia,2018,Rural,17.7,38.7,56.4,18.1,14.5,32.6
+SOM,Somalia,2019,Urban,39.9,42.3,82.2,41.7,22.4,64.1
+SOM,Somalia,2019,Rural,18.4,38.8,57.2,18.7,14.6,33.3
+SOM,Somalia,2020,Urban,40.6,42.4,83,42.2,22.4,64.6
+SOM,Somalia,2020,Rural,18.1,38.8,56.9,17.9,14.6,32.5
+SOM,Somalia,2021,Urban,40.9,42.4,83.3,42.4,22.4,64.8
+SOM,Somalia,2021,Rural,18.1,38.8,56.9,17.9,14.6,32.5
+SOM,Somalia,2022,Urban,41.2,42.4,83.6,42.6,22.4,65
+SOM,Somalia,2022,Rural,18.1,38.8,56.9,17.9,14.6,32.5
+ZAF,South Africa,2000,Urban,85.2,11.3,96.5,67.9,11.6,79.5
+ZAF,South Africa,2000,Rural,47.8,33,80.8,41.6,21.3,62.9
+ZAF,South Africa,2001,Urban,85.7,11,96.7,68.6,11.5,80.1
+ZAF,South Africa,2001,Rural,50.1,31.8,81.9,43.6,20.8,64.4
+ZAF,South Africa,2002,Urban,86.2,10.7,96.9,69.3,11.4,80.7
+ZAF,South Africa,2002,Rural,52.4,30.6,83,45.6,20.3,65.9
+ZAF,South Africa,2003,Urban,86.7,10.4,97.1,70,11.3,81.3
+ZAF,South Africa,2003,Rural,54.7,29.4,84.1,47.6,19.8,67.4
+ZAF,South Africa,2004,Urban,87.2,10.1,97.3,70.7,11.2,81.9
+ZAF,South Africa,2004,Rural,56.9,28.2,85.1,49.6,19.3,68.9
+ZAF,South Africa,2005,Urban,87.7,9.8,97.5,71.4,11.1,82.5
+ZAF,South Africa,2005,Rural,59.2,27,86.2,51.6,18.8,70.4
+ZAF,South Africa,2006,Urban,88,9.4,97.4,71.9,11,82.9
+ZAF,South Africa,2006,Rural,60.8,25.9,86.7,52.8,18.8,71.6
+ZAF,South Africa,2007,Urban,88.2,9.2,97.4,72.2,11,83.2
+ZAF,South Africa,2007,Rural,62,25,87,53.2,19.1,72.3
+ZAF,South Africa,2008,Urban,88.3,9,97.3,72.5,11,83.5
+ZAF,South Africa,2008,Rural,62.9,24.3,87.2,53.4,19.3,72.7
+ZAF,South Africa,2009,Urban,88.4,8.9,97.3,72.8,11,83.8
+ZAF,South Africa,2009,Rural,63.4,23.5,86.9,53.4,19.4,72.8
+ZAF,South Africa,2010,Urban,88.4,8.8,97.2,73.1,11,84.1
+ZAF,South Africa,2010,Rural,63.9,22.2,86.1,53.4,19.4,72.8
+ZAF,South Africa,2011,Urban,88.5,8.7,97.2,74.5,10.3,84.8
+ZAF,South Africa,2011,Rural,65,21.5,86.5,56,18.6,74.6
+ZAF,South Africa,2012,Urban,88.6,8.6,97.2,75.9,9.6,85.5
+ZAF,South Africa,2012,Rural,66.1,20.8,86.9,58.6,17.8,76.4
+ZAF,South Africa,2013,Urban,88.7,8.5,97.2,77.3,8.9,86.2
+ZAF,South Africa,2013,Rural,67.2,20.1,87.3,61.2,17,78.2
+ZAF,South Africa,2014,Urban,88.8,8.4,97.2,78.7,8.2,86.9
+ZAF,South Africa,2014,Rural,68.3,19.4,87.7,63.8,16.2,80
+ZAF,South Africa,2015,Urban,88.9,8.3,97.2,80.1,7.5,87.6
+ZAF,South Africa,2015,Rural,69.4,18.7,88.1,66.4,15.4,81.8
+ZAF,South Africa,2016,Urban,89,8.2,97.2,81.3,7.2,88.5
+ZAF,South Africa,2016,Rural,70.1,18.2,88.3,68.4,14.5,82.9
+ZAF,South Africa,2017,Urban,89,8.1,97.1,82.5,6.9,89.4
+ZAF,South Africa,2017,Rural,70.5,17.9,88.4,70,13.8,83.8
+ZAF,South Africa,2018,Urban,89.1,8.1,97.2,83.7,6.7,90.4
+ZAF,South Africa,2018,Rural,70.8,17.8,88.6,70.9,13.3,84.2
+ZAF,South Africa,2019,Urban,89.1,8.1,97.2,84.9,6.4,91.3
+ZAF,South Africa,2019,Rural,71.2,17.7,88.9,71.4,12.7,84.1
+ZAF,South Africa,2020,Urban,89.2,8,97.2,85.6,6.5,92.1
+ZAF,South Africa,2020,Rural,71.4,17.7,89.1,71.6,11.9,83.5
+ZAF,South Africa,2021,Urban,89.2,8,97.2,85.9,6.5,92.4
+ZAF,South Africa,2021,Rural,71.4,17.7,89.1,71.8,11.5,83.3
+ZAF,South Africa,2022,Urban,89.2,8,97.2,86.2,6.6,92.8
+ZAF,South Africa,2022,Rural,71.5,17.7,89.2,71.9,11,82.9
+SDN,Sudan,2000,Urban,52.1,32,84.1,30.1,13.2,43.3
+SDN,Sudan,2000,Rural,21.3,20,41.3,11.2,8.4,19.6
+SDN,Sudan,2001,Urban,52.8,31.6,84.4,30.9,13.5,44.4
+SDN,Sudan,2001,Rural,22.3,20.2,42.5,12.1,8.7,20.8
+SDN,Sudan,2002,Urban,53.5,31.2,84.7,31.7,13.8,45.5
+SDN,Sudan,2002,Rural,23.3,20.4,43.7,13,9,22
+SDN,Sudan,2003,Urban,54.2,30.8,85,32.5,14.1,46.6
+SDN,Sudan,2003,Rural,24.3,20.6,44.9,13.9,9.3,23.2
+SDN,Sudan,2004,Urban,54.9,30.4,85.3,33.3,14.4,47.7
+SDN,Sudan,2004,Rural,25.3,20.8,46.1,14.8,9.6,24.4
+SDN,Sudan,2005,Urban,55.6,30,85.6,34.1,14.7,48.8
+SDN,Sudan,2005,Rural,26.3,21,47.3,15.7,9.9,25.6
+SDN,Sudan,2006,Urban,56,29.7,85.7,34.9,15,49.9
+SDN,Sudan,2006,Rural,27.3,20.5,47.8,16.3,10.2,26.5
+SDN,Sudan,2007,Urban,56.3,29.5,85.8,35.4,15.2,50.6
+SDN,Sudan,2007,Rural,28.3,20.1,48.4,16.8,10.4,27.2
+SDN,Sudan,2008,Urban,56.5,29.4,85.9,35.9,15.4,51.3
+SDN,Sudan,2008,Rural,29.1,20,49.1,17.4,10.6,28
+SDN,Sudan,2009,Urban,56.6,29.3,85.9,36.2,15.6,51.8
+SDN,Sudan,2009,Rural,29.5,19.9,49.4,17.6,10.7,28.3
+SDN,Sudan,2010,Urban,56.6,29.3,85.9,36.4,15.7,52.1
+SDN,Sudan,2010,Rural,29.9,19.8,49.7,17.9,10.8,28.7
+SDN,Sudan,2011,Urban,57.1,28.8,85.9,37.3,16,53.3
+SDN,Sudan,2011,Rural,31.2,19.6,50.8,19,11.2,30.2
+SDN,Sudan,2012,Urban,57.6,28.3,85.9,38.2,16.3,54.5
+SDN,Sudan,2012,Rural,32.5,19.4,51.9,20.1,11.6,31.7
+SDN,Sudan,2013,Urban,58.1,27.8,85.9,39.1,16.6,55.7
+SDN,Sudan,2013,Rural,33.8,19.2,53,21.2,12,33.2
+SDN,Sudan,2014,Urban,58.6,27.3,85.9,40,16.9,56.9
+SDN,Sudan,2014,Rural,35.1,19,54.1,22.3,12.4,34.7
+SDN,Sudan,2015,Urban,59.1,26.8,85.9,40.9,17.2,58.1
+SDN,Sudan,2015,Rural,36.4,18.8,55.2,23.4,12.8,36.2
+SDN,Sudan,2016,Urban,59.5,26.5,86,41.6,17.4,59
+SDN,Sudan,2016,Rural,37.3,18.7,56,24.2,13,37.2
+SDN,Sudan,2017,Urban,59.9,26.2,86.1,42.3,17.6,59.9
+SDN,Sudan,2017,Rural,38.2,18.6,56.8,25,13.2,38.2
+SDN,Sudan,2018,Urban,60.3,25.9,86.2,43,17.8,60.8
+SDN,Sudan,2018,Rural,39.1,18.5,57.6,25.8,13.4,39.2
+SDN,Sudan,2019,Urban,60.7,25.6,86.3,43.7,18,61.7
+SDN,Sudan,2019,Rural,40,18.4,58.4,26.6,13.6,40.2
+SDN,Sudan,2020,Urban,60.8,25.8,86.6,43.7,18.1,61.8
+SDN,Sudan,2020,Rural,39.4,18.6,58,26.5,13.5,40
+SDN,Sudan,2021,Urban,60.9,25.9,86.8,43.7,18.1,61.8
+SDN,Sudan,2021,Rural,39.5,18.6,58.1,26.5,13.4,39.9
+SDN,Sudan,2022,Urban,61,26.1,87.1,43.7,18.1,61.8
+SDN,Sudan,2022,Rural,39.5,18.6,58.1,26.5,13.4,39.9
+TZA,Tanzania,2000,Urban,9.8,72.9,82.7,17.5,9.6,27.1
+TZA,Tanzania,2000,Rural,1.5,33.7,35.2,5.1,2.9,8
+TZA,Tanzania,2001,Urban,10.2,73.1,83.3,18.2,9.9,28.1
+TZA,Tanzania,2001,Rural,1.8,35.1,36.9,5.5,3.2,8.7
+TZA,Tanzania,2002,Urban,10.6,73.3,83.9,18.9,10.2,29.1
+TZA,Tanzania,2002,Rural,2.1,36.5,38.6,5.9,3.5,9.4
+TZA,Tanzania,2003,Urban,11,73.5,84.5,19.6,10.5,30.1
+TZA,Tanzania,2003,Rural,2.4,37.9,40.3,6.3,3.8,10.1
+TZA,Tanzania,2004,Urban,11.4,73.7,85.1,20.3,10.8,31.1
+TZA,Tanzania,2004,Rural,2.7,39.3,42,6.7,4.1,10.8
+TZA,Tanzania,2005,Urban,11.8,73.9,85.7,21,11.1,32.1
+TZA,Tanzania,2005,Rural,3,40.7,43.7,7.1,4.4,11.5
+TZA,Tanzania,2006,Urban,12.2,74.2,86.4,21.6,11.9,33.5
+TZA,Tanzania,2006,Rural,3.2,42.1,45.3,7.4,5,12.4
+TZA,Tanzania,2007,Urban,12.6,74.5,87.1,22.2,12.7,34.9
+TZA,Tanzania,2007,Rural,3.3,43.5,46.8,7.7,5.6,13.3
+TZA,Tanzania,2008,Urban,13,74.8,87.8,22.8,13.5,36.3
+TZA,Tanzania,2008,Rural,3.4,44.9,48.3,8,6.2,14.2
+TZA,Tanzania,2009,Urban,13.4,75.1,88.5,23.2,14,37.2
+TZA,Tanzania,2009,Rural,3.3,46.3,49.6,8.2,6.9,15.1
+TZA,Tanzania,2010,Urban,13.8,75.4,89.2,23.5,14.6,38.1
+TZA,Tanzania,2010,Rural,3.1,38.1,41.2,8.3,5.5,13.8
+TZA,Tanzania,2011,Urban,15.2,73.6,88.8,25,15.7,40.7
+TZA,Tanzania,2011,Rural,4.4,39.3,43.7,9.3,6.3,15.6
+TZA,Tanzania,2012,Urban,16.6,71.8,88.4,26.5,16.8,43.3
+TZA,Tanzania,2012,Rural,5.7,40.5,46.2,10.3,7.1,17.4
+TZA,Tanzania,2013,Urban,18,70,88,28,17.9,45.9
+TZA,Tanzania,2013,Rural,7,41.7,48.7,11.3,7.9,19.2
+TZA,Tanzania,2014,Urban,19.4,68.2,87.6,29.5,19,48.5
+TZA,Tanzania,2014,Rural,8.3,42.9,51.2,12.3,8.7,21
+TZA,Tanzania,2015,Urban,20.8,66.4,87.2,31,20.1,51.1
+TZA,Tanzania,2015,Rural,9.6,44.1,53.7,13.3,9.5,22.8
+TZA,Tanzania,2016,Urban,22.1,65.6,87.7,32.2,20.2,52.4
+TZA,Tanzania,2016,Rural,10.2,45.1,55.3,14,10,24
+TZA,Tanzania,2017,Urban,23.4,64.8,88.2,33.4,20.3,53.7
+TZA,Tanzania,2017,Rural,10.8,46.1,56.9,14.7,10.5,25.2
+TZA,Tanzania,2018,Urban,24.7,64,88.7,34.6,20.4,55
+TZA,Tanzania,2018,Rural,11.4,47.1,58.5,15.4,11,26.4
+TZA,Tanzania,2019,Urban,26,63.2,89.2,35.8,20.5,56.3
+TZA,Tanzania,2019,Rural,12,48.1,60.1,16.1,11.5,27.6
+TZA,Tanzania,2020,Urban,27,63.8,90.8,36.1,20.4,56.5
+TZA,Tanzania,2020,Rural,12,49.2,61.2,16.5,11.9,28.4
+TZA,Tanzania,2021,Urban,27.5,64,91.5,36.3,20.3,56.6
+TZA,Tanzania,2021,Rural,11.1,50.4,61.5,16.8,12.5,29.3
+TZA,Tanzania,2022,Urban,27.9,64.2,92.1,36.4,20.2,56.6
+TZA,Tanzania,2022,Rural,10.1,42,52.1,17.1,10.6,27.7
+UGA,Uganda,2000,Urban,13.6,78.7,92.3,16.2,18.9,35.1
+UGA,Uganda,2000,Rural,2.7,50.7,53.4,5.1,9.2,14.3
+UGA,Uganda,2001,Urban,14.2,78,92.2,16.8,19,35.8
+UGA,Uganda,2001,Rural,3.1,52.5,55.6,5.4,9.4,14.8
+UGA,Uganda,2002,Urban,14.8,77.3,92.1,17.4,19.1,36.5
+UGA,Uganda,2002,Rural,3.5,54.3,57.8,5.7,9.6,15.3
+UGA,Uganda,2003,Urban,15.4,76.6,92,18,19.2,37.2
+UGA,Uganda,2003,Rural,3.9,56.1,60,6,9.8,15.8
+UGA,Uganda,2004,Urban,16,75.9,91.9,18.6,19.3,37.9
+UGA,Uganda,2004,Rural,4.3,57.9,62.2,6.3,10,16.3
+UGA,Uganda,2005,Urban,16.6,75.2,91.8,19.2,19.4,38.6
+UGA,Uganda,2005,Rural,4.7,59.7,64.4,6.6,10.2,16.8
+UGA,Uganda,2006,Urban,17.4,74.6,92,19.8,19.6,39.4
+UGA,Uganda,2006,Rural,5,61.2,66.2,6.8,10.3,17.1
+UGA,Uganda,2007,Urban,18.2,74,92.2,20.4,19.8,40.2
+UGA,Uganda,2007,Rural,5.2,62.7,67.9,7,10.4,17.4
+UGA,Uganda,2008,Urban,19,73.4,92.4,21,20,41
+UGA,Uganda,2008,Rural,5.4,64.2,69.6,7.1,10.4,17.5
+UGA,Uganda,2009,Urban,19.8,72.8,92.6,21.4,20.2,41.6
+UGA,Uganda,2009,Rural,5.6,65,70.6,7.2,10.4,17.6
+UGA,Uganda,2010,Urban,20.5,72.2,92.7,21.8,20.3,42.1
+UGA,Uganda,2010,Rural,5.7,65.7,71.4,7.2,10.4,17.6
+UGA,Uganda,2011,Urban,20.9,71.5,92.4,22.5,20.6,43.1
+UGA,Uganda,2011,Rural,6.3,66,72.3,7.6,10.8,18.4
+UGA,Uganda,2012,Urban,21.3,70.8,92.1,23.2,20.9,44.1
+UGA,Uganda,2012,Rural,6.9,66.3,73.2,8,11.2,19.2
+UGA,Uganda,2013,Urban,21.7,70.1,91.8,23.9,21.2,45.1
+UGA,Uganda,2013,Rural,7.5,66.6,74.1,8.4,11.6,20
+UGA,Uganda,2014,Urban,22.1,69.4,91.5,24.6,21.5,46.1
+UGA,Uganda,2014,Rural,8.1,66.9,75,8.8,12,20.8
+UGA,Uganda,2015,Urban,22.5,68.7,91.2,25.3,21.8,47.1
+UGA,Uganda,2015,Rural,8.7,67.2,75.9,9.2,12.4,21.6
+UGA,Uganda,2016,Urban,22.8,68,90.8,26.2,22,48.2
+UGA,Uganda,2016,Rural,9.1,66.3,75.4,9.8,12.8,22.6
+UGA,Uganda,2017,Urban,23,67.3,90.3,27.1,22.2,49.3
+UGA,Uganda,2017,Rural,9.5,65.4,74.9,10.4,13.2,23.6
+UGA,Uganda,2018,Urban,23.1,66.6,89.7,28,22.4,50.4
+UGA,Uganda,2018,Rural,9.9,64.5,74.4,11,13.6,24.6
+UGA,Uganda,2019,Urban,23.2,65.9,89.1,28.9,22.6,51.5
+UGA,Uganda,2019,Rural,10.3,63.6,73.9,11.6,14,25.6
+UGA,Uganda,2020,Urban,23.3,65.8,89.1,29.9,22.9,52.8
+UGA,Uganda,2020,Rural,10.1,63,73.1,12.4,14.4,26.8
+UGA,Uganda,2021,Urban,23.3,65.9,89.2,30.6,23,53.6
+UGA,Uganda,2021,Rural,9.5,61.9,71.4,13.8,14.8,28.6
+UGA,Uganda,2022,Urban,23.3,66,89.3,31.3,23.1,54.4
+UGA,Uganda,2022,Rural,8.8,60.9,69.7,15.2,13.8,29
+VNM,Vietnam,2000,Urban,35,58.3,93.3,42.6,39.6,82.2
+VNM,Vietnam,2000,Rural,8.3,58.3,66.6,8.4,28.6,37
+VNM,Vietnam,2001,Urban,37.8,57,94.8,45.2,38.9,84.1
+VNM,Vietnam,2001,Rural,10.5,58.4,68.9,11,30.3,41.3
+VNM,Vietnam,2002,Urban,40.6,55.7,96.3,47.8,38.2,86
+VNM,Vietnam,2002,Rural,12.7,58.5,71.2,13.6,32,45.6
+VNM,Vietnam,2003,Urban,43.4,54.4,97.8,50.4,37.5,87.9
+VNM,Vietnam,2003,Rural,14.9,58.6,73.5,16.2,33.7,49.9
+VNM,Vietnam,2004,Urban,46.2,53.1,99.3,53,36.8,89.8
+VNM,Vietnam,2004,Rural,17.1,58.7,75.8,18.8,35.4,54.2
+VNM,Vietnam,2005,Urban,49,51.8,100.8,55.6,36.1,91.7
+VNM,Vietnam,2005,Rural,19.3,58.8,78.1,21.4,37.1,58.5
+VNM,Vietnam,2006,Urban,52.3,50.4,102.7,57.7,35.1,92.8
+VNM,Vietnam,2006,Rural,21.9,58.8,80.7,23.3,38.4,61.7
+VNM,Vietnam,2007,Urban,55.6,49,104.6,59.8,34.1,93.9
+VNM,Vietnam,2007,Rural,24.5,58.8,83.3,25.2,39.7,64.9
+VNM,Vietnam,2008,Urban,58.9,47.6,106.5,61.9,33.1,95
+VNM,Vietnam,2008,Rural,27.1,58.8,85.9,27.1,41,68.1
+VNM,Vietnam,2009,Urban,62.2,46.2,108.4,64,32.1,96.1
+VNM,Vietnam,2009,Rural,29.7,58.8,88.5,29,42.3,71.3
+VNM,Vietnam,2010,Urban,67.6,30.3,97.9,62.8,30,92.8
+VNM,Vietnam,2010,Rural,30.6,58.9,89.5,26.8,41.2,68
+VNM,Vietnam,2011,Urban,69.1,28.8,97.9,64.5,29.3,93.8
+VNM,Vietnam,2011,Rural,33.6,57.1,90.7,29.9,41.2,71.1
+VNM,Vietnam,2012,Urban,70.6,27.3,97.9,66.2,28.6,94.8
+VNM,Vietnam,2012,Rural,36.6,55.3,91.9,33,41.2,74.2
+VNM,Vietnam,2013,Urban,72.1,25.8,97.9,67.9,27.9,95.8
+VNM,Vietnam,2013,Rural,39.6,53.5,93.1,36.1,41.2,77.3
+VNM,Vietnam,2014,Urban,73.6,24.3,97.9,69.6,27.2,96.8
+VNM,Vietnam,2014,Rural,42.6,51.7,94.3,39.2,41.2,80.4
+VNM,Vietnam,2015,Urban,75.1,22.8,97.9,71.3,26.5,97.8
+VNM,Vietnam,2015,Rural,45.6,49.9,95.5,42.3,41.2,83.5
+VNM,Vietnam,2016,Urban,76.4,21.5,97.9,72.9,25.4,98.3
+VNM,Vietnam,2016,Rural,47.7,48.2,95.9,45.1,40.1,85.2
+VNM,Vietnam,2017,Urban,77.7,20.2,97.9,74.5,24.3,98.8
+VNM,Vietnam,2017,Rural,49.8,46.5,96.3,47.9,39,86.9
+VNM,Vietnam,2018,Urban,79,18.9,97.9,76.1,23.2,99.3
+VNM,Vietnam,2018,Rural,51.9,44.8,96.7,50.7,37.9,88.6
+VNM,Vietnam,2019,Urban,80.3,17.6,97.9,77.7,22.1,99.8
+VNM,Vietnam,2019,Rural,54,43.1,97.1,53.5,36.8,90.3
+VNM,Vietnam,2020,Urban,80.8,17.5,98.3,79.1,19.3,98.4
+VNM,Vietnam,2020,Rural,54.1,42.4,96.5,54.9,36.3,91.2
+VNM,Vietnam,2021,Urban,81,17.4,98.4,80.1,17.8,97.9
+VNM,Vietnam,2021,Rural,54.1,42,96.1,55.2,36.1,91.3
+VNM,Vietnam,2022,Urban,81.1,17.4,98.5,81.1,16.3,97.4
+VNM,Vietnam,2022,Rural,54.1,41.6,95.7,55.6,36,91.6
+YEM,Yemen,2000,Urban,52.2,26.3,78.5,41.9,29.9,71.8
+YEM,Yemen,2000,Rural,16.2,26.3,42.5,14.2,20.8,35
+YEM,Yemen,2001,Urban,53.2,26.5,79.7,42.7,29.8,72.5
+YEM,Yemen,2001,Rural,17.6,26.8,44.4,15.4,21.3,36.7
+YEM,Yemen,2002,Urban,54.2,26.7,80.9,43.5,29.7,73.2
+YEM,Yemen,2002,Rural,19,27.3,46.3,16.6,21.8,38.4
+YEM,Yemen,2003,Urban,55.2,26.9,82.1,44.3,29.6,73.9
+YEM,Yemen,2003,Rural,20.4,27.8,48.2,17.8,22.3,40.1
+YEM,Yemen,2004,Urban,56.2,27.1,83.3,45.1,29.5,74.6
+YEM,Yemen,2004,Rural,21.8,28.3,50.1,19,22.8,41.8
+YEM,Yemen,2005,Urban,57.2,27.3,84.5,45.9,29.4,75.3
+YEM,Yemen,2005,Rural,23.2,28.8,52,20.2,23.3,43.5
+YEM,Yemen,2006,Urban,58.2,27.6,85.8,46.5,29.3,75.8
+YEM,Yemen,2006,Rural,24.3,29.5,53.8,21.1,23.9,45
+YEM,Yemen,2007,Urban,59.2,27.9,87.1,47.1,29.2,76.3
+YEM,Yemen,2007,Rural,25.4,30.2,55.6,22,24.5,46.5
+YEM,Yemen,2008,Urban,60.2,28.2,88.4,47.7,29.1,76.8
+YEM,Yemen,2008,Rural,26.5,30.9,57.4,22.9,25.1,48
+YEM,Yemen,2009,Urban,61.2,28.5,89.7,48,29.2,77.2
+YEM,Yemen,2009,Rural,27,31.2,58.2,23.1,25.3,48.4
+YEM,Yemen,2010,Urban,61.8,24.1,85.9,48.2,29.4,77.6
+YEM,Yemen,2010,Rural,24.8,30.8,55.6,23.2,23.7,46.9
+YEM,Yemen,2011,Urban,63.1,23.6,86.7,49,29,78
+YEM,Yemen,2011,Rural,26.7,31,57.7,24.6,23.8,48.4
+YEM,Yemen,2012,Urban,64.4,23.1,87.5,49.8,28.6,78.4
+YEM,Yemen,2012,Rural,28.6,31.2,59.8,26,23.9,49.9
+YEM,Yemen,2013,Urban,65.7,22.6,88.3,50.6,28.2,78.8
+YEM,Yemen,2013,Rural,30.5,31.4,61.9,27.4,24,51.4
+YEM,Yemen,2014,Urban,67,22.1,89.1,51.4,27.8,79.2
+YEM,Yemen,2014,Rural,32.4,31.6,64,28.8,24.1,52.9
+YEM,Yemen,2015,Urban,68.3,21.6,89.9,52.2,27.4,79.6
+YEM,Yemen,2015,Rural,34.3,31.8,66.1,30.2,24.2,54.4
+YEM,Yemen,2016,Urban,69.1,21.6,90.7,52.7,26.9,79.6
+YEM,Yemen,2016,Rural,34.6,32.1,66.7,30.9,24.1,55
+YEM,Yemen,2017,Urban,69.9,21.6,91.5,53.2,26.4,79.6
+YEM,Yemen,2017,Rural,34.9,32.4,67.3,31.6,24,55.6
+YEM,Yemen,2018,Urban,70.7,21.6,92.3,53.7,25.9,79.6
+YEM,Yemen,2018,Rural,35.2,32.7,67.9,32.3,23.9,56.2
+YEM,Yemen,2019,Urban,71.5,21.6,93.1,54.2,25.4,79.6
+YEM,Yemen,2019,Rural,35.5,33,68.5,33,23.8,56.8
+YEM,Yemen,2020,Urban,71.3,21.7,93,54.4,25.4,79.8
+YEM,Yemen,2020,Rural,35.4,32.9,68.3,33,23.7,56.7
+YEM,Yemen,2021,Urban,71.2,21.7,92.9,54.6,25.4,80
+YEM,Yemen,2021,Rural,35.3,32.8,68.1,33,23.6,56.6
+YEM,Yemen,2022,Urban,71.1,21.8,92.9,54.7,25.4,80.1
+YEM,Yemen,2022,Rural,35.2,32.7,67.9,33,23.4,56.4
+ZMB,Zambia,2000,Urban,25.8,58.1,83.9,26.3,20.4,46.7
+ZMB,Zambia,2000,Rural,2.8,33.7,36.5,4.7,10.2,14.9
+ZMB,Zambia,2001,Urban,26.7,57.7,84.4,27,20.2,47.2
+ZMB,Zambia,2001,Rural,3.3,35.1,38.4,5.4,10.7,16.1
+ZMB,Zambia,2002,Urban,27.6,57.3,84.9,27.7,20,47.7
+ZMB,Zambia,2002,Rural,3.8,36.5,40.3,6.1,11.2,17.3
+ZMB,Zambia,2003,Urban,28.5,56.9,85.4,28.4,19.8,48.2
+ZMB,Zambia,2003,Rural,4.3,37.9,42.2,6.8,11.7,18.5
+ZMB,Zambia,2004,Urban,29.4,56.5,85.9,29.1,19.6,48.7
+ZMB,Zambia,2004,Rural,4.8,39.3,44.1,7.5,12.2,19.7
+ZMB,Zambia,2005,Urban,30.3,56.1,86.4,29.8,19.4,49.2
+ZMB,Zambia,2005,Rural,5.3,40.7,46,8.2,12.7,20.9
+ZMB,Zambia,2006,Urban,30.9,55.6,86.5,30.2,19.2,49.4
+ZMB,Zambia,2006,Rural,5.6,41.9,47.5,8.6,13,21.6
+ZMB,Zambia,2007,Urban,31.5,55.1,86.6,30.6,19,49.6
+ZMB,Zambia,2007,Rural,5.9,43.1,49,9,13.3,22.3
+ZMB,Zambia,2008,Urban,31.8,54.8,86.6,30.9,18.9,49.8
+ZMB,Zambia,2008,Rural,6.1,44.2,50.3,9.4,13.4,22.8
+ZMB,Zambia,2009,Urban,32.1,54.3,86.4,31.1,18.9,50
+ZMB,Zambia,2009,Rural,6.2,45.1,51.3,9.5,13.5,23
+ZMB,Zambia,2010,Urban,32.3,53.8,86.1,31.2,18.9,50.1
+ZMB,Zambia,2010,Rural,4.7,37,41.7,7.6,11.7,19.3
+ZMB,Zambia,2011,Urban,33.2,53.4,86.6,32,18.7,50.7
+ZMB,Zambia,2011,Rural,5.6,38.5,44.1,8.5,12.1,20.6
+ZMB,Zambia,2012,Urban,34.1,53,87.1,32.8,18.5,51.3
+ZMB,Zambia,2012,Rural,6.5,40,46.5,9.4,12.5,21.9
+ZMB,Zambia,2013,Urban,35,52.6,87.6,33.6,18.3,51.9
+ZMB,Zambia,2013,Rural,7.4,41.5,48.9,10.3,12.9,23.2
+ZMB,Zambia,2014,Urban,35.9,52.2,88.1,34.4,18.1,52.5
+ZMB,Zambia,2014,Rural,8.3,43,51.3,11.2,13.3,24.5
+ZMB,Zambia,2015,Urban,36.8,51.8,88.6,35.2,17.9,53.1
+ZMB,Zambia,2015,Rural,9.2,44.5,53.7,12.1,13.7,25.8
+ZMB,Zambia,2016,Urban,37.6,51.3,88.9,35.9,17.6,53.5
+ZMB,Zambia,2016,Rural,9.9,45.5,55.4,12.7,13.9,26.6
+ZMB,Zambia,2017,Urban,38.4,50.8,89.2,36.6,17.3,53.9
+ZMB,Zambia,2017,Rural,10.6,46.5,57.1,13.3,14.1,27.4
+ZMB,Zambia,2018,Urban,39.2,50.3,89.5,37.3,17,54.3
+ZMB,Zambia,2018,Rural,11.3,47.5,58.8,13.9,14.3,28.2
+ZMB,Zambia,2019,Urban,40,49.8,89.8,38,16.7,54.7
+ZMB,Zambia,2019,Rural,12,48.5,60.5,14.5,14.5,29
+ZMB,Zambia,2020,Urban,40.6,49.5,90.1,38.3,15.9,54.2
+ZMB,Zambia,2020,Rural,12.7,49.4,62.1,14.1,14.4,28.5
+ZMB,Zambia,2021,Urban,40.9,49.3,90.2,38.5,15.4,53.9
+ZMB,Zambia,2021,Rural,13.1,50.2,63.3,13.8,14.4,28.2
+ZMB,Zambia,2022,Urban,41.2,44.3,85.5,38.6,14.9,53.5
+ZMB,Zambia,2022,Rural,7.5,51.8,59.3,13.6,11.8,25.4
+ZWE,Zimbabwe,2000,Urban,80.7,17.7,98.4,39,11.6,50.6
+ZWE,Zimbabwe,2000,Rural,18.7,54.5,73.2,20.2,12.1,32.3
+ZWE,Zimbabwe,2001,Urban,79.8,18.2,98,38.9,11.6,50.5
+ZWE,Zimbabwe,2001,Rural,18.4,54,72.4,20.5,12.1,32.6
+ZWE,Zimbabwe,2002,Urban,78.9,18.7,97.6,38.8,11.6,50.4
+ZWE,Zimbabwe,2002,Rural,18.1,53.5,71.6,20.8,12.1,32.9
+ZWE,Zimbabwe,2003,Urban,78,19.2,97.2,38.7,11.6,50.3
+ZWE,Zimbabwe,2003,Rural,17.8,53,70.8,21.1,12.1,33.2
+ZWE,Zimbabwe,2004,Urban,77.1,19.7,96.8,38.6,11.6,50.2
+ZWE,Zimbabwe,2004,Rural,17.5,52.5,70,21.4,12.1,33.5
+ZWE,Zimbabwe,2005,Urban,76.2,20.2,96.4,38.5,11.6,50.1
+ZWE,Zimbabwe,2005,Rural,17.2,52,69.2,21.7,12.1,33.8
+ZWE,Zimbabwe,2006,Urban,75.6,20.7,96.3,38.4,11.7,50.1
+ZWE,Zimbabwe,2006,Rural,17,51.6,68.6,21.8,12,33.8
+ZWE,Zimbabwe,2007,Urban,75,21.2,96.2,38.3,11.7,50
+ZWE,Zimbabwe,2007,Rural,16.8,51.2,68,21.9,12,33.9
+ZWE,Zimbabwe,2008,Urban,74.4,21.7,96.1,38.2,11.7,49.9
+ZWE,Zimbabwe,2008,Rural,16.6,50.8,67.4,22,12,34
+ZWE,Zimbabwe,2009,Urban,73.8,22.2,96,38.2,11.7,49.9
+ZWE,Zimbabwe,2009,Rural,16.5,50.7,67.2,22.1,12,34.1
+ZWE,Zimbabwe,2010,Urban,73.3,24.1,97.4,38.2,11.8,50
+ZWE,Zimbabwe,2010,Rural,16.4,50.6,67,22.1,12,34.1
+ZWE,Zimbabwe,2011,Urban,72.1,25,97.1,38.3,11.8,50.1
+ZWE,Zimbabwe,2011,Rural,16.3,50.5,66.8,22.4,11.9,34.3
+ZWE,Zimbabwe,2012,Urban,70.9,25.9,96.8,38.4,11.8,50.2
+ZWE,Zimbabwe,2012,Rural,16.2,50.4,66.6,22.7,11.8,34.5
+ZWE,Zimbabwe,2013,Urban,69.7,26.8,96.5,38.5,11.8,50.3
+ZWE,Zimbabwe,2013,Rural,16.1,50.3,66.4,23,11.7,34.7
+ZWE,Zimbabwe,2014,Urban,68.5,27.7,96.2,38.6,11.8,50.4
+ZWE,Zimbabwe,2014,Rural,16,50.2,66.2,23.3,11.6,34.9
+ZWE,Zimbabwe,2015,Urban,67.3,28.6,95.9,38.7,11.8,50.5
+ZWE,Zimbabwe,2015,Rural,15.9,50.1,66,23.6,11.5,35.1
+ZWE,Zimbabwe,2016,Urban,66.2,29.4,95.6,39.1,11.7,50.8
+ZWE,Zimbabwe,2016,Rural,15.8,49.5,65.3,23.9,11.5,35.4
+ZWE,Zimbabwe,2017,Urban,65.1,30.2,95.3,39.5,11.6,51.1
+ZWE,Zimbabwe,2017,Rural,15.7,48.9,64.6,24.2,11.5,35.7
+ZWE,Zimbabwe,2018,Urban,64,31,95,39.9,11.5,51.4
+ZWE,Zimbabwe,2018,Rural,15.6,48.3,63.9,24.5,11.5,36
+ZWE,Zimbabwe,2019,Urban,62.9,31.8,94.7,40.3,11.4,51.7
+ZWE,Zimbabwe,2019,Rural,15.5,47.7,63.2,24.8,11.5,36.3
+ZWE,Zimbabwe,2020,Urban,61.4,34.3,95.7,40.8,11.4,52.2
+ZWE,Zimbabwe,2020,Rural,15.4,46.5,61.9,25,11.5,36.5
+ZWE,Zimbabwe,2021,Urban,60.4,36.1,96.5,41.1,11.4,52.5
+ZWE,Zimbabwe,2021,Rural,15.4,45.6,61,25.1,11.5,36.6
+ZWE,Zimbabwe,2022,Urban,59.3,38.5,97.8,41.3,11.4,52.7
+ZWE,Zimbabwe,2022,Rural,15.3,44.5,59.8,25.2,11.6,36.7

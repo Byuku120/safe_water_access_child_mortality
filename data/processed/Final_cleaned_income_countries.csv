@@ -1,0 +1,737 @@
+iso3,county,year,residence,improved_wat_%,improved_san_%,under_5_mortality_rates,income_group,region,total_population,gdp_per_capita_$,population_rural_%,population_urban_%
+AFG,Afghanistan,2000,Urban,68.9,65.3,137.6,Low income,South Asia,20779953.0,0,75.492,24.508
+AFG,Afghanistan,2000,Rural,19.6,21.0,137.6,Low income,South Asia,20779953.0,0,75.492,24.508
+AFG,Afghanistan,2001,Urban,70.4,66.9,133.6,Low income,South Asia,21606988.0,0,75.251,24.749
+AFG,Afghanistan,2001,Rural,21.6,22.7,133.6,Low income,South Asia,21606988.0,0,75.251,24.749
+AFG,Afghanistan,2002,Urban,71.8,68.5,129.4,Low income,South Asia,22600770.0,1189.784668,75.007,24.993
+AFG,Afghanistan,2002,Rural,23.6,24.2,129.4,Low income,South Asia,22600770.0,1189.784668,75.007,24.993
+AFG,Afghanistan,2003,Urban,73.2,70.0,125.1,Low income,South Asia,23680871.0,1235.810063,74.76,25.24
+AFG,Afghanistan,2003,Rural,25.7,25.8,125.1,Low income,South Asia,23680871.0,1235.810063,74.76,25.24
+AFG,Afghanistan,2004,Urban,74.6,71.5,120.7,Low income,South Asia,24726684.0,1226.252934,74.51,25.49
+AFG,Afghanistan,2004,Rural,27.8,27.3,120.7,Low income,South Asia,24726684.0,1226.252934,74.51,25.49
+AFG,Afghanistan,2005,Urban,76.0,72.5,116.3,Low income,South Asia,25654277.0,1301.168434,74.257,25.743
+AFG,Afghanistan,2005,Rural,30.0,28.5,116.3,Low income,South Asia,25654277.0,1301.168434,74.257,25.743
+AFG,Afghanistan,2006,Urban,77.5,73.1,111.8,Low income,South Asia,26433049.0,1341.383333,74.001,25.999
+AFG,Afghanistan,2006,Rural,32.1,29.3,111.8,Low income,South Asia,26433049.0,1341.383333,74.001,25.999
+AFG,Afghanistan,2007,Urban,79.0,73.8,107.3,Low income,South Asia,27100536.0,1484.953507,73.742,26.258
+AFG,Afghanistan,2007,Rural,34.3,29.9,107.3,Low income,South Asia,27100536.0,1484.953507,73.742,26.258
+AFG,Afghanistan,2008,Urban,80.5,74.4,102.8,Low income,South Asia,27722276.0,1515.352486,73.48,26.52
+AFG,Afghanistan,2008,Rural,36.5,30.5,102.8,Low income,South Asia,27722276.0,1515.352486,73.48,26.52
+AFG,Afghanistan,2009,Urban,81.9,74.9,98.3,Low income,South Asia,28394813.0,1784.331575,73.215,26.785
+AFG,Afghanistan,2009,Rural,39.1,30.9,98.3,Low income,South Asia,28394813.0,1784.331575,73.215,26.785
+AFG,Afghanistan,2010,Urban,83.5,75.2,93.9,Low income,South Asia,29185507.0,1963.858223,72.947,27.053
+AFG,Afghanistan,2010,Rural,41.9,31.3,93.9,Low income,South Asia,29185507.0,1963.858223,72.947,27.053
+AFG,Afghanistan,2011,Urban,84.6,76.6,89.6,Low income,South Asia,30117413.0,1904.331525,72.676,27.324
+AFG,Afghanistan,2011,Rural,45.5,32.8,89.6,Low income,South Asia,30117413.0,1904.331525,72.676,27.324
+AFG,Afghanistan,2012,Urban,85.8,77.9,85.5,Low income,South Asia,31161376.0,2045.548239,72.403,27.597
+AFG,Afghanistan,2012,Rural,49.2,34.3,85.5,Low income,South Asia,31161376.0,2045.548239,72.403,27.597
+AFG,Afghanistan,2013,Urban,87.0,79.0,81.5,Low income,South Asia,32269589.0,2068.265148,72.127,27.873
+AFG,Afghanistan,2013,Rural,53.1,35.7,81.5,Low income,South Asia,32269589.0,2068.265148,72.127,27.873
+AFG,Afghanistan,2014,Urban,88.2,80.1,77.7,Low income,South Asia,33370794.0,2048.883734,71.848,28.152
+AFG,Afghanistan,2014,Rural,57.1,37.0,77.7,Low income,South Asia,33370794.0,2048.883734,71.848,28.152
+AFG,Afghanistan,2015,Urban,89.4,81.0,74.1,Low income,South Asia,34413603.0,1986.827749,71.566,28.434
+AFG,Afghanistan,2015,Rural,61.1,38.2,74.1,Low income,South Asia,34413603.0,1986.827749,71.566,28.434
+AFG,Afghanistan,2016,Urban,90.0,81.4,70.6,Low income,South Asia,35383032.0,1936.172967,71.282,28.718
+AFG,Afghanistan,2016,Rural,63.8,39.1,70.6,Low income,South Asia,35383032.0,1936.172967,71.282,28.718
+AFG,Afghanistan,2017,Urban,90.7,81.9,67.4,Low income,South Asia,36296113.0,1955.006208,70.995,29.005
+AFG,Afghanistan,2017,Rural,66.5,40.0,67.4,Low income,South Asia,36296113.0,1955.006208,70.995,29.005
+AFG,Afghanistan,2018,Urban,91.4,82.3,64.4,Low income,South Asia,37171921.0,1920.489721,70.706,29.294
+AFG,Afghanistan,2018,Rural,69.2,40.9,64.4,Low income,South Asia,37171921.0,1920.489721,70.706,29.294
+AFG,Afghanistan,2019,Urban,92.0,82.7,61.6,Low income,South Asia,38041754.0,1968.735496,70.414,29.586
+AFG,Afghanistan,2019,Rural,71.7,41.7,61.6,Low income,South Asia,38041754.0,1968.735496,70.414,29.586
+AFG,Afghanistan,2020,Urban,92.4,83.0,59.0,Low income,South Asia,38928341.0,1852.149129,70.119,29.881
+AFG,Afghanistan,2020,Rural,74.0,42.5,59.0,Low income,South Asia,38928341.0,1852.149129,70.119,29.881
+AFG,Afghanistan,2021,Urban,92.8,83.4,56.6,Low income,South Asia,39835428.0,1455.518621,69.823,30.177
+AFG,Afghanistan,2021,Rural,76.0,43.0,56.6,Low income,South Asia,39835428.0,1455.518621,69.823,30.177
+AFG,Afghanistan,2022,Urban,93.1,83.7,0,Low income,South Asia,41128771.0,0,69.565,30.435
+AFG,Afghanistan,2022,Rural,76.0,43.4,0,Low income,South Asia,41128771.0,0,69.565,30.435
+CIV,Cote d'Ivoire,2000,Urban,87.9,36.7,137.9,Lower-middle income,Sub-Saharan Africa,16262459.0,2995.69873,57.199,42.801
+CIV,Cote d'Ivoire,2000,Rural,69.1,12.2,137.9,Lower-middle income,Sub-Saharan Africa,16262459.0,2995.69873,57.199,42.801
+CIV,Cote d'Ivoire,2001,Urban,88.3,37.3,135.0,Lower-middle income,Sub-Saharan Africa,16744888.0,3035.772705,56.634,43.366
+CIV,Cote d'Ivoire,2001,Rural,69.5,13.4,135.0,Lower-middle income,Sub-Saharan Africa,16744888.0,3035.772705,56.634,43.366
+CIV,Cote d'Ivoire,2002,Urban,88.8,37.8,132.0,Lower-middle income,Sub-Saharan Africa,17234380.0,2949.199707,56.069,43.931
+CIV,Cote d'Ivoire,2002,Rural,60.0,14.6,132.0,Lower-middle income,Sub-Saharan Africa,17234380.0,2949.199707,56.069,43.931
+CIV,Cote d'Ivoire,2003,Urban,89.2,38.4,129.0,Lower-middle income,Sub-Saharan Africa,17731210.0,2949.199707,55.503,44.497
+CIV,Cote d'Ivoire,2003,Rural,60.4,15.8,129.0,Lower-middle income,Sub-Saharan Africa,17731210.0,2949.199707,55.503,44.497
+CIV,Cote d'Ivoire,2004,Urban,89.6,38.9,125.8,Lower-middle income,Sub-Saharan Africa,18235472.0,2995.69873,54.935,45.065
+CIV,Cote d'Ivoire,2004,Rural,60.9,17.0,125.8,Lower-middle income,Sub-Saharan Africa,18235472.0,2995.69873,54.935,45.065
+CIV,Cote d'Ivoire,2005,Urban,90.1,39.5,122.6,Lower-middle income,Sub-Saharan Africa,18747209.0,3060.757813,54.366,45.634
+CIV,Cote d'Ivoire,2005,Rural,71.3,18.1,122.6,Lower-middle income,Sub-Saharan Africa,18747209.0,3060.757813,54.366,45.634
+CIV,Cote d'Ivoire,2006,Urban,90.3,40.0,119.3,Lower-middle income,Sub-Saharan Africa,19266395.0,3108.904297,53.795,46.205
+CIV,Cote d'Ivoire,2006,Rural,72.3,18.9,119.3,Lower-middle income,Sub-Saharan Africa,19266395.0,3108.904297,53.795,46.205
+CIV,Cote d'Ivoire,2007,Urban,90.5,40.0,116.0,Lower-middle income,Sub-Saharan Africa,19792994.0,3177.301514,53.222,46.778
+CIV,Cote d'Ivoire,2007,Rural,73.0,19.7,116.0,Lower-middle income,Sub-Saharan Africa,19792994.0,3177.301514,53.222,46.778
+CIV,Cote d'Ivoire,2008,Urban,90.7,40.0,112.5,Lower-middle income,Sub-Saharan Africa,20326978.0,3289.445068,52.648,47.352
+CIV,Cote d'Ivoire,2008,Rural,73.7,20.4,112.5,Lower-middle income,Sub-Saharan Africa,20326978.0,3289.445068,52.648,47.352
+CIV,Cote d'Ivoire,2009,Urban,90.8,40.0,109.0,Lower-middle income,Sub-Saharan Africa,20868285.0,3373.25708,52.072,47.928
+CIV,Cote d'Ivoire,2009,Rural,74.6,20.9,109.0,Lower-middle income,Sub-Saharan Africa,20868285.0,3373.25708,52.072,47.928
+CIV,Cote d'Ivoire,2010,Urban,90.8,43.8,105.4,Lower-middle income,Sub-Saharan Africa,21416847.0,3468.101563,51.494,48.506
+CIV,Cote d'Ivoire,2010,Rural,75.4,21.5,105.4,Lower-middle income,Sub-Saharan Africa,21416847.0,3468.101563,51.494,48.506
+CIV,Cote d'Ivoire,2011,Urban,91.1,45.0,101.7,Lower-middle income,Sub-Saharan Africa,21972620.0,3239.522217,50.915,49.085
+CIV,Cote d'Ivoire,2011,Rural,76.4,23.1,101.7,Lower-middle income,Sub-Saharan Africa,21972620.0,3239.522217,50.915,49.085
+CIV,Cote d'Ivoire,2012,Urban,91.5,46.1,98.0,Lower-middle income,Sub-Saharan Africa,22535572.0,3523.513428,50.334,49.666
+CIV,Cote d'Ivoire,2012,Rural,77.3,24.7,98.0,Lower-middle income,Sub-Saharan Africa,22535572.0,3523.513428,50.334,49.666
+CIV,Cote d'Ivoire,2013,Urban,91.8,47.3,94.3,Lower-middle income,Sub-Saharan Africa,23105658.0,3685.241455,49.751,50.249
+CIV,Cote d'Ivoire,2013,Rural,78.2,26.3,94.3,Lower-middle income,Sub-Saharan Africa,23105658.0,3685.241455,49.751,50.249
+CIV,Cote d'Ivoire,2014,Urban,92.2,48.5,90.6,Lower-middle income,Sub-Saharan Africa,23682869.0,3922.399658,49.167,50.833
+CIV,Cote d'Ivoire,2014,Rural,79.1,27.9,90.6,Lower-middle income,Sub-Saharan Africa,23682869.0,3922.399658,49.167,50.833
+CIV,Cote d'Ivoire,2015,Urban,92.5,49.6,87.0,Lower-middle income,Sub-Saharan Africa,24267154.0,3995.89502,48.581,51.419
+CIV,Cote d'Ivoire,2015,Rural,80.0,29.4,87.0,Lower-middle income,Sub-Saharan Africa,24267154.0,3995.89502,48.581,51.419
+CIV,Cote d'Ivoire,2016,Urban,92.7,50.2,83.5,Lower-middle income,Sub-Saharan Africa,24858509.0,4206.591309,47.994,52.006
+CIV,Cote d'Ivoire,2016,Rural,80.3,30.1,83.5,Lower-middle income,Sub-Saharan Africa,24858509.0,4206.591309,47.994,52.006
+CIV,Cote d'Ivoire,2017,Urban,92.9,50.7,80.1,Lower-middle income,Sub-Saharan Africa,25456860.0,4460.038086,47.405,52.595
+CIV,Cote d'Ivoire,2017,Rural,80.3,30.6,80.1,Lower-middle income,Sub-Saharan Africa,25456860.0,4460.038086,47.405,52.595
+CIV,Cote d'Ivoire,2018,Urban,93.1,51.2,77.0,Lower-middle income,Sub-Saharan Africa,26062137.0,4739.040039,46.814,53.186
+CIV,Cote d'Ivoire,2018,Rural,80.2,30.9,77.0,Lower-middle income,Sub-Saharan Africa,26062137.0,4739.040039,46.814,53.186
+CIV,Cote d'Ivoire,2019,Urban,93.4,51.6,74.0,Lower-middle income,Sub-Saharan Africa,26674251.0,4951.053711,46.222,53.778
+CIV,Cote d'Ivoire,2019,Rural,70.1,31.2,74.0,Lower-middle income,Sub-Saharan Africa,26674251.0,4951.053711,46.222,53.778
+CIV,Cote d'Ivoire,2020,Urban,93.6,51.9,71.2,Lower-middle income,Sub-Saharan Africa,27293148.0,4995.8125,45.628,54.372
+CIV,Cote d'Ivoire,2020,Rural,79.8,31.4,71.2,Lower-middle income,Sub-Saharan Africa,27293148.0,4995.8125,45.628,54.372
+CIV,Cote d'Ivoire,2021,Urban,93.7,52.1,68.6,Lower-middle income,Sub-Saharan Africa,27918738.0,5272.247559,45.033,54.967
+CIV,Cote d'Ivoire,2021,Rural,79.6,31.5,68.6,Lower-middle income,Sub-Saharan Africa,27918738.0,5272.247559,45.033,54.967
+CIV,Cote d'Ivoire,2022,Urban,93.8,52.3,0,Lower-middle income,Sub-Saharan Africa,28551075.0,5459.791992,44.436,55.564
+CIV,Cote d'Ivoire,2022,Rural,79.5,31.6,0,Lower-middle income,Sub-Saharan Africa,28551075.0,5459.791992,44.436,55.564
+DJI,Djibouti,2000,Urban,87.3,55.5,111.4,Lower-middle income,Middle East & North Africa,723321.0,0,22.868,77.132
+DJI,Djibouti,2000,Rural,53.3,16.8,111.4,Lower-middle income,Middle East & North Africa,723321.0,0,22.868,77.132
+DJI,Djibouti,2001,Urban,87.8,56.2,107.8,Lower-middle income,Middle East & North Africa,735398.0,0,22.84,77.16
+DJI,Djibouti,2001,Rural,54.5,17.7,107.8,Lower-middle income,Middle East & North Africa,735398.0,0,22.84,77.16
+DJI,Djibouti,2002,Urban,88.3,56.9,104.3,Lower-middle income,Middle East & North Africa,747976.0,0,22.812,77.188
+DJI,Djibouti,2002,Rural,55.7,18.6,104.3,Lower-middle income,Middle East & North Africa,747976.0,0,22.812,77.188
+DJI,Djibouti,2003,Urban,88.8,57.6,100.8,Lower-middle income,Middle East & North Africa,761009.0,0,22.784,77.216
+DJI,Djibouti,2003,Rural,56.9,19.6,100.8,Lower-middle income,Middle East & North Africa,761009.0,0,22.784,77.216
+DJI,Djibouti,2004,Urban,89.3,58.3,97.5,Lower-middle income,Middle East & North Africa,774467.0,0,22.756,77.244
+DJI,Djibouti,2004,Rural,58.1,20.5,97.5,Lower-middle income,Middle East & North Africa,774467.0,0,22.756,77.244
+DJI,Djibouti,2005,Urban,89.8,59.0,94.2,Lower-middle income,Middle East & North Africa,788320.0,0,22.729,77.271
+DJI,Djibouti,2005,Rural,59.3,21.4,94.2,Lower-middle income,Middle East & North Africa,788320.0,0,22.729,77.271
+DJI,Djibouti,2006,Urban,90.4,59.7,91.0,Lower-middle income,Middle East & North Africa,802529.0,0,22.702,77.298
+DJI,Djibouti,2006,Rural,60.5,21.9,91.0,Lower-middle income,Middle East & North Africa,802529.0,0,22.702,77.298
+DJI,Djibouti,2007,Urban,90.9,60.4,87.9,Lower-middle income,Middle East & North Africa,817072.0,0,22.675,77.325
+DJI,Djibouti,2007,Rural,61.7,22.5,87.9,Lower-middle income,Middle East & North Africa,817072.0,0,22.675,77.325
+DJI,Djibouti,2008,Urban,91.4,61.1,84.9,Lower-middle income,Middle East & North Africa,831938.0,0,22.648,77.352
+DJI,Djibouti,2008,Rural,62.9,22.9,84.9,Lower-middle income,Middle East & North Africa,831938.0,0,22.648,77.352
+DJI,Djibouti,2009,Urban,91.9,61.8,81.9,Lower-middle income,Middle East & North Africa,847119.0,0,22.621,77.379
+DJI,Djibouti,2009,Rural,64.1,23.3,81.9,Lower-middle income,Middle East & North Africa,847119.0,0,22.621,77.379
+DJI,Djibouti,2010,Urban,91.8,62.5,79.1,Lower-middle income,Middle East & North Africa,862624.0,0,22.594,77.406
+DJI,Djibouti,2010,Rural,64.5,23.6,79.1,Lower-middle income,Middle East & North Africa,862624.0,0,22.594,77.406
+DJI,Djibouti,2011,Urban,92.3,63.1,76.4,Lower-middle income,Middle East & North Africa,878473.0,0,22.568,77.432
+DJI,Djibouti,2011,Rural,65.9,24.4,76.4,Lower-middle income,Middle East & North Africa,878473.0,0,22.568,77.432
+DJI,Djibouti,2012,Urban,92.8,63.8,73.8,Lower-middle income,Middle East & North Africa,894677.0,0,22.541,77.459
+DJI,Djibouti,2012,Rural,67.3,25.2,73.8,Lower-middle income,Middle East & North Africa,894677.0,0,22.541,77.459
+DJI,Djibouti,2013,Urban,93.3,64.4,71.3,Lower-middle income,Middle East & North Africa,911246.0,0,22.515,77.485
+DJI,Djibouti,2013,Rural,68.7,26.1,71.3,Lower-middle income,Middle East & North Africa,911246.0,0,22.515,77.485
+DJI,Djibouti,2014,Urban,93.8,65.1,68.9,Lower-middle income,Middle East & North Africa,928178.0,0,22.489,77.511
+DJI,Djibouti,2014,Rural,70.1,26.9,68.9,Lower-middle income,Middle East & North Africa,928178.0,0,22.489,77.511
+DJI,Djibouti,2015,Urban,94.3,65.7,66.6,Lower-middle income,Middle East & North Africa,945474.0,0,22.463,77.537
+DJI,Djibouti,2015,Rural,71.5,27.8,66.6,Lower-middle income,Middle East & North Africa,945474.0,0,22.463,77.537
+DJI,Djibouti,2016,Urban,94.6,66.0,64.5,Lower-middle income,Middle East & North Africa,963131.0,0,22.437,77.563
+DJI,Djibouti,2016,Rural,72.8,28.5,64.5,Lower-middle income,Middle East & North Africa,963131.0,0,22.437,77.563
+DJI,Djibouti,2017,Urban,94.9,66.5,62.4,Lower-middle income,Middle East & North Africa,981140.0,0,22.411,77.589
+DJI,Djibouti,2017,Rural,74.1,29.2,62.4,Lower-middle income,Middle East & North Africa,981140.0,0,22.411,77.589
+DJI,Djibouti,2018,Urban,95.2,66.8,60.4,Lower-middle income,Middle East & North Africa,999489.0,0,22.385,77.615
+DJI,Djibouti,2018,Rural,75.3,29.9,60.4,Lower-middle income,Middle East & North Africa,999489.0,0,22.385,77.615
+DJI,Djibouti,2019,Urban,95.5,67.3,58.5,Lower-middle income,Middle East & North Africa,1018158.0,0,22.359,77.641
+DJI,Djibouti,2019,Rural,76.6,30.8,58.5,Lower-middle income,Middle East & North Africa,1018158.0,0,22.359,77.641
+DJI,Djibouti,2020,Urban,95.6,67.6,56.7,Lower-middle income,Middle East & North Africa,1037130.0,0,22.333,77.667
+DJI,Djibouti,2020,Rural,77.3,31.5,56.7,Lower-middle income,Middle East & North Africa,1037130.0,0,22.333,77.667
+DJI,Djibouti,2021,Urban,95.5,67.9,54.9,Lower-middle income,Middle East & North Africa,1056372.0,0,22.307,77.693
+DJI,Djibouti,2021,Rural,77.6,31.7,54.9,Lower-middle income,Middle East & North Africa,1056372.0,0,22.307,77.693
+DJI,Djibouti,2022,Urban,95.4,68.1,0,Lower-middle income,Middle East & North Africa,1075855.0,0,22.281,77.719
+DJI,Djibouti,2022,Rural,77.9,31.9,0,Lower-middle income,Middle East & North Africa,1075855.0,0,22.281,77.719
+MWI,Malawi,2000,Urban,88.9,47.2,141.5,Low income,Sub-Saharan Africa,11229506.0,642.585571,85.578,14.422
+MWI,Malawi,2000,Rural,60.7,9.0,141.5,Low income,Sub-Saharan Africa,11229506.0,642.585571,85.578,14.422
+MWI,Malawi,2001,Urban,89.3,48.0,134.8,Low income,Sub-Saharan Africa,11504953.0,637.369507,85.29,14.71
+MWI,Malawi,2001,Rural,62.9,9.7,134.8,Low income,Sub-Saharan Africa,11504953.0,637.369507,85.29,14.71
+MWI,Malawi,2002,Urban,89.7,48.8,128.2,Low income,Sub-Saharan Africa,11794697.0,642.585571,85.001,14.999
+MWI,Malawi,2002,Rural,65.1,10.4,128.2,Low income,Sub-Saharan Africa,11794697.0,642.585571,85.001,14.999
+MWI,Malawi,2003,Urban,90.1,49.6,121.6,Low income,Sub-Saharan Africa,12102170.0,662.607422,84.711,15.289
+MWI,Malawi,2003,Rural,67.3,11.1,121.6,Low income,Sub-Saharan Africa,12102170.0,662.607422,84.711,15.289
+MWI,Malawi,2004,Urban,90.5,50.4,115.1,Low income,Sub-Saharan Africa,12431055.0,680.122709,84.42,15.58
+MWI,Malawi,2004,Rural,69.5,11.8,115.1,Low income,Sub-Saharan Africa,12431055.0,680.122709,84.42,15.58
+MWI,Malawi,2005,Urban,90.9,51.2,108.7,Low income,Sub-Saharan Africa,12784570.0,700.865955,84.127,15.873
+MWI,Malawi,2005,Rural,71.7,12.5,108.7,Low income,Sub-Saharan Africa,12784570.0,700.865955,84.127,15.873
+MWI,Malawi,2006,Urban,91.4,51.8,102.4,Low income,Sub-Saharan Africa,13164746.0,718.349195,83.834,16.166
+MWI,Malawi,2006,Rural,73.4,12.6,102.4,Low income,Sub-Saharan Africa,13164746.0,718.349195,83.834,16.166
+MWI,Malawi,2007,Urban,91.8,52.4,96.3,Low income,Sub-Saharan Africa,13572877.0,774.908833,83.539,16.461
+MWI,Malawi,2007,Rural,75.1,12.7,96.3,Low income,Sub-Saharan Africa,13572877.0,774.908833,83.539,16.461
+MWI,Malawi,2008,Urban,92.2,52.7,90.4,Low income,Sub-Saharan Africa,14009641.0,819.559937,83.243,16.757
+MWI,Malawi,2008,Rural,76.4,12.8,90.4,Low income,Sub-Saharan Africa,14009641.0,819.559937,83.243,16.757
+MWI,Malawi,2009,Urban,92.5,53.0,84.7,Low income,Sub-Saharan Africa,14475143.0,858.749774,82.946,17.054
+MWI,Malawi,2009,Rural,77.7,12.9,84.7,Low income,Sub-Saharan Africa,14475143.0,858.749774,82.946,17.054
+MWI,Malawi,2010,Urban,92.9,53.4,79.2,Low income,Sub-Saharan Africa,14968825.0,912.181213,82.648,17.352
+MWI,Malawi,2010,Rural,76.6,13.0,79.2,Low income,Sub-Saharan Africa,14968825.0,912.181213,82.648,17.352
+MWI,Malawi,2011,Urban,93.2,54.0,74.1,Low income,Sub-Saharan Africa,15490216.0,950.485107,82.348,17.652
+MWI,Malawi,2011,Rural,77.9,13.8,74.1,Low income,Sub-Saharan Africa,15490216.0,950.485107,82.348,17.652
+MWI,Malawi,2012,Urban,93.5,54.6,69.2,Low income,Sub-Saharan Africa,16038084.0,952.170288,82.048,17.952
+MWI,Malawi,2012,Rural,79.2,14.6,69.2,Low income,Sub-Saharan Africa,16038084.0,952.170288,82.048,17.952
+MWI,Malawi,2013,Urban,93.8,55.2,64.6,Low income,Sub-Saharan Africa,16610996.0,980.518677,81.746,18.254
+MWI,Malawi,2013,Rural,80.5,15.4,64.6,Low income,Sub-Saharan Africa,16610996.0,980.518677,81.746,18.254
+MWI,Malawi,2014,Urban,94.1,55.8,60.4,Low income,Sub-Saharan Africa,17207338.0,1006.183411,81.443,18.557
+MWI,Malawi,2014,Rural,81.8,16.2,60.4,Low income,Sub-Saharan Africa,17207338.0,1006.183411,81.443,18.557
+MWI,Malawi,2015,Urban,94.4,56.4,56.5,Low income,Sub-Saharan Africa,17825316.0,980.518677,81.139,18.861
+MWI,Malawi,2015,Rural,83.1,17.0,56.5,Low income,Sub-Saharan Africa,17825316.0,980.518677,81.139,18.861
+MWI,Malawi,2016,Urban,94.6,57.0,53.0,Low income,Sub-Saharan Africa,18463161.0,952.170288,80.833,19.167
+MWI,Malawi,2016,Rural,84.0,17.6,53.0,Low income,Sub-Saharan Africa,18463161.0,952.170288,80.833,19.167
+MWI,Malawi,2017,Urban,94.9,57.7,49.8,Low income,Sub-Saharan Africa,19119102.0,980.518677,80.526,19.474
+MWI,Malawi,2017,Rural,84.9,18.2,49.8,Low income,Sub-Saharan Africa,19119102.0,980.518677,80.526,19.474
+MWI,Malawi,2018,Urban,95.1,58.3,46.9,Low income,Sub-Saharan Africa,19791429.0,1006.183411,80.218,19.782
+MWI,Malawi,2018,Rural,85.8,18.8,46.9,Low income,Sub-Saharan Africa,19791429.0,1006.183411,80.218,19.782
+MWI,Malawi,2019,Urban,95.3,58.9,44.2,Low income,Sub-Saharan Africa,20478642.0,1057.279785,79.908,20.092
+MWI,Malawi,2019,Rural,86.7,19.4,44.2,Low income,Sub-Saharan Africa,20478642.0,1057.279785,79.908,20.092
+MWI,Malawi,2020,Urban,95.3,59.8,41.8,Low income,Sub-Saharan Africa,21179261.0,1077.923462,79.597,20.403
+MWI,Malawi,2020,Rural,87.3,19.7,41.8,Low income,Sub-Saharan Africa,21179261.0,1077.923462,79.597,20.403
+MWI,Malawi,2021,Urban,95.3,60.3,39.6,Low income,Sub-Saharan Africa,21891823.0,1100.864624,79.284,20.716
+MWI,Malawi,2021,Rural,87.5,18.7,39.6,Low income,Sub-Saharan Africa,21891823.0,1100.864624,79.284,20.716
+MWI,Malawi,2022,Urban,95.3,60.7,0,Low income,Sub-Saharan Africa,22615011.0,1126.971558,78.97,21.03
+MWI,Malawi,2022,Rural,83.1,17.7,0,Low income,Sub-Saharan Africa,22615011.0,1126.971558,78.97,21.03
+MMR,Myanmar,2000,Urban,90.9,90.7,82.4,Low income,East Asia & Pacific,46398004.0,0,72.684,27.316
+MMR,Myanmar,2000,Rural,60.1,59.3,82.4,Low income,East Asia & Pacific,46398004.0,0,72.684,27.316
+MMR,Myanmar,2001,Urban,91.6,91.3,80.0,Low income,East Asia & Pacific,46808779.0,0,72.31,27.69
+MMR,Myanmar,2001,Rural,62.5,62.1,80.0,Low income,East Asia & Pacific,46808779.0,0,72.31,27.69
+MMR,Myanmar,2002,Urban,92.3,91.9,77.7,Low income,East Asia & Pacific,47214966.0,0,71.933,28.067
+MMR,Myanmar,2002,Rural,64.9,64.9,77.7,Low income,East Asia & Pacific,47214966.0,0,71.933,28.067
+MMR,Myanmar,2003,Urban,93.0,92.5,75.3,Low income,East Asia & Pacific,47610427.0,0,71.554,28.446
+MMR,Myanmar,2003,Rural,67.3,67.7,75.3,Low income,East Asia & Pacific,47610427.0,0,71.554,28.446
+MMR,Myanmar,2004,Urban,93.7,93.1,72.9,Low income,East Asia & Pacific,47989828.0,0,71.171,28.829
+MMR,Myanmar,2004,Rural,69.7,70.5,72.9,Low income,East Asia & Pacific,47989828.0,0,71.171,28.829
+MMR,Myanmar,2005,Urban,94.4,93.7,70.5,Low income,East Asia & Pacific,48348107.0,0,70.786,29.214
+MMR,Myanmar,2005,Rural,72.1,73.3,70.5,Low income,East Asia & Pacific,48348107.0,0,70.786,29.214
+MMR,Myanmar,2006,Urban,94.7,94.1,68.1,Low income,East Asia & Pacific,48682137.0,0,70.398,29.602
+MMR,Myanmar,2006,Rural,74.0,75.2,68.1,Low income,East Asia & Pacific,48682137.0,0,70.398,29.602
+MMR,Myanmar,2007,Urban,94.7,94.5,65.7,Low income,East Asia & Pacific,48990595.0,0,70.007,29.993
+MMR,Myanmar,2007,Rural,75.8,76.9,65.7,Low income,East Asia & Pacific,48990595.0,0,70.007,29.993
+MMR,Myanmar,2008,Urban,94.7,94.9,63.4,Low income,East Asia & Pacific,49275453.0,0,69.613,30.387
+MMR,Myanmar,2008,Rural,77.5,78.6,63.4,Low income,East Asia & Pacific,49275453.0,0,69.613,30.387
+MMR,Myanmar,2009,Urban,94.5,95.3,61.1,Low income,East Asia & Pacific,49542036.0,0,69.215,30.785
+MMR,Myanmar,2009,Rural,79.1,79.9,61.1,Low income,East Asia & Pacific,49542036.0,0,69.215,30.785
+MMR,Myanmar,2010,Urban,94.3,95.7,58.8,Low income,East Asia & Pacific,49798485.0,4130.407715,68.815,31.185
+MMR,Myanmar,2010,Rural,77.8,81.0,58.8,Low income,East Asia & Pacific,49798485.0,4130.407715,68.815,31.185
+MMR,Myanmar,2011,Urban,94.5,95.9,56.6,Low income,East Asia & Pacific,50054770.0,4460.038086,68.411,31.589
+MMR,Myanmar,2011,Rural,80.8,83.0,56.6,Low income,East Asia & Pacific,50054770.0,4460.038086,68.411,31.589
+MMR,Myanmar,2012,Urban,94.7,96.1,54.5,Low income,East Asia & Pacific,50320875.0,4820.697266,68.004,31.996
+MMR,Myanmar,2012,Rural,83.8,85.0,54.5,Low income,East Asia & Pacific,50320875.0,4820.697266,68.004,31.996
+MMR,Myanmar,2013,Urban,94.9,96.3,52.4,Low income,East Asia & Pacific,50606771.0,5145.92627,67.594,32.406
+MMR,Myanmar,2013,Rural,86.8,87.0,52.4,Low income,East Asia & Pacific,50606771.0,5145.92627,67.594,32.406
+MMR,Myanmar,2014,Urban,95.1,96.5,50.5,Low income,East Asia & Pacific,50922256.0,5472.549316,67.181,32.819
+MMR,Myanmar,2014,Rural,89.8,89.0,50.5,Low income,East Asia & Pacific,50922256.0,5472.549316,67.181,32.819
+MMR,Myanmar,2015,Urban,95.3,96.7,48.6,Low income,East Asia & Pacific,51276949.0,5791.905273,66.765,33.235
+MMR,Myanmar,2015,Rural,92.8,91.0,48.6,Low income,East Asia & Pacific,51276949.0,5791.905273,66.765,33.235
+MMR,Myanmar,2016,Urban,95.5,96.9,46.8,Low income,East Asia & Pacific,51679051.0,6078.694336,66.345,33.655
+MMR,Myanmar,2016,Rural,94.6,90.8,46.8,Low income,East Asia & Pacific,51679051.0,6078.694336,66.345,33.655
+MMR,Myanmar,2017,Urban,95.7,97.2,45.1,Low income,East Asia & Pacific,52132578.0,6317.061035,65.923,34.077
+MMR,Myanmar,2017,Rural,96.5,90.5,45.1,Low income,East Asia & Pacific,52132578.0,6317.061035,65.923,34.077
+MMR,Myanmar,2018,Urban,95.8,97.4,43.5,Low income,East Asia & Pacific,52636756.0,6650.584473,65.497,34.503
+MMR,Myanmar,2018,Rural,98.3,90.2,43.5,Low income,East Asia & Pacific,52636756.0,6650.584473,65.497,34.503
+MMR,Myanmar,2019,Urban,95.9,97.7,42.0,Lower-middle income,East Asia & Pacific,53188550.0,6998.65332,65.068,34.932
+MMR,Myanmar,2019,Rural,100.2,89.9,42.0,Lower-middle income,East Asia & Pacific,53188550.0,6998.65332,65.068,34.932
+MMR,Myanmar,2020,Urban,96.6,97.7,40.6,Lower-middle income,East Asia & Pacific,53782970.0,7160.316406,64.636,35.364
+MMR,Myanmar,2020,Rural,100.7,89.7,40.6,Lower-middle income,East Asia & Pacific,53782970.0,7160.316406,64.636,35.364
+MMR,Myanmar,2021,Urban,97.2,97.8,39.2,Lower-middle income,East Asia & Pacific,54415842.0,5791.905273,64.2,35.8
+MMR,Myanmar,2021,Rural,100.5,88.5,39.2,Lower-middle income,East Asia & Pacific,54415842.0,5791.905273,64.2,35.8
+MMR,Myanmar,2022,Urban,97.5,97.9,0,Lower-middle income,East Asia & Pacific,55083654.0,0,63.762,36.238
+MMR,Myanmar,2022,Rural,92.3,92.1,0,Lower-middle income,East Asia & Pacific,55083654.0,0,63.762,36.238
+NGA,Nigeria,2000,Urban,73.7,43.4,201.3,Lower-middle income,Sub-Saharan Africa,122851984.0,2576.495117,60.104,39.896
+NGA,Nigeria,2000,Rural,39.0,21.1,201.3,Lower-middle income,Sub-Saharan Africa,122851984.0,2576.495117,60.104,39.896
+NGA,Nigeria,2001,Urban,74.5,44.4,195.4,Lower-middle income,Sub-Saharan Africa,125743454.0,2640.402832,59.395,40.605
+NGA,Nigeria,2001,Rural,40.4,22.4,195.4,Lower-middle income,Sub-Saharan Africa,125743454.0,2640.402832,59.395,40.605
+NGA,Nigeria,2002,Urban,75.5,45.5,189.5,Lower-middle income,Sub-Saharan Africa,128713079.0,3060.757813,58.685,41.315
+NGA,Nigeria,2002,Rural,41.7,23.6,189.5,Lower-middle income,Sub-Saharan Africa,128713079.0,3060.757813,58.685,41.315
+NGA,Nigeria,2003,Urban,76.4,46.6,183.6,Lower-middle income,Sub-Saharan Africa,131759630.0,3373.25708,57.975,42.025
+NGA,Nigeria,2003,Rural,43.1,24.8,183.6,Lower-middle income,Sub-Saharan Africa,131759630.0,3373.25708,57.975,42.025
+NGA,Nigeria,2004,Urban,77.4,47.7,177.7,Lower-middle income,Sub-Saharan Africa,134882101.0,3685.241455,57.265,42.735
+NGA,Nigeria,2004,Rural,44.4,26.0,177.7,Lower-middle income,Sub-Saharan Africa,134882101.0,3685.241455,57.265,42.735
+NGA,Nigeria,2005,Urban,78.4,48.8,171.8,Lower-middle income,Sub-Saharan Africa,138079832.0,3882.880127,56.554,43.446
+NGA,Nigeria,2005,Rural,45.8,27.2,171.8,Lower-middle income,Sub-Saharan Africa,138079832.0,3882.880127,56.554,43.446
+NGA,Nigeria,2006,Urban,80.0,50.4,165.9,Lower-middle income,Sub-Saharan Africa,141352425.0,4130.407715,55.842,44.158
+NGA,Nigeria,2006,Rural,46.9,27.6,165.9,Lower-middle income,Sub-Saharan Africa,141352425.0,4130.407715,55.842,44.158
+NGA,Nigeria,2007,Urban,81.5,51.8,160.0,Lower-middle income,Sub-Saharan Africa,144700057.0,4351.488281,55.13,44.87
+NGA,Nigeria,2007,Rural,48.0,28.0,160.0,Lower-middle income,Sub-Saharan Africa,144700057.0,4351.488281,55.13,44.87
+NGA,Nigeria,2008,Urban,83.1,53.1,154.1,Lower-middle income,Sub-Saharan Africa,148123284.0,4598.834473,54.417,45.583
+NGA,Nigeria,2008,Rural,48.9,28.3,154.1,Lower-middle income,Sub-Saharan Africa,148123284.0,4598.834473,54.417,45.583
+NGA,Nigeria,2009,Urban,84.6,54.2,148.2,Lower-middle income,Sub-Saharan Africa,151622990.0,4820.697266,53.704,46.296
+NGA,Nigeria,2009,Rural,49.3,28.4,148.2,Lower-middle income,Sub-Saharan Africa,151622990.0,4820.697266,53.704,46.296
+NGA,Nigeria,2010,Urban,85.4,55.2,142.3,Lower-middle income,Sub-Saharan Africa,155199641.0,5145.92627,52.99,47.01
+NGA,Nigeria,2010,Rural,49.4,28.5,142.3,Lower-middle income,Sub-Saharan Africa,155199641.0,5145.92627,52.99,47.01
+NGA,Nigeria,2011,Urban,86.6,56.4,136.4,Lower-middle income,Sub-Saharan Africa,158853752.0,5359.176758,52.276,47.724
+NGA,Nigeria,2011,Rural,50.5,29.5,136.4,Lower-middle income,Sub-Saharan Africa,158853752.0,5359.176758,52.276,47.724
+NGA,Nigeria,2012,Urban,87.9,57.6,130.5,Lower-middle income,Sub-Saharan Africa,162585978.0,5415.269531,51.561,48.439
+NGA,Nigeria,2012,Rural,51.6,30.5,130.5,Lower-middle income,Sub-Saharan Africa,162585978.0,5415.269531,51.561,48.439
+NGA,Nigeria,2013,Urban,89.2,58.8,124.6,Lower-middle income,Sub-Saharan Africa,166396860.0,5577.876465,50.846,49.154
+NGA,Nigeria,2013,Rural,52.7,31.5,124.6,Lower-middle income,Sub-Saharan Africa,166396860.0,5577.876465,50.846,49.154
+NGA,Nigeria,2014,Urban,90.5,60.0,118.7,Lower-middle income,Sub-Saharan Africa,170286824.0,5863.63916,50.13,49.87
+NGA,Nigeria,2014,Rural,53.8,32.5,118.7,Lower-middle income,Sub-Saharan Africa,170286824.0,5863.63916,50.13,49.87
+NGA,Nigeria,2015,Urban,91.9,61.0,112.8,Lower-middle income,Sub-Saharan Africa,174256244.0,5953.589355,49.414,50.586
+NGA,Nigeria,2015,Rural,54.9,33.5,112.8,Lower-middle income,Sub-Saharan Africa,174256244.0,5953.589355,49.414,50.586
+NGA,Nigeria,2016,Urban,92.9,61.9,106.9,Lower-middle income,Sub-Saharan Africa,178305456.0,5791.905273,48.698,51.302
+NGA,Nigeria,2016,Rural,56.4,34.6,106.9,Lower-middle income,Sub-Saharan Africa,178305456.0,5791.905273,48.698,51.302
+NGA,Nigeria,2017,Urban,93.9,62.7,101.0,Lower-middle income,Sub-Saharan Africa,182433984.0,5791.905273,47.981,52.019
+NGA,Nigeria,2017,Rural,57.9,35.7,101.0,Lower-middle income,Sub-Saharan Africa,182433984.0,5791.905273,47.981,52.019
+NGA,Nigeria,2018,Urban,94.9,63.5,95.1,Lower-middle income,Sub-Saharan Africa,186641208.0,5863.63916,47.264,52.736
+NGA,Nigeria,2018,Rural,59.4,36.7,95.1,Lower-middle income,Sub-Saharan Africa,186641208.0,5863.63916,47.264,52.736
+NGA,Nigeria,2019,Urban,95.9,64.3,89.2,Lower-middle income,Sub-Saharan Africa,190926424.0,5953.589355,46.547,53.453
+NGA,Nigeria,2019,Rural,60.9,37.7,89.2,Lower-middle income,Sub-Saharan Africa,190926424.0,5953.589355,46.547,53.453
+NGA,Nigeria,2020,Urban,96.7,64.7,83.3,Lower-middle income,Sub-Saharan Africa,195289600.0,5791.905273,45.829,54.171
+NGA,Nigeria,2020,Rural,61.9,38.3,83.3,Lower-middle income,Sub-Saharan Africa,195289600.0,5791.905273,45.829,54.171
+NGA,Nigeria,2021,Urban,97.1,65.0,77.4,Lower-middle income,Sub-Saharan Africa,199730416.0,5953.589355,45.111,54.889
+NGA,Nigeria,2021,Rural,62.6,38.7,77.4,Lower-middle income,Sub-Saharan Africa,199730416.0,5953.589355,45.111,54.889
+NGA,Nigeria,2022,Urban,97.5,65.2,0,Lower-middle income,Sub-Saharan Africa,204248832.0,6024.96582,44.392,55.608
+NGA,Nigeria,2022,Rural,63.1,39.0,0,Lower-middle income,Sub-Saharan Africa,204248832.0,6024.96582,44.392,55.608
+PAK,Pakistan,2000,Urban,96.6,69.4,101.9,Lower-middle income,South Asia,142343578.0,3424.316406,66.173,33.827
+PAK,Pakistan,2000,Rural,87.2,32.3,101.9,Lower-middle income,South Asia,142343578.0,3424.316406,66.173,33.827
+PAK,Pakistan,2001,Urban,97.0,70.5,99.5,Lower-middle income,South Asia,145325816.0,3468.101563,65.812,34.188
+PAK,Pakistan,2001,Rural,87.7,34.8,99.5,Lower-middle income,South Asia,145325816.0,3468.101563,65.812,34.188
+PAK,Pakistan,2002,Urban,97.4,71.6,97.2,Lower-middle income,South Asia,148389717.0,3523.513428,65.449,34.551
+PAK,Pakistan,2002,Rural,88.2,37.3,97.2,Lower-middle income,South Asia,148389717.0,3523.513428,65.449,34.551
+PAK,Pakistan,2003,Urban,97.8,72.7,94.9,Lower-middle income,South Asia,151528024.0,3625.32251,65.084,34.916
+PAK,Pakistan,2003,Rural,88.7,39.8,94.9,Lower-middle income,South Asia,151528024.0,3625.32251,65.084,34.916
+PAK,Pakistan,2004,Urban,98.2,73.8,92.5,Lower-middle income,South Asia,154734360.0,3815.155762,64.717,35.283
+PAK,Pakistan,2004,Rural,89.2,42.3,92.5,Lower-middle income,South Asia,154734360.0,3815.155762,64.717,35.283
+PAK,Pakistan,2005,Urban,98.6,74.9,90.2,Lower-middle income,South Asia,157999888.0,3995.89502,64.348,35.652
+PAK,Pakistan,2005,Rural,89.7,44.8,90.2,Lower-middle income,South Asia,157999888.0,3995.89502,64.348,35.652
+PAK,Pakistan,2006,Urban,98.8,75.8,87.9,Lower-middle income,South Asia,161320409.0,4168.04541,63.977,36.023
+PAK,Pakistan,2006,Rural,90.1,46.6,87.9,Lower-middle income,South Asia,161320409.0,4168.04541,63.977,36.023
+PAK,Pakistan,2007,Urban,99.0,76.7,85.6,Lower-middle income,South Asia,164690382.0,4293.414063,63.605,36.395
+PAK,Pakistan,2007,Rural,90.5,48.4,85.6,Lower-middle income,South Asia,164690382.0,4293.414063,63.605,36.395
+PAK,Pakistan,2008,Urban,99.1,77.3,83.4,Lower-middle income,South Asia,168105704.0,4351.488281,63.23,36.77
+PAK,Pakistan,2008,Rural,91.0,49.7,83.4,Lower-middle income,South Asia,168105704.0,4351.488281,63.23,36.77
+PAK,Pakistan,2009,Urban,98.8,77.7,81.1,Lower-middle income,South Asia,171561570.0,4460.038086,62.854,37.146
+PAK,Pakistan,2009,Rural,91.5,50.7,81.1,Lower-middle income,South Asia,171561570.0,4460.038086,62.854,37.146
+PAK,Pakistan,2010,Urban,98.4,78.0,78.9,Lower-middle income,South Asia,175053721.0,4557.485352,62.476,37.524
+PAK,Pakistan,2010,Rural,92.0,50.7,78.9,Lower-middle income,South Asia,175053721.0,4557.485352,62.476,37.524
+PAK,Pakistan,2011,Urban,98.4,79.1,76.8,Lower-middle income,South Asia,178577884.0,4628.71875,62.096,37.904
+PAK,Pakistan,2011,Rural,92.6,53.4,76.8,Lower-middle income,South Asia,178577884.0,4628.71875,62.096,37.904
+PAK,Pakistan,2012,Urban,98.4,80.2,74.6,Lower-middle income,South Asia,182142594.0,4771.026367,61.714,38.286
+PAK,Pakistan,2012,Rural,93.2,56.1,74.6,Lower-middle income,South Asia,182142594.0,4771.026367,61.714,38.286
+PAK,Pakistan,2013,Urban,98.4,81.3,72.5,Lower-middle income,South Asia,185750036.0,4928.324219,61.331,38.669
+PAK,Pakistan,2013,Rural,93.8,58.8,72.5,Lower-middle income,South Asia,185750036.0,4928.324219,61.331,38.669
+PAK,Pakistan,2014,Urban,98.4,82.4,70.4,Lower-middle income,South Asia,189398478.0,5109.914063,60.946,39.054
+PAK,Pakistan,2014,Rural,94.4,61.5,70.4,Lower-middle income,South Asia,189398478.0,5109.914063,60.946,39.054
+PAK,Pakistan,2015,Urban,98.4,83.5,68.4,Lower-middle income,South Asia,193086470.0,5272.247559,60.559,39.441
+PAK,Pakistan,2015,Rural,95.0,64.2,68.4,Lower-middle income,South Asia,193086470.0,5272.247559,60.559,39.441
+PAK,Pakistan,2016,Urban,98.5,84.5,66.5,Lower-middle income,South Asia,196813354.0,5472.549805,60.171,39.829
+PAK,Pakistan,2016,Rural,94.8,65.7,66.5,Lower-middle income,South Asia,196813354.0,5472.549805,60.171,39.829
+PAK,Pakistan,2017,Urban,98.6,85.5,64.6,Lower-middle income,South Asia,200577775.0,5730.076172,59.781,40.219
+PAK,Pakistan,2017,Rural,94.6,67.2,64.6,Lower-middle income,South Asia,200577775.0,5730.076172,59.781,40.219
+PAK,Pakistan,2018,Urban,98.7,86.5,62.8,Lower-middle income,South Asia,204377856.0,5953.589355,59.389,40.611
+PAK,Pakistan,2018,Rural,94.4,68.7,62.8,Lower-middle income,South Asia,204377856.0,5953.589355,59.389,40.611
+PAK,Pakistan,2019,Urban,98.8,87.5,61.1,Lower-middle income,South Asia,208211475.0,5861.309082,58.996,41.004
+PAK,Pakistan,2019,Rural,94.2,70.2,61.1,Lower-middle income,South Asia,208211475.0,5861.309082,58.996,41.004
+PAK,Pakistan,2020,Urban,99.0,87.0,59.4,Lower-middle income,South Asia,212076935.0,5791.905273,58.601,41.399
+PAK,Pakistan,2020,Rural,91.5,70.2,59.4,Lower-middle income,South Asia,212076935.0,5791.905273,58.601,41.399
+PAK,Pakistan,2021,Urban,99.1,86.7,57.9,Lower-middle income,South Asia,215970222.0,6128.577637,58.204,41.796
+PAK,Pakistan,2021,Rural,89.7,70.5,57.9,Lower-middle income,South Asia,215970222.0,6128.577637,58.204,41.796
+PAK,Pakistan,2022,Urban,99.2,86.4,0,Lower-middle income,South Asia,219892344.0,6428.188477,57.806,42.194
+PAK,Pakistan,2022,Rural,87.9,70.8,0,Lower-middle income,South Asia,219892344.0,6428.188477,57.806,42.194
+PHL,Philippines,2000,Urban,94.8,87.4,42.4,Lower-middle income,East Asia & Pacific,77526276.0,3995.89502,41.928,58.072
+PHL,Philippines,2000,Rural,80.8,62.5,42.4,Lower-middle income,East Asia & Pacific,77526276.0,3995.89502,41.928,58.072
+PHL,Philippines,2001,Urban,95.3,88.5,41.1,Lower-middle income,East Asia & Pacific,79058145.0,4025.201416,41.46,58.54
+PHL,Philippines,2001,Rural,82.1,65.1,41.1,Lower-middle income,East Asia & Pacific,79058145.0,4025.201416,41.46,58.54
+PHL,Philippines,2002,Urban,95.8,89.6,39.7,Lower-middle income,East Asia & Pacific,80581677.0,4168.04541,40.993,59.007
+PHL,Philippines,2002,Rural,83.4,67.7,39.7,Lower-middle income,East Asia & Pacific,80581677.0,4168.04541,40.993,59.007
+PHL,Philippines,2003,Urban,96.3,90.7,38.4,Lower-middle income,East Asia & Pacific,82103333.0,4351.488281,40.528,59.472
+PHL,Philippines,2003,Rural,84.7,70.3,38.4,Lower-middle income,East Asia & Pacific,82103333.0,4351.488281,40.528,59.472
+PHL,Philippines,2004,Urban,96.8,91.8,37.1,Lower-middle income,East Asia & Pacific,83628469.0,4598.834473,40.063,59.937
+PHL,Philippines,2004,Rural,86.0,72.9,37.1,Lower-middle income,East Asia & Pacific,83628469.0,4598.834473,40.063,59.937
+PHL,Philippines,2005,Urban,97.3,92.9,35.8,Lower-middle income,East Asia & Pacific,85162235.0,4771.026367,39.6,60.4
+PHL,Philippines,2005,Rural,87.3,75.5,35.8,Lower-middle income,East Asia & Pacific,85162235.0,4771.026367,39.6,60.4
+PHL,Philippines,2006,Urban,97.7,93.4,34.5,Lower-middle income,East Asia & Pacific,86708785.0,5008.20459,39.138,60.862
+PHL,Philippines,2006,Rural,88.5,77.4,34.5,Lower-middle income,East Asia & Pacific,86708785.0,5008.20459,39.138,60.862
+PHL,Philippines,2007,Urban,98.0,93.7,33.3,Lower-middle income,East Asia & Pacific,88271295.0,5272.247559,38.677,61.323
+PHL,Philippines,2007,Rural,89.4,79.2,33.3,Lower-middle income,East Asia & Pacific,88271295.0,5272.247559,38.677,61.323
+PHL,Philippines,2008,Urban,97.7,93.8,32.1,Lower-middle income,East Asia & Pacific,89851213.0,5472.549805,38.217,61.783
+PHL,Philippines,2008,Rural,89.7,80.5,32.1,Lower-middle income,East Asia & Pacific,89851213.0,5472.549805,38.217,61.783
+PHL,Philippines,2009,Urban,97.3,93.7,31.0,Lower-middle income,East Asia & Pacific,91448939.0,5510.460938,37.758,62.242
+PHL,Philippines,2009,Rural,89.5,81.6,31.0,Lower-middle income,East Asia & Pacific,91448939.0,5510.460938,37.758,62.242
+PHL,Philippines,2010,Urban,96.7,93.5,29.9,Lower-middle income,East Asia & Pacific,93064609.0,5823.141113,37.3,62.7
+PHL,Philippines,2010,Rural,89.4,82.0,29.9,Lower-middle income,East Asia & Pacific,93064609.0,5823.141113,37.3,62.7
+PHL,Philippines,2011,Urban,96.7,93.9,28.8,Lower-middle income,East Asia & Pacific,94698151.0,5953.589355,44.915,55.085
+PHL,Philippines,2011,Rural,90.2,83.4,28.8,Lower-middle income,East Asia & Pacific,94698151.0,5953.589355,44.915,55.085
+PHL,Philippines,2012,Urban,96.7,94.3,27.7,Lower-middle income,East Asia & Pacific,96349340.0,6210.366211,44.595,55.405
+PHL,Philippines,2012,Rural,91.0,84.8,27.7,Lower-middle income,East Asia & Pacific,96349340.0,6210.366211,44.595,55.405
+PHL,Philippines,2013,Urban,96.7,94.7,26.7,Lower-middle income,East Asia & Pacific,98017835.0,6525.845215,44.275,55.725
+PHL,Philippines,2013,Rural,91.8,86.2,26.7,Lower-middle income,East Asia & Pacific,98017835.0,6525.845215,44.275,55.725
+PHL,Philippines,2014,Urban,96.7,95.1,25.7,Lower-middle income,East Asia & Pacific,99703273.0,6882.433594,43.955,56.045
+PHL,Philippines,2014,Rural,92.6,87.6,25.7,Lower-middle income,East Asia & Pacific,99703273.0,6882.433594,43.955,56.045
+PHL,Philippines,2015,Urban,96.7,95.5,24.8,Lower-middle income,East Asia & Pacific,101398122.0,7160.316406,43.635,56.365
+PHL,Philippines,2015,Rural,93.4,89.0,24.8,Lower-middle income,East Asia & Pacific,101398122.0,7160.316406,43.635,56.365
+PHL,Philippines,2016,Urban,96.8,95.9,23.9,Lower-middle income,East Asia & Pacific,103102450.0,7508.834473,43.315,56.685
+PHL,Philippines,2016,Rural,93.9,90.1,23.9,Lower-middle income,East Asia & Pacific,103102450.0,7508.834473,43.315,56.685
+PHL,Philippines,2017,Urban,96.9,96.3,23.1,Lower-middle income,East Asia & Pacific,104816170.0,7928.399902,42.995,57.005
+PHL,Philippines,2017,Rural,94.4,91.2,23.1,Lower-middle income,East Asia & Pacific,104816170.0,7928.399902,42.995,57.005
+PHL,Philippines,2018,Urban,97.0,96.7,22.3,Lower-middle income,East Asia & Pacific,106538964.0,8270.738281,42.675,57.325
+PHL,Philippines,2018,Rural,94.9,92.3,22.3,Lower-middle income,East Asia & Pacific,106538964.0,8270.738281,42.675,57.325
+PHL,Philippines,2019,Urban,97.1,97.1,21.5,Lower-middle income,East Asia & Pacific,108269781.0,8586.130859,42.355,57.645
+PHL,Philippines,2019,Rural,95.4,93.4,21.5,Lower-middle income,East Asia & Pacific,108269781.0,8586.130859,42.355,57.645
+PHL,Philippines,2020,Urban,97.4,97.1,20.8,Lower-middle income,East Asia & Pacific,110006764.0,7763.486328,42.035,57.965
+PHL,Philippines,2020,Rural,95.0,93.7,20.8,Lower-middle income,East Asia & Pacific,110006764.0,7763.486328,42.035,57.965
+PHL,Philippines,2021,Urban,97.6,97.4,20.1,Lower-middle income,East Asia & Pacific,111746761.0,8150.39502,41.715,58.285
+PHL,Philippines,2021,Rural,94.7,93.8,20.1,Lower-middle income,East Asia & Pacific,111746761.0,8150.39502,41.715,58.285
+PHL,Philippines,2022,Urban,97.8,97.6,0,Lower-middle income,East Asia & Pacific,113486968.0,8559.813477,41.395,58.605
+PHL,Philippines,2022,Rural,94.5,93.9,0,Lower-middle income,East Asia & Pacific,113486968.0,8559.813477,41.395,58.605
+RWA,Rwanda,2000,Urban,84.1,73.2,182.1,Low income,Sub-Saharan Africa,8098934.0,688.243359,83.479,16.521
+RWA,Rwanda,2000,Rural,50.0,34.5,182.1,Low income,Sub-Saharan Africa,8098934.0,688.243359,83.479,16.521
+RWA,Rwanda,2001,Urban,85.1,74.1,170.8,Low income,Sub-Saharan Africa,8238162.0,705.727966,83.189,16.811
+RWA,Rwanda,2001,Rural,51.9,36.6,170.8,Low income,Sub-Saharan Africa,8238162.0,705.727966,83.189,16.811
+RWA,Rwanda,2002,Urban,86.1,75.0,159.2,Low income,Sub-Saharan Africa,8395577.0,756.280151,82.898,17.102
+RWA,Rwanda,2002,Rural,53.8,38.7,159.2,Low income,Sub-Saharan Africa,8395577.0,756.280151,82.898,17.102
+RWA,Rwanda,2003,Urban,87.1,75.9,147.5,Low income,Sub-Saharan Africa,8571862.0,768.647156,82.607,17.393
+RWA,Rwanda,2003,Rural,55.7,40.8,147.5,Low income,Sub-Saharan Africa,8571862.0,768.647156,82.607,17.393
+RWA,Rwanda,2004,Urban,88.1,76.8,135.8,Low income,Sub-Saharan Africa,8767755.0,815.111938,82.316,17.684
+RWA,Rwanda,2004,Rural,57.6,42.9,135.8,Low income,Sub-Saharan Africa,8767755.0,815.111938,82.316,17.684
+RWA,Rwanda,2005,Urban,89.1,77.7,124.3,Low income,Sub-Saharan Africa,8983758.0,874.788269,82.024,17.976
+RWA,Rwanda,2005,Rural,59.5,45.0,124.3,Low income,Sub-Saharan Africa,8983758.0,874.788269,82.024,17.976
+RWA,Rwanda,2006,Urban,89.5,78.6,113.1,Low income,Sub-Saharan Africa,9220553.0,952.170288,81.732,18.268
+RWA,Rwanda,2006,Rural,61.1,46.7,113.1,Low income,Sub-Saharan Africa,9220553.0,952.170288,81.732,18.268
+RWA,Rwanda,2007,Urban,89.8,79.4,102.3,Low income,Sub-Saharan Africa,9478864.0,1015.848022,81.439,18.561
+RWA,Rwanda,2007,Rural,62.6,48.4,102.3,Low income,Sub-Saharan Africa,9478864.0,1015.848022,81.439,18.561
+RWA,Rwanda,2008,Urban,90.2,80.2,92.0,Low income,Sub-Saharan Africa,9759312.0,1102.907349,81.146,18.854
+RWA,Rwanda,2008,Rural,64.2,50.1,92.0,Low income,Sub-Saharan Africa,9759312.0,1102.907349,81.146,18.854
+RWA,Rwanda,2009,Urban,90.1,80.6,82.3,Low income,Sub-Saharan Africa,10062402.0,1156.548584,80.853,19.147
+RWA,Rwanda,2009,Rural,65.3,51.2,82.3,Low income,Sub-Saharan Africa,10062402.0,1156.548584,80.853,19.147
+RWA,Rwanda,2010,Urban,89.9,80.9,73.4,Low income,Sub-Saharan Africa,10388497.0,1235.810059,80.559,19.441
+RWA,Rwanda,2010,Rural,66.4,52.2,73.4,Low income,Sub-Saharan Africa,10388497.0,1235.810059,80.559,19.441
+RWA,Rwanda,2011,Urban,90.2,82.0,65.2,Low income,Sub-Saharan Africa,10737965.0,1316.311768,80.264,19.736
+RWA,Rwanda,2011,Rural,67.6,54.2,65.2,Low income,Sub-Saharan Africa,10737965.0,1316.311768,80.264,19.736
+RWA,Rwanda,2012,Urban,90.5,83.1,57.8,Low income,Sub-Saharan Africa,11111169.0,1380.952881,79.969,20.031
+RWA,Rwanda,2012,Rural,68.8,56.2,57.8,Low income,Sub-Saharan Africa,11111169.0,1380.952881,79.969,20.031
+RWA,Rwanda,2013,Urban,90.8,84.2,51.4,Low income,Sub-Saharan Africa,11508215.0,1427.567017,79.673,20.327
+RWA,Rwanda,2013,Rural,70.0,58.2,51.4,Low income,Sub-Saharan Africa,11508215.0,1427.567017,79.673,20.327
+RWA,Rwanda,2014,Urban,91.1,85.3,45.9,Low income,Sub-Saharan Africa,11928994.0,1503.621338,79.377,20.623
+RWA,Rwanda,2014,Rural,71.2,60.2,45.9,Low income,Sub-Saharan Africa,11928994.0,1503.621338,79.377,20.623
+RWA,Rwanda,2015,Urban,91.4,86.4,41.4,Low income,Sub-Saharan Africa,12373307.0,1602.416748,79.08,20.92
+RWA,Rwanda,2015,Rural,72.4,62.2,41.4,Low income,Sub-Saharan Africa,12373307.0,1602.416748,79.08,20.92
+RWA,Rwanda,2016,Urban,91.9,87.1,37.8,Low income,Sub-Saharan Africa,12839999.0,1663.297485,78.782,21.218
+RWA,Rwanda,2016,Rural,73.4,63.7,37.8,Low income,Sub-Saharan Africa,12839999.0,1663.297485,78.782,21.218
+RWA,Rwanda,2017,Urban,92.4,87.8,35.0,Low income,Sub-Saharan Africa,13328325.0,1746.544556,78.484,21.516
+RWA,Rwanda,2017,Rural,74.4,65.2,35.0,Low income,Sub-Saharan Africa,13328325.0,1746.544556,78.484,21.516
+RWA,Rwanda,2018,Urban,92.9,88.5,32.8,Low income,Sub-Saharan Africa,13837424.0,1852.14917,78.185,21.815
+RWA,Rwanda,2018,Rural,75.4,66.7,32.8,Low income,Sub-Saharan Africa,13837424.0,1852.14917,78.185,21.815
+RWA,Rwanda,2019,Urban,93.4,89.2,30.9,Low income,Sub-Saharan Africa,14366099.0,1986.827759,77.885,22.115
+RWA,Rwanda,2019,Rural,76.4,68.2,30.9,Low income,Sub-Saharan Africa,14366099.0,1986.827759,77.885,22.115
+RWA,Rwanda,2020,Urban,93.8,89.2,29.3,Low income,Sub-Saharan Africa,14913214.0,2027.848267,77.585,22.415
+RWA,Rwanda,2020,Rural,76.9,68.7,29.3,Low income,Sub-Saharan Africa,14913214.0,2027.848267,77.585,22.415
+RWA,Rwanda,2021,Urban,94.0,89.2,28.0,Low income,Sub-Saharan Africa,15477484.0,2184.159668,77.284,22.716
+RWA,Rwanda,2021,Rural,77.0,68.7,28.0,Low income,Sub-Saharan Africa,15477484.0,2184.159668,77.284,22.716
+RWA,Rwanda,2022,Urban,94.8,88.9,0,Low income,Sub-Saharan Africa,16057793.0,2270.366211,76.982,23.018
+RWA,Rwanda,2022,Rural,67.1,68.6,0,Low income,Sub-Saharan Africa,16057793.0,2270.366211,76.982,23.018
+SEN,Senegal,2000,Urban,92.4,65.9,118.8,Low income,Sub-Saharan Africa,9704287.0,1986.827759,55.986,44.014
+SEN,Senegal,2000,Rural,63.8,22.8,118.8,Low income,Sub-Saharan Africa,9704287.0,1986.827759,55.986,44.014
+SEN,Senegal,2001,Urban,92.8,67.1,114.3,Low income,Sub-Saharan Africa,9987494.0,2048.883789,55.454,44.546
+SEN,Senegal,2001,Rural,65.6,24.7,114.3,Low income,Sub-Saharan Africa,9987494.0,2048.883789,55.454,44.546
+SEN,Senegal,2002,Urban,93.2,68.3,109.8,Low income,Sub-Saharan Africa,10280962.0,2123.006104,54.921,45.079
+SEN,Senegal,2002,Rural,67.4,26.6,109.8,Low income,Sub-Saharan Africa,10280962.0,2123.006104,54.921,45.079
+SEN,Senegal,2003,Urban,93.6,69.5,105.4,Low income,Sub-Saharan Africa,10584557.0,2166.625,54.388,45.612
+SEN,Senegal,2003,Rural,69.2,28.5,105.4,Low income,Sub-Saharan Africa,10584557.0,2166.625,54.388,45.612
+SEN,Senegal,2004,Urban,94.0,70.7,101.0,Low income,Sub-Saharan Africa,10898236.0,2237.818848,53.854,46.146
+SEN,Senegal,2004,Rural,71.0,30.4,101.0,Low income,Sub-Saharan Africa,10898236.0,2237.818848,53.854,46.146
+SEN,Senegal,2005,Urban,94.4,71.9,96.6,Low income,Sub-Saharan Africa,11221976.0,2308.283936,53.32,46.68
+SEN,Senegal,2005,Rural,72.8,32.3,96.6,Low income,Sub-Saharan Africa,11221976.0,2308.283936,53.32,46.68
+SEN,Senegal,2006,Urban,94.9,73.2,92.2,Low income,Sub-Saharan Africa,11555771.0,2343.345947,52.785,47.215
+SEN,Senegal,2006,Rural,74.3,33.7,92.2,Low income,Sub-Saharan Africa,11555771.0,2343.345947,52.785,47.215
+SEN,Senegal,2007,Urban,95.4,74.5,87.8,Low income,Sub-Saharan Africa,11900115.0,2420.244385,52.249,47.751
+SEN,Senegal,2007,Rural,75.7,35.0,87.8,Low income,Sub-Saharan Africa,11900115.0,2420.244385,52.249,47.751
+SEN,Senegal,2008,Urban,95.4,75.7,83.4,Low income,Sub-Saharan Africa,12255714.0,2484.75708,51.713,48.287
+SEN,Senegal,2008,Rural,76.7,35.9,83.4,Low income,Sub-Saharan Africa,12255714.0,2484.75708,51.713,48.287
+SEN,Senegal,2009,Urban,95.3,77.1,79.0,Low income,Sub-Saharan Africa,12623348.0,2510.23999,51.176,48.824
+SEN,Senegal,2009,Rural,77.3,36.2,79.0,Low income,Sub-Saharan Africa,12623348.0,2510.23999,51.176,48.824
+SEN,Senegal,2010,Urban,95.5,78.5,74.7,Low income,Sub-Saharan Africa,13003780.0,2587.22998,50.638,49.362
+SEN,Senegal,2010,Rural,77.6,35.3,74.7,Low income,Sub-Saharan Africa,13003780.0,2587.22998,50.638,49.362
+SEN,Senegal,2011,Urban,95.8,79.9,70.5,Low income,Sub-Saharan Africa,13397781.0,2611.378906,50.1,49.9
+SEN,Senegal,2011,Rural,78.9,37.0,70.5,Low income,Sub-Saharan Africa,13397781.0,2611.378906,50.1,49.9
+SEN,Senegal,2012,Urban,96.1,81.3,66.3,Low income,Sub-Saharan Africa,13806114.0,2679.539795,49.561,50.439
+SEN,Senegal,2012,Rural,80.2,38.7,66.3,Low income,Sub-Saharan Africa,13806114.0,2679.539795,49.561,50.439
+SEN,Senegal,2013,Urban,96.4,82.7,62.2,Low income,Sub-Saharan Africa,14229562.0,2744.103027,49.021,50.979
+SEN,Senegal,2013,Rural,81.5,40.4,62.2,Low income,Sub-Saharan Africa,14229562.0,2744.103027,49.021,50.979
+SEN,Senegal,2014,Urban,96.7,84.1,58.3,Low income,Sub-Saharan Africa,14668903.0,2824.368652,48.481,51.519
+SEN,Senegal,2014,Rural,82.8,42.1,58.3,Low income,Sub-Saharan Africa,14668903.0,2824.368652,48.481,51.519
+SEN,Senegal,2015,Urban,97.0,85.5,54.5,Low income,Sub-Saharan Africa,15124917.0,2995.69873,47.94,52.06
+SEN,Senegal,2015,Rural,84.1,43.8,54.5,Low income,Sub-Saharan Africa,15124917.0,2995.69873,47.94,52.06
+SEN,Senegal,2016,Urban,97.3,86.5,51.0,Low income,Sub-Saharan Africa,15598379.0,3177.301514,47.398,52.602
+SEN,Senegal,2016,Rural,84.7,45.2,51.0,Low income,Sub-Saharan Africa,15598379.0,3177.301514,47.398,52.602
+SEN,Senegal,2017,Urban,97.6,87.5,47.7,Low income,Sub-Saharan Africa,16089998.0,3373.25708,46.856,53.144
+SEN,Senegal,2017,Rural,85.3,46.6,47.7,Low income,Sub-Saharan Africa,16089998.0,3373.25708,46.856,53.144
+SEN,Senegal,2018,Urban,97.9,88.5,44.7,Low income,Sub-Saharan Africa,16600414.0,3523.513428,46.313,53.687
+SEN,Senegal,2018,Rural,85.9,48.0,44.7,Low income,Sub-Saharan Africa,16600414.0,3523.513428,46.313,53.687
+SEN,Senegal,2019,Urban,98.2,89.5,42.0,Low income,Sub-Saharan Africa,17130283.0,3625.32251,45.77,54.23
+SEN,Senegal,2019,Rural,86.5,49.4,42.0,Low income,Sub-Saharan Africa,17130283.0,3625.32251,45.77,54.23
+SEN,Senegal,2020,Urban,98.4,89.5,39.6,Low income,Sub-Saharan Africa,17679998.0,3625.32251,45.225,54.775
+SEN,Senegal,2020,Rural,86.7,50.1,39.6,Low income,Sub-Saharan Africa,17679998.0,3625.32251,45.225,54.775
+SEN,Senegal,2021,Urban,98.4,89.5,37.5,Low income,Sub-Saharan Africa,18249998.0,3815.155762,44.68,55.32
+SEN,Senegal,2021,Rural,86.7,50.3,37.5,Low income,Sub-Saharan Africa,18249998.0,3815.155762,44.68,55.32
+SEN,Senegal,2022,Urban,98.4,89.7,0,Low income,Sub-Saharan Africa,18839998.0,3882.880127,44.134,55.866
+SEN,Senegal,2022,Rural,86.8,50.7,0,Low income,Sub-Saharan Africa,18839998.0,3882.880127,44.134,55.866
+TZA,Tanzania,2000,Urban,82.7,27.1,122.9,Low income,Sub-Saharan Africa,33503525.0,1572.535889,72.973,27.027
+TZA,Tanzania,2000,Rural,35.2,8.0,122.9,Low income,Sub-Saharan Africa,33503525.0,1572.535889,72.973,27.027
+TZA,Tanzania,2001,Urban,83.3,28.1,117.8,Low income,Sub-Saharan Africa,34336025.0,1633.992676,72.56,27.44
+TZA,Tanzania,2001,Rural,36.9,8.7,117.8,Low income,Sub-Saharan Africa,34336025.0,1633.992676,72.56,27.44
+TZA,Tanzania,2002,Urban,83.9,29.1,112.7,Low income,Sub-Saharan Africa,35189397.0,1709.613037,72.146,27.854
+TZA,Tanzania,2002,Rural,38.6,9.4,112.7,Low income,Sub-Saharan Africa,35189397.0,1709.613037,72.146,27.854
+TZA,Tanzania,2003,Urban,84.5,30.1,107.5,Low income,Sub-Saharan Africa,36063688.0,1782.910156,71.73,28.27
+TZA,Tanzania,2003,Rural,40.3,10.1,107.5,Low income,Sub-Saharan Africa,36063688.0,1782.910156,71.73,28.27
+TZA,Tanzania,2004,Urban,85.1,31.1,102.3,Low income,Sub-Saharan Africa,36958932.0,1881.814209,71.312,28.688
+TZA,Tanzania,2004,Rural,42.0,10.8,102.3,Low income,Sub-Saharan Africa,36958932.0,1881.814209,71.312,28.688
+TZA,Tanzania,2005,Urban,85.7,32.1,97.1,Low income,Sub-Saharan Africa,37875151.0,2027.848267,70.893,29.107
+TZA,Tanzania,2005,Rural,43.7,11.5,97.1,Low income,Sub-Saharan Africa,37875151.0,2027.848267,70.893,29.107
+TZA,Tanzania,2006,Urban,86.4,33.5,91.8,Low income,Sub-Saharan Africa,38812356.0,2156.402588,70.472,29.528
+TZA,Tanzania,2006,Rural,45.3,12.4,91.8,Low income,Sub-Saharan Africa,38812356.0,2156.402588,70.472,29.528
+TZA,Tanzania,2007,Urban,87.1,34.9,86.6,Low income,Sub-Saharan Africa,39770591.0,2270.366211,70.05,29.95
+TZA,Tanzania,2007,Rural,46.8,13.3,86.6,Low income,Sub-Saharan Africa,39770591.0,2270.366211,70.05,29.95
+TZA,Tanzania,2008,Urban,87.8,36.3,81.3,Low income,Sub-Saharan Africa,40749896.0,2420.244385,69.626,30.374
+TZA,Tanzania,2008,Rural,48.3,14.2,81.3,Low income,Sub-Saharan Africa,40749896.0,2420.244385,69.626,30.374
+TZA,Tanzania,2009,Urban,88.5,37.2,76.1,Low income,Sub-Saharan Africa,41749871.0,2510.23999,69.201,30.799
+TZA,Tanzania,2009,Rural,49.6,15.1,76.1,Low income,Sub-Saharan Africa,41749871.0,2510.23999,69.201,30.799
+TZA,Tanzania,2010,Urban,89.2,38.1,70.9,Low income,Sub-Saharan Africa,42770284.0,2631.503906,68.775,31.225
+TZA,Tanzania,2010,Rural,41.2,13.8,70.9,Low income,Sub-Saharan Africa,42770284.0,2631.503906,68.775,31.225
+TZA,Tanzania,2011,Urban,88.8,40.7,65.9,Low income,Sub-Saharan Africa,43810793.0,2744.103027,68.348,31.652
+TZA,Tanzania,2011,Rural,43.7,15.6,65.9,Low income,Sub-Saharan Africa,43810793.0,2744.103027,68.348,31.652
+TZA,Tanzania,2012,Urban,88.4,43.3,61.0,Low income,Sub-Saharan Africa,44871034.0,2824.368652,67.919,32.081
+TZA,Tanzania,2012,Rural,46.2,17.4,61.0,Low income,Sub-Saharan Africa,44871034.0,2824.368652,67.919,32.081
+TZA,Tanzania,2013,Urban,88.0,45.9,56.3,Low income,Sub-Saharan Africa,45950669.0,2949.199707,67.489,32.511
+TZA,Tanzania,2013,Rural,48.7,19.2,56.3,Low income,Sub-Saharan Africa,45950669.0,2949.199707,67.489,32.511
+TZA,Tanzania,2014,Urban,87.6,48.5,51.9,Low income,Sub-Saharan Africa,47049443.0,3060.757813,67.058,32.942
+TZA,Tanzania,2014,Rural,51.2,21.0,51.9,Low income,Sub-Saharan Africa,47049443.0,3060.757813,67.058,32.942
+TZA,Tanzania,2015,Urban,87.2,51.1,47.8,Low income,Sub-Saharan Africa,48167156.0,3108.904297,66.626,33.374
+TZA,Tanzania,2015,Rural,53.7,22.8,47.8,Low income,Sub-Saharan Africa,48167156.0,3108.904297,66.626,33.374
+TZA,Tanzania,2016,Urban,87.7,52.4,44.0,Low income,Sub-Saharan Africa,49303723.0,3239.522217,66.192,33.808
+TZA,Tanzania,2016,Rural,55.3,24.0,44.0,Low income,Sub-Saharan Africa,49303723.0,3239.522217,66.192,33.808
+TZA,Tanzania,2017,Urban,88.2,53.7,41.9,Low income,Sub-Saharan Africa,50459021.0,3373.25708,65.757,34.243
+TZA,Tanzania,2017,Rural,56.9,25.2,41.9,Low income,Sub-Saharan Africa,50459021.0,3373.25708,65.757,34.243
+TZA,Tanzania,2018,Urban,88.7,55.0,40.1,Low income,Sub-Saharan Africa,51632924.0,3523.513428,65.321,34.679
+TZA,Tanzania,2018,Rural,58.5,26.4,40.1,Low income,Sub-Saharan Africa,51632924.0,3523.513428,65.321,34.679
+TZA,Tanzania,2019,Urban,89.2,56.3,38.5,Low income,Sub-Saharan Africa,52825471.0,3685.241455,64.884,35.116
+TZA,Tanzania,2019,Rural,60.1,27.6,38.5,Low income,Sub-Saharan Africa,52825471.0,3685.241455,64.884,35.116
+TZA,Tanzania,2020,Urban,90.8,56.5,37.1,Low income,Sub-Saharan Africa,54036573.0,3730.066406,64.446,35.554
+TZA,Tanzania,2020,Rural,61.2,28.4,37.1,Low income,Sub-Saharan Africa,54036573.0,3730.066406,64.446,35.554
+TZA,Tanzania,2021,Urban,91.5,56.6,35.8,Low income,Sub-Saharan Africa,55266155.0,3852.148926,64.006,35.994
+TZA,Tanzania,2021,Rural,61.5,29.3,35.8,Low income,Sub-Saharan Africa,55266155.0,3852.148926,64.006,35.994
+TZA,Tanzania,2022,Urban,92.1,56.6,0,Low income,Sub-Saharan Africa,56514197.0,3995.89502,63.565,36.435
+TZA,Tanzania,2022,Rural,52.1,27.7,0,Low income,Sub-Saharan Africa,56514197.0,3995.89502,63.565,36.435
+UGA,Uganda,2000,Urban,92.3,35.1,140.4,Low income,Sub-Saharan Africa,23307994.0,1189.784668,86.974,13.026
+UGA,Uganda,2000,Rural,53.4,14.3,140.4,Low income,Sub-Saharan Africa,23307994.0,1189.784668,86.974,13.026
+UGA,Uganda,2001,Urban,92.2,35.8,134.4,Low income,Sub-Saharan Africa,24036153.0,1226.252934,86.643,13.357
+UGA,Uganda,2001,Rural,55.6,14.8,134.4,Low income,Sub-Saharan Africa,24036153.0,1226.252934,86.643,13.357
+UGA,Uganda,2002,Urban,92.1,36.5,128.4,Low income,Sub-Saharan Africa,24784742.0,1292.030518,86.312,13.688
+UGA,Uganda,2002,Rural,57.8,15.3,128.4,Low income,Sub-Saharan Africa,24784742.0,1292.030518,86.312,13.688
+UGA,Uganda,2003,Urban,92.0,37.2,122.5,Low income,Sub-Saharan Africa,25553531.0,1324.786987,85.98,14.02
+UGA,Uganda,2003,Rural,60.0,15.8,122.5,Low income,Sub-Saharan Africa,25553531.0,1324.786987,85.98,14.02
+UGA,Uganda,2004,Urban,91.9,37.9,116.7,Low income,Sub-Saharan Africa,26342898.0,1413.835815,85.648,14.352
+UGA,Uganda,2004,Rural,62.2,16.3,116.7,Low income,Sub-Saharan Africa,26342898.0,1413.835815,85.648,14.352
+UGA,Uganda,2005,Urban,91.8,38.6,111.0,Low income,Sub-Saharan Africa,27153106.0,1484.953491,85.316,14.684
+UGA,Uganda,2005,Rural,64.4,16.8,111.0,Low income,Sub-Saharan Africa,27153106.0,1484.953491,85.316,14.684
+UGA,Uganda,2006,Urban,92.0,39.4,105.4,Low income,Sub-Saharan Africa,27984439.0,1633.992676,84.983,15.017
+UGA,Uganda,2006,Rural,66.2,17.1,105.4,Low income,Sub-Saharan Africa,27984439.0,1633.992676,84.983,15.017
+UGA,Uganda,2007,Urban,92.2,40.2,99.9,Low income,Sub-Saharan Africa,28837130.0,1746.544556,84.65,15.35
+UGA,Uganda,2007,Rural,67.9,17.4,99.9,Low income,Sub-Saharan Africa,28837130.0,1746.544556,84.65,15.35
+UGA,Uganda,2008,Urban,92.4,41.0,94.5,Low income,Sub-Saharan Africa,29711467.0,1881.814209,84.316,15.684
+UGA,Uganda,2008,Rural,69.6,17.5,94.5,Low income,Sub-Saharan Africa,29711467.0,1881.814209,84.316,15.684
+UGA,Uganda,2009,Urban,92.6,41.6,89.2,Low income,Sub-Saharan Africa,30607739.0,1986.827759,83.982,16.018
+UGA,Uganda,2009,Rural,70.6,17.6,89.2,Low income,Sub-Saharan Africa,30607739.0,1986.827759,83.982,16.018
+UGA,Uganda,2010,Urban,92.7,42.1,84.0,Low income,Sub-Saharan Africa,31526217.0,2068.265137,83.648,16.352
+UGA,Uganda,2010,Rural,71.4,17.6,84.0,Low income,Sub-Saharan Africa,31526217.0,2068.265137,83.648,16.352
+UGA,Uganda,2011,Urban,92.4,43.1,78.9,Low income,Sub-Saharan Africa,32467139.0,2123.006104,83.313,16.687
+UGA,Uganda,2011,Rural,72.3,18.4,78.9,Low income,Sub-Saharan Africa,32467139.0,2123.006104,83.313,16.687
+UGA,Uganda,2012,Urban,92.1,44.1,74.0,Low income,Sub-Saharan Africa,33430737.0,2156.402588,82.978,17.022
+UGA,Uganda,2012,Rural,73.2,19.2,74.0,Low income,Sub-Saharan Africa,33430737.0,2156.402588,82.978,17.022
+UGA,Uganda,2013,Urban,91.8,45.1,69.2,Low income,Sub-Saharan Africa,34417242.0,2207.135498,82.642,17.358
+UGA,Uganda,2013,Rural,74.1,20.0,69.2,Low income,Sub-Saharan Africa,34417242.0,2207.135498,82.642,17.358
+UGA,Uganda,2014,Urban,91.5,46.1,64.6,Low income,Sub-Saharan Africa,35426803.0,2270.366211,82.306,17.694
+UGA,Uganda,2014,Rural,75.0,20.8,64.6,Low income,Sub-Saharan Africa,35426803.0,2270.366211,82.306,17.694
+UGA,Uganda,2015,Urban,91.2,47.1,60.3,Low income,Sub-Saharan Africa,36459526.0,2308.283936,81.969,18.031
+UGA,Uganda,2015,Rural,75.9,21.6,60.3,Low income,Sub-Saharan Africa,36459526.0,2308.283936,81.969,18.031
+UGA,Uganda,2016,Urban,90.8,48.2,56.3,Low income,Sub-Saharan Africa,37515510.0,2343.345947,81.632,18.368
+UGA,Uganda,2016,Rural,75.4,22.6,56.3,Low income,Sub-Saharan Africa,37515510.0,2343.345947,81.632,18.368
+UGA,Uganda,2017,Urban,90.3,49.3,52.6,Low income,Sub-Saharan Africa,38594833.0,2362.615234,81.294,18.706
+UGA,Uganda,2017,Rural,74.9,23.6,52.6,Low income,Sub-Saharan Africa,38594833.0,2362.615234,81.294,18.706
+UGA,Uganda,2018,Urban,89.7,50.4,49.2,Low income,Sub-Saharan Africa,39697529.0,2420.244385,80.956,19.044
+UGA,Uganda,2018,Rural,74.4,24.6,49.2,Low income,Sub-Saharan Africa,39697529.0,2420.244385,80.956,19.044
+UGA,Uganda,2019,Urban,89.1,51.5,46.2,Low income,Sub-Saharan Africa,40823617.0,2484.75708,80.617,19.383
+UGA,Uganda,2019,Rural,73.9,25.6,46.2,Low income,Sub-Saharan Africa,40823617.0,2484.75708,80.617,19.383
+UGA,Uganda,2020,Urban,89.1,52.8,43.5,Low income,Sub-Saharan Africa,42973121.0,2510.23999,80.278,19.722
+UGA,Uganda,2020,Rural,73.1,26.8,43.5,Low income,Sub-Saharan Africa,42973121.0,2510.23999,80.278,19.722
+UGA,Uganda,2021,Urban,89.2,53.6,41.1,Low income,Sub-Saharan Africa,45145899.0,2587.22998,79.938,20.062
+UGA,Uganda,2021,Rural,71.4,28.6,41.1,Low income,Sub-Saharan Africa,45145899.0,2587.22998,79.938,20.062
+UGA,Uganda,2022,Urban,89.3,54.4,0,Low income,Sub-Saharan Africa,47341772.0,2679.539795,79.598,20.402
+UGA,Uganda,2022,Rural,69.7,29.0,0,Low income,Sub-Saharan Africa,47341772.0,2679.539795,79.598,20.402
+VNM,Vietnam,2000,Urban,93.3,82.2,29.4,Lower-middle income,East Asia & Pacific,79910412.0,3523.513428,74.721,25.279
+VNM,Vietnam,2000,Rural,66.6,37.0,29.4,Lower-middle income,East Asia & Pacific,79910412.0,3523.513428,74.721,25.279
+VNM,Vietnam,2001,Urban,94.8,84.1,28.2,Lower-middle income,East Asia & Pacific,80798263.0,3685.241455,74.223,25.777
+VNM,Vietnam,2001,Rural,68.9,41.3,28.2,Lower-middle income,East Asia & Pacific,80798263.0,3685.241455,74.223,25.777
+VNM,Vietnam,2002,Urban,96.3,86.0,27.1,Lower-middle income,East Asia & Pacific,81691358.0,3882.880127,73.725,26.275
+VNM,Vietnam,2002,Rural,71.2,45.6,27.1,Lower-middle income,East Asia & Pacific,81691358.0,3882.880127,73.725,26.275
+VNM,Vietnam,2003,Urban,97.8,87.9,26.0,Lower-middle income,East Asia & Pacific,82587702.0,4168.04541,73.226,26.774
+VNM,Vietnam,2003,Rural,73.5,49.9,26.0,Lower-middle income,East Asia & Pacific,82587702.0,4168.04541,73.226,26.774
+VNM,Vietnam,2004,Urban,99.3,89.8,24.9,Lower-middle income,East Asia & Pacific,83487051.0,4460.038086,72.727,27.273
+VNM,Vietnam,2004,Rural,75.8,54.2,24.9,Lower-middle income,East Asia & Pacific,83487051.0,4460.038086,72.727,27.273
+VNM,Vietnam,2005,Urban,100.8,91.7,23.9,Lower-middle income,East Asia & Pacific,84389025.0,4771.026367,72.227,27.773
+VNM,Vietnam,2005,Rural,78.1,58.5,23.9,Lower-middle income,East Asia & Pacific,84389025.0,4771.026367,72.227,27.773
+VNM,Vietnam,2006,Urban,102.7,92.8,22.9,Lower-middle income,East Asia & Pacific,85293233.0,5080.413574,71.726,28.274
+VNM,Vietnam,2006,Rural,80.7,61.7,22.9,Lower-middle income,East Asia & Pacific,85293233.0,5080.413574,71.726,28.274
+VNM,Vietnam,2007,Urban,104.6,93.9,21.9,Lower-middle income,East Asia & Pacific,86200021.0,5399.799805,71.225,28.775
+VNM,Vietnam,2007,Rural,83.3,64.9,21.9,Lower-middle income,East Asia & Pacific,86200021.0,5399.799805,71.225,28.775
+VNM,Vietnam,2008,Urban,106.5,95.0,21.0,Lower-middle income,East Asia & Pacific,87109867.0,5648.133301,70.723,29.277
+VNM,Vietnam,2008,Rural,85.9,68.1,21.0,Lower-middle income,East Asia & Pacific,87109867.0,5648.133301,70.723,29.277
+VNM,Vietnam,2009,Urban,108.4,96.1,20.1,Lower-middle income,East Asia & Pacific,88022941.0,5903.075684,70.22,29.78
+VNM,Vietnam,2009,Rural,88.5,71.3,20.1,Lower-middle income,East Asia & Pacific,88022941.0,5903.075684,70.22,29.78
+VNM,Vietnam,2010,Urban,97.9,92.8,19.2,Lower-middle income,East Asia & Pacific,88939213.0,6210.366211,69.717,30.283
+VNM,Vietnam,2010,Rural,89.5,68.0,19.2,Lower-middle income,East Asia & Pacific,88939213.0,6210.366211,69.717,30.283
+VNM,Vietnam,2011,Urban,97.9,93.8,18.4,Lower-middle income,East Asia & Pacific,89858683.0,6525.845215,69.212,30.788
+VNM,Vietnam,2011,Rural,90.7,71.1,18.4,Lower-middle income,East Asia & Pacific,89858683.0,6525.845215,69.212,30.788
+VNM,Vietnam,2012,Urban,97.9,94.8,17.7,Lower-middle income,East Asia & Pacific,90781349.0,6796.657227,68.707,31.293
+VNM,Vietnam,2012,Rural,91.9,74.2,17.7,Lower-middle income,East Asia & Pacific,90781349.0,6796.657227,68.707,31.293
+VNM,Vietnam,2013,Urban,97.9,95.8,17.0,Lower-middle income,East Asia & Pacific,91707147.0,7057.279785,68.201,31.799
+VNM,Vietnam,2013,Rural,93.1,77.3,17.0,Lower-middle income,East Asia & Pacific,91707147.0,7057.279785,68.201,31.799
+VNM,Vietnam,2014,Urban,97.9,96.8,16.4,Lower-middle income,East Asia & Pacific,92635956.0,7380.057129,67.694,32.306
+VNM,Vietnam,2014,Rural,94.3,80.4,16.4,Lower-middle income,East Asia & Pacific,92635956.0,7380.057129,67.694,32.306
+VNM,Vietnam,2015,Urban,97.9,97.8,15.8,Lower-middle income,East Asia & Pacific,93567540.0,7813.25,67.186,32.814
+VNM,Vietnam,2015,Rural,95.5,83.5,15.8,Lower-middle income,East Asia & Pacific,93567540.0,7813.25,67.186,32.814
+VNM,Vietnam,2016,Urban,97.9,98.3,15.2,Lower-middle income,East Asia & Pacific,94499878.0,8197.801758,66.678,33.322
+VNM,Vietnam,2016,Rural,95.9,85.2,15.2,Lower-middle income,East Asia & Pacific,94499878.0,8197.801758,66.678,33.322
+VNM,Vietnam,2017,Urban,97.9,98.8,14.7,Lower-middle income,East Asia & Pacific,95431969.0,8632.441406,66.169,33.831
+VNM,Vietnam,2017,Rural,96.3,86.9,14.7,Lower-middle income,East Asia & Pacific,95431969.0,8632.441406,66.169,33.831
+VNM,Vietnam,2018,Urban,97.9,99.3,14.3,Lower-middle income,East Asia & Pacific,96362846.0,9159.263672,65.659,34.341
+VNM,Vietnam,2018,Rural,96.7,88.6,14.3,Lower-middle income,East Asia & Pacific,96362846.0,9159.263672,65.659,34.341
+VNM,Vietnam,2019,Urban,97.9,99.8,13.8,Lower-middle income,East Asia & Pacific,97291515.0,9720.016602,65.148,34.852
+VNM,Vietnam,2019,Rural,97.1,90.3,13.8,Lower-middle income,East Asia & Pacific,97291515.0,9720.016602,65.148,34.852
+VNM,Vietnam,2020,Urban,98.3,98.4,13.4,Lower-middle income,East Asia & Pacific,98216972.0,9827.876953,64.637,35.363
+VNM,Vietnam,2020,Rural,96.5,91.2,13.4,Lower-middle income,East Asia & Pacific,98216972.0,9827.876953,64.637,35.363
+VNM,Vietnam,2021,Urban,98.4,97.9,13.0,Lower-middle income,East Asia & Pacific,99138137.0,10065.1875,64.125,35.875
+VNM,Vietnam,2021,Rural,96.1,91.3,13.0,Lower-middle income,East Asia & Pacific,99138137.0,10065.1875,64.125,35.875
+VNM,Vietnam,2022,Urban,98.5,97.4,0,Lower-middle income,East Asia & Pacific,100053913.0,10874.96094,63.612,36.388
+VNM,Vietnam,2022,Rural,95.7,91.6,0,Lower-middle income,East Asia & Pacific,100053913.0,10874.96094,63.612,36.388
+YEM,Yemen,2000,Urban,78.5,71.8,108.9,Low income,Middle East & North Africa,17409072.0,0,74.5,25.5
+YEM,Yemen,2000,Rural,42.5,35.0,108.9,Low income,Middle East & North Africa,17409072.0,0,74.5,25.5
+YEM,Yemen,2001,Urban,79.7,72.5,105.7,Low income,Middle East & North Africa,17918373.0,0,73.83,26.17
+YEM,Yemen,2001,Rural,44.4,36.7,105.7,Low income,Middle East & North Africa,17918373.0,0,73.83,26.17
+YEM,Yemen,2002,Urban,80.9,73.2,102.6,Low income,Middle East & North Africa,18443886.0,0,73.16,26.84
+YEM,Yemen,2002,Rural,46.3,38.4,102.6,Low income,Middle East & North Africa,18443886.0,0,73.16,26.84
+YEM,Yemen,2003,Urban,82.1,73.9,99.5,Low income,Middle East & North Africa,18985000.0,0,72.489,27.511
+YEM,Yemen,2003,Rural,48.2,40.1,99.5,Low income,Middle East & North Africa,18985000.0,0,72.489,27.511
+YEM,Yemen,2004,Urban,83.3,74.6,96.5,Low income,Middle East & North Africa,19540000.0,0,71.819,28.181
+YEM,Yemen,2004,Rural,50.1,41.8,96.5,Low income,Middle East & North Africa,19540000.0,0,71.819,28.181
+YEM,Yemen,2005,Urban,84.5,75.3,93.5,Low income,Middle East & North Africa,20107414.0,0,71.148,28.852
+YEM,Yemen,2005,Rural,52.0,43.5,93.5,Low income,Middle East & North Africa,20107414.0,0,71.148,28.852
+YEM,Yemen,2006,Urban,85.8,75.8,90.6,Low income,Middle East & North Africa,20687646.0,0,70.477,29.523
+YEM,Yemen,2006,Rural,53.8,45.0,90.6,Low income,Middle East & North Africa,20687646.0,0,70.477,29.523
+YEM,Yemen,2007,Urban,87.1,76.3,87.7,Low income,Middle East & North Africa,21282516.0,0,69.805,30.195
+YEM,Yemen,2007,Rural,55.6,46.5,87.7,Low income,Middle East & North Africa,21282516.0,0,69.805,30.195
+YEM,Yemen,2008,Urban,88.4,76.8,84.9,Low income,Middle East & North Africa,21892146.0,0,69.133,30.867
+YEM,Yemen,2008,Rural,57.4,48.0,84.9,Low income,Middle East & North Africa,21892146.0,0,69.133,30.867
+YEM,Yemen,2009,Urban,89.7,77.2,82.1,Low income,Middle East & North Africa,22516460.0,0,68.46,31.54
+YEM,Yemen,2009,Rural,58.2,48.4,82.1,Low income,Middle East & North Africa,22516460.0,0,68.46,31.54
+YEM,Yemen,2010,Urban,85.9,77.6,79.4,Low income,Middle East & North Africa,23154811.0,0,67.787,32.213
+YEM,Yemen,2010,Rural,55.6,46.9,79.4,Low income,Middle East & North Africa,23154811.0,0,67.787,32.213
+YEM,Yemen,2011,Urban,86.7,78.0,76.8,Low income,Middle East & North Africa,23807231.0,0,67.113,32.887
+YEM,Yemen,2011,Rural,57.7,48.4,76.8,Low income,Middle East & North Africa,23807231.0,0,67.113,32.887
+YEM,Yemen,2012,Urban,87.5,78.4,74.2,Low income,Middle East & North Africa,24473178.0,0,66.438,33.562
+YEM,Yemen,2012,Rural,59.8,49.9,74.2,Low income,Middle East & North Africa,24473178.0,0,66.438,33.562
+YEM,Yemen,2013,Urban,88.3,78.8,71.7,Low income,Middle East & North Africa,25147137.0,0,65.763,34.237
+YEM,Yemen,2013,Rural,61.9,51.4,71.7,Low income,Middle East & North Africa,25147137.0,0,65.763,34.237
+YEM,Yemen,2014,Urban,89.1,79.2,69.3,Low income,Middle East & North Africa,25823485.0,0,65.087,34.913
+YEM,Yemen,2014,Rural,64.0,52.9,69.3,Low income,Middle East & North Africa,25823485.0,0,65.087,34.913
+YEM,Yemen,2015,Urban,89.9,79.6,67.0,Low income,Middle East & North Africa,26497889.0,0,64.41,35.59
+YEM,Yemen,2015,Rural,66.1,54.4,67.0,Low income,Middle East & North Africa,26497889.0,0,64.41,35.59
+YEM,Yemen,2016,Urban,90.7,79.6,64.8,Low income,Middle East & North Africa,27169239.0,0,63.733,36.267
+YEM,Yemen,2016,Rural,66.7,55.0,64.8,Low income,Middle East & North Africa,27169239.0,0,63.733,36.267
+YEM,Yemen,2017,Urban,91.5,79.6,62.7,Low income,Middle East & North Africa,27834819.0,0,63.055,36.945
+YEM,Yemen,2017,Rural,67.3,55.6,62.7,Low income,Middle East & North Africa,27834819.0,0,63.055,36.945
+YEM,Yemen,2018,Urban,92.3,79.6,60.7,Low income,Middle East & North Africa,28498687.0,0,62.376,37.624
+YEM,Yemen,2018,Rural,67.9,56.2,60.7,Low income,Middle East & North Africa,28498687.0,0,62.376,37.624
+YEM,Yemen,2019,Urban,93.1,79.6,58.8,Low income,Middle East & North Africa,29161922.0,0,61.696,38.304
+YEM,Yemen,2019,Rural,68.5,56.8,58.8,Low income,Middle East & North Africa,29161922.0,0,61.696,38.304
+YEM,Yemen,2020,Urban,93.0,79.8,57.1,Low income,Middle East & North Africa,29825968.0,0,61.016,38.984
+YEM,Yemen,2020,Rural,68.3,56.7,57.1,Low income,Middle East & North Africa,29825968.0,0,61.016,38.984
+YEM,Yemen,2021,Urban,92.9,80.0,55.4,Low income,Middle East & North Africa,30490639.0,0,60.335,39.665
+YEM,Yemen,2021,Rural,68.1,56.6,55.4,Low income,Middle East & North Africa,30490639.0,0,60.335,39.665
+YEM,Yemen,2022,Urban,92.9,80.1,0,Low income,Middle East & North Africa,31154867.0,0,59.653,40.347
+YEM,Yemen,2022,Rural,67.9,56.4,0,Low income,Middle East & North Africa,31154867.0,0,59.653,40.347
+ZMB,Zambia,2000,Urban,83.9,46.7,156.9,Low income,Sub-Saharan Africa,10415944.0,2611.378906,64.6,35.4
+ZMB,Zambia,2000,Rural,36.5,14.9,156.9,Low income,Sub-Saharan Africa,10415944.0,2611.378906,64.6,35.4
+ZMB,Zambia,2001,Urban,84.4,47.2,152.8,Low income,Sub-Saharan Africa,10735798.0,2706.772461,64.088,35.912
+ZMB,Zambia,2001,Rural,38.4,16.1,152.8,Low income,Sub-Saharan Africa,10735798.0,2706.772461,64.088,35.912
+ZMB,Zambia,2002,Urban,84.9,47.7,148.6,Low income,Sub-Saharan Africa,11064976.0,2744.103027,63.575,36.425
+ZMB,Zambia,2002,Rural,40.3,17.3,148.6,Low income,Sub-Saharan Africa,11064976.0,2744.103027,63.575,36.425
+ZMB,Zambia,2003,Urban,85.4,48.2,144.3,Low income,Sub-Saharan Africa,11403666.0,2864.846191,63.061,36.939
+ZMB,Zambia,2003,Rural,42.2,18.5,144.3,Low income,Sub-Saharan Africa,11403666.0,2864.846191,63.061,36.939
+ZMB,Zambia,2004,Urban,85.9,48.7,139.8,Low income,Sub-Saharan Africa,11752945.0,3035.772705,62.546,37.454
+ZMB,Zambia,2004,Rural,44.1,19.7,139.8,Low income,Sub-Saharan Africa,11752945.0,3035.772705,62.546,37.454
+ZMB,Zambia,2005,Urban,86.4,49.2,135.2,Low income,Sub-Saharan Africa,12113645.0,3177.301514,62.03,37.97
+ZMB,Zambia,2005,Rural,46.0,20.9,135.2,Low income,Sub-Saharan Africa,12113645.0,3177.301514,62.03,37.97
+ZMB,Zambia,2006,Urban,86.5,49.4,130.4,Low income,Sub-Saharan Africa,12486604.0,3373.25708,61.513,38.487
+ZMB,Zambia,2006,Rural,47.5,21.6,130.4,Low income,Sub-Saharan Africa,12486604.0,3373.25708,61.513,38.487
+ZMB,Zambia,2007,Urban,86.6,49.6,125.4,Low income,Sub-Saharan Africa,12872659.0,3468.101563,60.995,39.005
+ZMB,Zambia,2007,Rural,49.0,22.3,125.4,Low income,Sub-Saharan Africa,12872659.0,3468.101563,60.995,39.005
+ZMB,Zambia,2008,Urban,86.6,49.8,120.3,Low income,Sub-Saharan Africa,13272659.0,3625.32251,60.476,39.524
+ZMB,Zambia,2008,Rural,50.3,22.8,120.3,Low income,Sub-Saharan Africa,13272659.0,3625.32251,60.476,39.524
+ZMB,Zambia,2009,Urban,86.4,50.0,115.0,Low income,Sub-Saharan Africa,13687357.0,3815.155762,59.956,40.044
+ZMB,Zambia,2009,Rural,51.3,23.0,115.0,Low income,Sub-Saharan Africa,13687357.0,3815.155762,59.956,40.044
+ZMB,Zambia,2010,Urban,86.1,50.1,109.5,Low income,Sub-Saharan Africa,14117366.0,3995.89502,59.435,40.565
+ZMB,Zambia,2010,Rural,41.7,19.3,109.5,Low income,Sub-Saharan Africa,14117366.0,3995.89502,59.435,40.565
+ZMB,Zambia,2011,Urban,86.6,50.7,104.0,Low income,Sub-Saharan Africa,14562509.0,4025.201416,58.913,41.087
+ZMB,Zambia,2011,Rural,44.1,20.6,104.0,Low income,Sub-Saharan Africa,14562509.0,4025.201416,58.913,41.087
+ZMB,Zambia,2012,Urban,87.1,51.3,98.4,Low income,Sub-Saharan Africa,15023315.0,4168.04541,58.39,41.61
+ZMB,Zambia,2012,Rural,46.5,21.9,98.4,Low income,Sub-Saharan Africa,15023315.0,4168.04541,58.39,41.61
+ZMB,Zambia,2013,Urban,87.6,51.9,92.8,Low income,Sub-Saharan Africa,15499596.0,4206.591309,57.866,42.134
+ZMB,Zambia,2013,Rural,48.9,23.2,92.8,Low income,Sub-Saharan Africa,15499596.0,4206.591309,57.866,42.134
+ZMB,Zambia,2014,Urban,88.1,52.5,87.3,Low income,Sub-Saharan Africa,15991041.0,4293.414063,57.341,42.659
+ZMB,Zambia,2014,Rural,51.3,24.5,87.3,Low income,Sub-Saharan Africa,15991041.0,4293.414063,57.341,42.659
+ZMB,Zambia,2015,Urban,88.6,53.1,81.9,Low income,Sub-Saharan Africa,16497184.0,4293.414063,56.815,43.185
+ZMB,Zambia,2015,Rural,53.7,25.8,81.9,Low income,Sub-Saharan Africa,16497184.0,4293.414063,56.815,43.185
+ZMB,Zambia,2016,Urban,88.9,53.5,76.6,Low income,Sub-Saharan Africa,17017267.0,4351.488281,56.288,43.712
+ZMB,Zambia,2016,Rural,55.4,26.6,76.6,Low income,Sub-Saharan Africa,17017267.0,4351.488281,56.288,43.712
+ZMB,Zambia,2017,Urban,89.2,53.9,71.5,Low income,Sub-Saharan Africa,17550741.0,4424.238281,55.76,44.24
+ZMB,Zambia,2017,Rural,57.1,27.4,71.5,Low income,Sub-Saharan Africa,17550741.0,4424.238281,55.76,44.24
+ZMB,Zambia,2018,Urban,89.5,54.3,66.7,Low income,Sub-Saharan Africa,18097053.0,4557.485352,55.232,44.768
+ZMB,Zambia,2018,Rural,58.8,28.2,66.7,Low income,Sub-Saharan Africa,18097053.0,4557.485352,55.232,44.768
+ZMB,Zambia,2019,Urban,89.8,54.7,62.2,Low income,Sub-Saharan Africa,18655767.0,4460.038086,54.702,45.298
+ZMB,Zambia,2019,Rural,60.5,29.0,62.2,Low income,Sub-Saharan Africa,18655767.0,4460.038086,54.702,45.298
+ZMB,Zambia,2020,Urban,90.1,54.2,58.0,Low income,Sub-Saharan Africa,19226509.0,4293.414063,54.172,45.828
+ZMB,Zambia,2020,Rural,62.1,28.5,58.0,Low income,Sub-Saharan Africa,19226509.0,4293.414063,54.172,45.828
+ZMB,Zambia,2021,Urban,90.2,53.9,54.2,Low income,Sub-Saharan Africa,19808381.0,4424.238281,53.64,46.36
+ZMB,Zambia,2021,Rural,63.3,28.2,54.2,Low income,Sub-Saharan Africa,19808381.0,4424.238281,53.64,46.36
+ZMB,Zambia,2022,Urban,85.5,53.5,0,Low income,Sub-Saharan Africa,20399997.0,4598.834473,53.108,46.892
+ZMB,Zambia,2022,Rural,59.3,25.4,0,Low income,Sub-Saharan Africa,20399997.0,4598.834473,53.108,46.892
+ZWE,Zimbabwe,2000,Urban,98.4,50.6,100.2,Low income,Sub-Saharan Africa,11881477.0,2771.022705,67.14,32.86
+ZWE,Zimbabwe,2000,Rural,73.2,32.3,100.2,Low income,Sub-Saharan Africa,11881477.0,2771.022705,67.14,32.86
+ZWE,Zimbabwe,2001,Urban,98.0,50.5,98.2,Low income,Sub-Saharan Africa,11923929.0,2824.368652,66.822,33.178
+ZWE,Zimbabwe,2001,Rural,72.4,32.6,98.2,Low income,Sub-Saharan Africa,11923929.0,2824.368652,66.822,33.178
+ZWE,Zimbabwe,2002,Urban,97.6,50.4,95.9,Low income,Sub-Saharan Africa,11954290.0,2587.22998,66.503,33.497
+ZWE,Zimbabwe,2002,Rural,71.6,32.9,95.9,Low income,Sub-Saharan Africa,11954290.0,2587.22998,66.503,33.497
+ZWE,Zimbabwe,2003,Urban,97.2,50.3,93.4,Low income,Sub-Saharan Africa,11982224.0,2184.159668,66.184,33.816
+ZWE,Zimbabwe,2003,Rural,70.8,33.2,93.4,Low income,Sub-Saharan Africa,11982224.0,2184.159668,66.184,33.816
+ZWE,Zimbabwe,2004,Urban,96.8,50.2,90.8,Low income,Sub-Saharan Africa,12019912.0,2068.265137,65.864,34.136
+ZWE,Zimbabwe,2004,Rural,70.0,33.5,90.8,Low income,Sub-Saharan Africa,12019912.0,2068.265137,65.864,34.136
+ZWE,Zimbabwe,2005,Urban,96.4,50.1,88.2,Low income,Sub-Saharan Africa,12076699.0,1986.827759,65.544,34.456
+ZWE,Zimbabwe,2005,Rural,69.2,33.8,88.2,Low income,Sub-Saharan Africa,12076699.0,1986.827759,65.544,34.456
+ZWE,Zimbabwe,2006,Urban,96.3,50.1,85.5,Low income,Sub-Saharan Africa,12155491.0,1920.489746,65.223,34.777
+ZWE,Zimbabwe,2006,Rural,68.6,33.8,85.5,Low income,Sub-Saharan Africa,12155491.0,1920.489746,65.223,34.777
+ZWE,Zimbabwe,2007,Urban,96.2,50.0,82.9,Low income,Sub-Saharan Africa,12255922.0,1852.14917,64.902,35.098
+ZWE,Zimbabwe,2007,Rural,68.0,33.9,82.9,Low income,Sub-Saharan Africa,12255922.0,1852.14917,64.902,35.098
+ZWE,Zimbabwe,2008,Urban,96.1,49.9,80.4,Low income,Sub-Saharan Africa,12379549.0,1427.567017,64.58,35.42
+ZWE,Zimbabwe,2008,Rural,67.4,34.0,80.4,Low income,Sub-Saharan Africa,12379549.0,1427.567017,64.58,35.42
+ZWE,Zimbabwe,2009,Urban,96.0,49.9,77.9,Low income,Sub-Saharan Africa,12526968.0,1695.556276,64.258,35.742
+ZWE,Zimbabwe,2009,Rural,67.2,34.1,77.9,Low income,Sub-Saharan Africa,12526968.0,1695.556276,64.258,35.742
+ZWE,Zimbabwe,2010,Urban,97.4,50.0,75.6,Low income,Sub-Saharan Africa,12697723.0,1968.735474,63.935,36.065
+ZWE,Zimbabwe,2010,Rural,67.0,34.1,75.6,Low income,Sub-Saharan Africa,12697723.0,1968.735474,63.935,36.065
+ZWE,Zimbabwe,2011,Urban,97.1,50.1,73.3,Low income,Sub-Saharan Africa,12894316.0,2207.135498,63.612,36.388
+ZWE,Zimbabwe,2011,Rural,66.8,34.3,73.3,Low income,Sub-Saharan Africa,12894316.0,2207.135498,63.612,36.388
+ZWE,Zimbabwe,2012,Urban,96.8,50.2,71.1,Low income,Sub-Saharan Africa,13115131.0,2484.75708,63.288,36.712
+ZWE,Zimbabwe,2012,Rural,66.6,34.5,71.1,Low income,Sub-Saharan Africa,13115131.0,2484.75708,63.288,36.712
+ZWE,Zimbabwe,2013,Urban,96.5,50.3,69.0,Low income,Sub-Saharan Africa,13350356.0,2510.23999,62.964,37.036
+ZWE,Zimbabwe,2013,Rural,66.4,34.7,69.0,Low income,Sub-Saharan Africa,13350356.0,2510.23999,62.964,37.036
+ZWE,Zimbabwe,2014,Urban,96.2,50.4,67.0,Low income,Sub-Saharan Africa,13586681.0,2510.23999,62.639,37.361
+ZWE,Zimbabwe,2014,Rural,66.2,34.9,67.0,Low income,Sub-Saharan Africa,13586681.0,2510.23999,62.639,37.361
+ZWE,Zimbabwe,2015,Urban,95.9,50.5,65.1,Low income,Sub-Saharan Africa,13815000.0,2510.23999,62.314,37.686
+ZWE,Zimbabwe,2015,Rural,66.0,35.1,65.1,Low income,Sub-Saharan Africa,13815000.0,2510.23999,62.314,37.686
+ZWE,Zimbabwe,2016,Urban,95.6,50.8,63.3,Low income,Sub-Saharan Africa,14030331.0,2484.75708,61.988,38.012
+ZWE,Zimbabwe,2016,Rural,65.3,35.4,63.3,Low income,Sub-Saharan Africa,14030331.0,2484.75708,61.988,38.012
+ZWE,Zimbabwe,2017,Urban,95.3,51.1,61.6,Low income,Sub-Saharan Africa,14236595.0,2611.378906,61.662,38.338
+ZWE,Zimbabwe,2017,Rural,64.6,35.7,61.6,Low income,Sub-Saharan Africa,14236595.0,2611.378906,61.662,38.338
+ZWE,Zimbabwe,2018,Urban,95.0,51.4,60.0,Low income,Sub-Saharan Africa,14438802.0,2744.103027,61.335,38.665
+ZWE,Zimbabwe,2018,Rural,63.9,36.0,60.0,Low income,Sub-Saharan Africa,14438802.0,2744.103027,61.335,38.665
+ZWE,Zimbabwe,2019,Urban,94.7,51.7,58.5,Low income,Sub-Saharan Africa,14645468.0,2510.23999,61.008,38.992
+ZWE,Zimbabwe,2019,Rural,63.2,36.3,58.5,Low income,Sub-Saharan Africa,14645468.0,2510.23999,61.008,38.992
+ZWE,Zimbabwe,2020,Urban,95.7,52.2,57.1,Low income,Sub-Saharan Africa,14862924.0,2435.539795,60.68,39.32
+ZWE,Zimbabwe,2020,Rural,61.9,36.5,57.1,Low income,Sub-Saharan Africa,14862924.0,2435.539795,60.68,39.32
+ZWE,Zimbabwe,2021,Urban,96.5,52.5,55.8,Low income,Sub-Saharan Africa,15092171.0,2611.378906,60.352,39.648
+ZWE,Zimbabwe,2021,Rural,61.0,36.6,55.8,Low income,Sub-Saharan Africa,15092171.0,2611.378906,60.352,39.648
+ZWE,Zimbabwe,2022,Urban,97.8,52.7,0,Low income,Sub-Saharan Africa,15333516.0,2679.539795,60.023,39.977
+ZWE,Zimbabwe,2022,Rural,59.8,36.7,0,Low income,Sub-Saharan Africa,15333516.0,2679.539795,60.023,39.977
